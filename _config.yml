@@ -2,9 +2,9 @@ url: http://umictesearch.github.io
 baseurl: ""
 
 # Site settings
-title: UMICTResearch
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: SIG
+email: tdillahu@umich.edu
+description: "Social Innovation Group"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -16,7 +16,7 @@ color:
 people:
 - name: Hailey Patterson
   pic: 1
-  position: Student
+  position: UMSI Student
   social:
     - title: twitter
       url: #
@@ -25,20 +25,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Indu Ghandikota
-  pic: 2
-  position: Student
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
 - name: Jashanjit Kaur
   pic: 3
-  position: Lead Developer
+  position: UMSI Student
   social:
     - title: twitter
       url: #
@@ -49,7 +38,7 @@ people:
 
 - name: Samarth Gulati
   pic: 6
-  position: Lead Designer
+  position: UMSI Student
   social:
     - title: twitter
       url: #
@@ -60,7 +49,40 @@ people:
 
 - name: Jonathan De Heus
   pic: 4
-  position: Lead Designer
+  position: UMSI Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Benjamin Jen
+  pic: 5
+  position: UMSI Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Amy Malone
+  pic: 7
+  position: UMSI Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Tawanna Dillahunt
+  pic: 8
+  position: UMSI Faculty
   social:
     - title: twitter
       url: #

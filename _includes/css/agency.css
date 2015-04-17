@@ -292,11 +292,16 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
+    margin-bottom: 5px;
+}
+
+header .intro-text .intro-lead-in span {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
 }
 
 header .intro-text .intro-heading {
@@ -308,6 +313,7 @@ header .intro-text .intro-heading {
     line-height: 50px;
     background-color: rgba(0,0,0,0.5);
     display: inline-block;
+    padding: 0 10px;
 }
 
 @media(min-width:768px) {
@@ -389,8 +395,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
-    background: rgba({{ site.color.primary | hex_to_rgb | join: ',' }}, .9);
+    background: #e74c3c; /* Fallback when no plugin support */
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -656,6 +661,7 @@ section h3.section-subheading {
     margin: 0 auto;
     border: 7px solid #fff;
     max-width: 225px;
+    max-height: 225px;
 }
 
 .team-member h4 {
@@ -899,4 +905,23 @@ body {
 
 .row-centered {
     text-align:center;
+}
+
+.papers-container {
+    padding: 0;
+    list-style: none;
+}
+
+.paper {
+    margin-bottom: 50px;
+}
+
+.paper .first, .paper .second {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.paper .second {
+    margin-left: 20px;
+    max-width: 485px;
 }
