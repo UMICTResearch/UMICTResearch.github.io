@@ -1,0 +1,77 @@
+# Team names, titles and social links
+- name: Hailey Patterson
+  pic: 1
+  position: UMSI Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Jashanjit Kaur
+  pic: 3
+  position: UMSI Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Samarth Gulati
+  pic: 6
+  position: UMSI Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Jonathan De Heus
+  pic: 4
+  position: UMSI Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Benjamin Jen
+  pic: 5
+  position: UMSI Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Amy Malone
+  pic: 7
+  position: UMSI Student
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Tawanna Dillahunt
+  pic: 8
+  position: UMSI Faculty
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
