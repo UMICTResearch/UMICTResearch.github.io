@@ -1,4 +1,15 @@
 # Team names, titles and social links
+- name: Tawanna Dillahunt
+  pic: 8
+  position: Principal Investigator, Team Lead
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
 - name: Hailey Patterson
   pic: 1
   position: UMSI Student
@@ -34,7 +45,7 @@
 
 - name: Jonathan De Heus
   pic: 4
-  position: UMSI Student
+  position: UMSI Alum
   social:
     - title: twitter
       url: #
@@ -45,7 +56,7 @@
 
 - name: Benjamin Jen
   pic: 5
-  position: UMSI Student
+  position: UMSI Alum
   social:
     - title: twitter
       url: #
@@ -56,18 +67,7 @@
 
 - name: Amy Malone
   pic: 7
-  position: UMSI Student
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Tawanna Dillahunt
-  pic: 8
-  position: UMSI Faculty
+  position: UMSI Alum
   social:
     - title: twitter
       url: #

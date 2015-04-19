@@ -10,7 +10,7 @@
         <div class="row row-centered">
             {% for post in site.categories.present %}
             <div class="col-xs-10 portfolio-item col-centered">
-                <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                <a href="{{ post.url }}" class="portfolio-link" >
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fa fa-plus fa-3x"></i>
@@ -19,8 +19,7 @@
                     <img src="img/projects/{{ post.thumbnail }}" class="img-responsive" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>{{ post.title }}</h4>
-                    <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+                    <h4><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h4>
                     <p class="text-muted">{{ post.subtitle }}</p>
                 </div>
             </div>

@@ -1,15 +1,13 @@
 ---
+layout: project
+permalink: /projects/:title
 title: SES and Search
 subtitle: In general, we are seeking to understand whether there are correlations between socioeconomic status and individual search behavior. Given the personalization of search, we would like to understand whether and how individual search results could be impacted when searching for online-information related to more critical topics like health, education, loans and job opportunities. This research has led us to interesting questions and work, which is described next.
-layout: default
-modal-id: 2
 date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: present
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+categories: present
+description: In general, we are seeking to understand whether there are correlations between socioeconomic status and individual search behavior. Given the personalization of search, we would like to understand whether and how individual search results could be impacted when searching for online-information related to more critical topics like health, education, loans and job opportunities. This research has led us to interesting questions and work, which is described next.
+datafile: project2
 ---
