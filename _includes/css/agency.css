@@ -177,6 +177,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default {
     border-color: transparent;
     background-color: #222;
+    z-index: 3;
 }
 
 .navbar-default .navbar-brand {
@@ -276,14 +277,21 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
-    background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
-    background-position: center center;
-    background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    /*background-attachment: scroll;*/
+    /*background-image: url(../img/header-bg.jpg);*/
+    /*background-position: center center;*/
+    /*background-repeat: none;*/
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*background-size: cover;*/
+    /*-o-background-size: cover;*/
+    position: relative;
+    height: 100vh;
+}
+
+header .container{
+    z-index: 2;
+    position: relative;
 }
 
 header .intro-text {
@@ -300,7 +308,7 @@ header .intro-text .intro-lead-in {
 }
 
 header .intro-text .intro-lead-in span {
-    background-color: rgba(0, 0, 0, 0.5);
+    /*background-color: rgba(0, 0, 0, 0.5);*/
     padding: 10px;
 }
 
@@ -311,14 +319,14 @@ header .intro-text .intro-heading {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
-    background-color: rgba(0,0,0,0.5);
+    /*background-color: rgba(0,0,0,0.5);*/
     display: inline-block;
     padding: 0 10px;
 }
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 200px;
         padding-bottom: 200px;
     }
 
@@ -941,4 +949,54 @@ body {
 .no-image {
     height: 194px;
     width: 150px;
+}
+
+.cb-slideshow,
+.cb-slideshow:after {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: 0;
+}
+
+.cb-slideshow:after {
+    content: '';
+    background: rgba(0,0,0,0.5);
+}
+
+.cb-slideshow li span {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: transparent;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: none;
+    opacity: 0;
+    z-index: 0;
+    animation: imageAnimation 15s linear infinite 0s;
+}
+
+.cb-slideshow li:nth-child(1) span {
+    background-image: url(../img/sliders/slide1.jpg)
+}
+.cb-slideshow li:nth-child(2) span {
+    background-image: url(../img/sliders/slide2.jpg);
+    animation-delay: 5s;
+}
+.cb-slideshow li:nth-child(3) span {
+    background-image: url(../img/sliders/slide3.jpg);
+    animation-delay: 10s;
+}
+
+@keyframes imageAnimation {
+    0% { opacity: 0; animation-timing-function: ease-in; }
+    8% { opacity: 1; animation-timing-function: ease-out; }
+    30% { opacity: 1 }
+    50% { opacity: 0 }
+    100% { opacity: 0 }
 }

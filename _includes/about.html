@@ -13,11 +13,11 @@
                     {% for paper in site.data.papers %}
                     <li class="paper">
                         <div class="first">
-                            {% if paper.pic %}<a href="/papers/base/{{ paper.link }}.pdf"><img class="img-responsive" src="/papers/base/{{ paper.pic }}.jpg" alt=""></a>{% else %}<div class="no-image text-center"></div>{% endif %}
+                            {% if paper.pic %}<a href="/assets/papers/{{ paper.link }}.pdf"><img class="img-responsive" src="/assets/papers/{{ paper.pic }}.jpg" alt=""></a>{% else %}<div class="no-image text-center"></div>{% endif %}
                         </div>
                         <div class="second">
                             <div class="timeline-heading">
-                                <h4>{% if paper.link %}<a class="post-link" href="/papers/base/{{ paper.link }}.pdf">{{ paper.name }}</a>{% else %}{{ paper.name }}{% endif %}</h4>
+                                <h4>{% if paper.link %}<a class="post-link" href="/assets/papers/{{ paper.link }}.pdf">{{ paper.name }}</a>{% else %}{{ paper.name }}{% endif %}</h4>
                                 <h5 class="subheading">{{ paper.authors }}</h5>
                             </div>
                             <div class="timeline-body">
