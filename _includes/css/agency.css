@@ -929,3 +929,16 @@ body {
 .not-front > .container, .not-front footer{
     margin-top: 100px;
 }
+
+.not-front .projects .portfolio-item {
+    box-shadow: none;
+}
+
+.not-front section {
+    padding: 100px 0 0;
+}
+
+.no-image {
+    height: 194px;
+    width: 150px;
+}
