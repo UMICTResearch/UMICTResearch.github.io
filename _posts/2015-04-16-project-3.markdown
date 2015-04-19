@@ -1,9 +1,8 @@
 ---
 layout: project
-permalink: /projects/:title
 title: Environmental Sustainability
 subtitle: Environmental and Social Understanding Energy Use and Power Relationships in Low-Income Communities. Environmental and Social SustainabilityUnderstanding Ways to Reduce Household Energy Consumption by Supporting Dynamic Households and Disconnected Communities. Motivating Environmentally Sustainable Behaviors
-date: 2014-07-18
+date: 2015-04-16
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
