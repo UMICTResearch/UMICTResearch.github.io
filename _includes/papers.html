@@ -3,12 +3,12 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Paper Publications</h2>
+                <h2 class="section-heading">Publications</h2>
                 <!--<h3 class="section-subheading text-muted">In collaboration with faculty and students</h3>-->
             </div>
         </div>
         <div class="row row-centered">
-            <div class="col-xs-8 col-centered">
+            <div class="col-xs-10 col-centered">
                 <ul class="papers-container">
                     {% for paper in site.data.papers %}
                     <li class="paper">
@@ -21,7 +21,9 @@
                                 <h5 class="subheading">{{ paper.authors }}</h5>
                             </div>
                             <div class="timeline-body">
-                                <p class="text-muted">{{ paper.abstract}}</p>
+                                <div class="paper-desc">{{ paper.abstract}}</div>
+                                {% if paper.keywords %}<div class="paper-keywords">Keywords: {{ paper.keywords }}</div>{% endif %}
+                                <div class="paper-links"><a class="post-link" href="/assets/papers/{{ paper.link }}.pdf">PDF</a></div>
                             </div>
                         </div>
                     </li>
