@@ -25,7 +25,7 @@
             </div>
         </div>
         <div class="row row-centered">
-            <div class="col-xs-8 col-centered">
+            <div class="col-xs-10 col-centered">
                 <ul class="papers-container">
                     {% for sub in site.data[namespace] %}
                     <li class="paper">
@@ -38,7 +38,9 @@
                                 <h5 class="subheading">{{ sub.authors }}</h5>
                             </div>
                             <div class="timeline-body">
-                                <p class="text-muted">{{ sub.abstract}}</p>
+                                <div class="paper-desc">{{ sub.abstract}}</div>
+                                {% if sub.keywords %}<div class="paper-keywords">Keywords: {{ sub.keywords }}</div>{% endif %}
+                                <div class="paper-links"><a class="post-link" href="/assets/{{namespace}}/{{ sub.link }}.pdf">PDF</a></div>
                             </div>
                         </div>
                     </li>
