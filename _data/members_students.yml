@@ -1,45 +1,31 @@
 # Team names, titles and social links
-- name: Hailey Patterson
-  pic: 1
-  position: UMSI Student
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
 
-- name: Jashanjit Kaur
-  pic: 3
+#- name: Jashanjit Kaur
+#  pic: 3
+#  position: UMSI Student
+#  type: alum
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+
+- name: Hailey Patterson
+  pic: hailey
   position: UMSI Student
-  type: alum
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      - title: linkedin
+        url: https://www.linkedin.com/in/haileypatterson
 
 - name: Samarth Gulati
-  pic: 6
+  pic: samarth
   position: UMSI Student
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: globe
+      url: http://www.samarthgulati.com
 
 - name: Indulekha Ghandikota
-  pic: indu
+  pic: indulekha
   position: UM Student
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #

@@ -1,13 +1,9 @@
 # Team names, titles and social links
 - name: Tawanna Dillahunt
-  pic: 8
+  pic: tawanna
   position: Principal Investigator, Team Lead
   social:
-    -title: personal website
+    - title: globe
       url: http://www.tawannadillahunt.com
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/pub/tawanna-dillahunt/82/866/a77

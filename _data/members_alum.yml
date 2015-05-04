@@ -1,33 +1,47 @@
 # Team names, titles and social links
+
+#- name: Jonathan De Heus
+#  pic: 4
+#  position: UMSI Alum
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
+
+- name: Jashanjit Kaur
+  pic: jashan
+  position: UMSI Student
+  social:
+      - title: globe
+        url: http://jashank.people.si.umich.edu/index.php
+      - title: linkedin
+        url: https://www.linkedin.com/in/jashanjit
+      - title: twitter
+        url: http://twitter.com/jashan90
+
 - name: Jonathan De Heus
-  pic: 4
+  pic: jonathan
   position: UMSI Alum
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      - title: globe
+        url: http://www.jondeheus.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/jdeheus
+
 
 - name: Benjamin Jen
-  pic: 5
+  pic: benjamin
   position: UM Undergrad
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/pub/benjamin-jen/94/4ba/b87
 
 - name: Amy Malone
-  pic: 7
+  pic: amy
   position: University of Maryland Undergrad
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/pub/amelia-malone/60/826/b25
