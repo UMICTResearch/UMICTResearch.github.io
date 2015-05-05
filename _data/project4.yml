@@ -1,13 +1,18 @@
 # Project Details for Education
 - name: "Democratizing Higher Education: Exploring MOOC Use Among Those Who Cannot Afford a Formal Education"
-  pic: #
+  pic: Dillahunt-IRRODL-final_thumb
   abstract: "This paper presents the results of the analysis of data from six Coursera courses offered by the University of Michigan from fall 2012 through winter 2013. In this analysis learners who self-identified as being unable to afford to pursue a formal education (the target group) were contrasted to other learners (the comparison group) in terms of demographics, motivations, course enrollment, engagement and performance. Learners in the target group were primarily male and over 25 years old. A statistically significant portion of the target group held less than a 4-year college degree than the comparison group. Target learners were also significantly underrepresented in the enrollment of the courses examined here. Although the comparison group had a significantly higher completion rate overall than the target group, the target group had a statistically significant higher rate of completing courses with certificates of distinction. This article provides a discussion of these results and suggests how MOOCs could be adapted to better address the needs of learners who feel financially unable to pursue a more traditional path to a post-secondary education. "
   authors: "Tawanna Dillahunt, Brian (Zengguang) Wang, Stephanie Teasley"
-  link: #
+  mainlink: Dillahunt-IRRODL-final
+  resources:
+    - type: #
+      link: #
  
 - name: "Model Thinking: Demographics and Performance of MOOC Students Unable to Afford a Formal Education"
-  pic: #
+  pic: Dillahunt-WIP2_thumb
   abstract: "Massive Open Online Courses (MOOCs) are seen as an opportunity for individuals to gain access to education, develop new skills to prepare for high-paying jobs, and achieve upward mobility without incurring the increasingly high debt that comes with a university degree. Despite this perception, few studies have examined whether populations with the most to gain do leverage these resources. We analyzed student demographic information from course surveys and performance data of MOOC participation in a single course. We targeted students who stated that they were motivated to take the course because they “cannot afford to pursue a formal education,” and compared them to the group of all other students. Our three key findings are that 1) a higher percentage of non-traditional enrolled students are in this population than the comparison population, 2) in an independent t-test, a statistically significant portion (28%) of this group has less than a 4- year college degree versus 15% of the comparison group, and 3) the completion rate between both groups are relatively equal."
   authors: "Tawanna Dillahunt, Bin Chen, Stephanie Teasley"
-  link: #
-  
+  mainlink: Dillahunt-WIP2
+  resources:
+    - type: #
+      link: #
