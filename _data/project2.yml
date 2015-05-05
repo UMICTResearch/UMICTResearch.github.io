@@ -3,4 +3,7 @@
   pic: SESAndSearchv8-final_thumb
   abstract: "Despite the pervasiveness of search engines, most users know little about the implications of search engine algorithms and are unaware of how they work. People using web search engines assume that search results are unbiased and neutral. Filter bubbles, or personalized results, could lead to polarizing effects across populations, which could create divisions in society. This preliminary work explores whether the filter bubble can be measured and described and is an initial investigation towards the larger goal of identifying how non-search experts might understand how the filter bubble impacts their search results."
   authors: "Dillahunt, T., Brooks, C., Gulati, S. (2015)"
-  link: SESAndSearchv8-final
+  mainlink: SESAndSearchv8-final
+  resources:
+      - type: pdf
+        link: SESAndSearchv8-final

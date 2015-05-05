@@ -30,17 +30,28 @@
                     {% for sub in site.data[namespace] %}
                     <li class="paper">
                         <div class="first">
-                            {% if sub.pic %}<a href="/assets/{{namespace}}/{{ sub.link }}.pdf"><img class="img-responsive" src="/assets/{{namespace}}/{{ sub.pic }}.jpg" alt=""></a>{% else %}<div class="no-image text-center"></div>{% endif %}
+                            {% if sub.pic %}<a href="/assets/{{namespace}}/{{ sub.mainlink }}.pdf" target="_blank"><img class="img-responsive" src="/assets/{{namespace}}/{{ sub.pic }}.jpg" alt=""></a>{% else %}<div class="no-image text-center"></div>{% endif %}
                         </div>
                         <div class="second">
                             <div class="timeline-heading">
-                                <h4>{% if sub.link %}<a class="post-link" href="/assets/{{namespace}}/{{ sub.link }}.pdf">{{ sub.name }}</a>{% else %}{{ sub.name }}{% endif %}</h4>
+                                <h4>{% if sub.mainlink %}<a class="post-link" href="/assets/{{namespace}}/{{ sub.mainlink }}.pdf" target="_blank">{{ sub.name }}</a>{% else %}{{ sub.name }}{% endif %}</h4>
                                 <h5 class="subheading">{{ sub.authors }}</h5>
                             </div>
                             <div class="timeline-body">
                                 <div class="paper-desc">{{ sub.abstract}}</div>
                                 {% if sub.keywords %}<div class="paper-keywords">Keywords: {{ sub.keywords }}</div>{% endif %}
-                                {% if sub.link %}<div class="paper-links"><a class="post-link" href="/assets/{{namespace}}/{{ sub.link }}.pdf">PDF</a></div>{% endif %}
+                                {% if sub.resources %}
+                                <div class="paper-links">
+                                {% for item in sub.resources %}
+                                    {% if item.type == 'pdf' %}
+                                    <a class="post-link" href="/assets/{{namespace}}/{{ item.link }}.pdf" target="_blank">{{item.type}}</a>
+                                    {% elsif item.type %}
+                                    |  <a class="post-link" href="{{item.link}}" target="_blank">{{item.type}}</a>
+                                    {% endif %}
+                                {% endfor %}
+                                </div>
+                                {% endif %}
+
                             </div>
                         </div>
                     </li>
