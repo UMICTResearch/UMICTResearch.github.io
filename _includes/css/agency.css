@@ -743,11 +743,11 @@ body {
     vertical-align: top;
 }
 
-.paper .first {
+.paper .first img {
     border: 1px solid #ddd;
 }
 
-.paper .first:hover {
+.paper .first:hover img {
     border: 1px solid #000;
 }
 
