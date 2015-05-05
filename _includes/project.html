@@ -18,7 +18,7 @@
 
     {% if site.data[namespace] %}
     <div class="container project-subs">
-        <div class="row">
+        <div class="row heading">
             <div class="col-lg-12 text-center">
                 <h4 class="section-heading">Subprojects</h4>
                 <hr>
@@ -40,7 +40,7 @@
                             <div class="timeline-body">
                                 <div class="paper-desc">{{ sub.abstract}}</div>
                                 {% if sub.keywords %}<div class="paper-keywords">Keywords: {{ sub.keywords }}</div>{% endif %}
-                                <div class="paper-links"><a class="post-link" href="/assets/{{namespace}}/{{ sub.link }}.pdf">PDF</a></div>
+                                {% if sub.link %}<div class="paper-links"><a class="post-link" href="/assets/{{namespace}}/{{ sub.link }}.pdf">PDF</a></div>{% endif %}
                             </div>
                         </div>
                     </li>

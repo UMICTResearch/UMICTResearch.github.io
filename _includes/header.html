@@ -7,21 +7,22 @@
             <a href="#vision" class="page-scroll btn btn-xl">Learn More</a>
         </div>
     </div>
-    <ul class="cb-slideshow">
-        <li>
-            <span>Image 01</span>
-        </li>
-        <li>
-            <span>Image 02</span>
-        </li>
-        <li>
-            <span>Image 03</span>
-        </li>
-    </ul>
+
+    <!-- LAYER OVER THE SLIDER TO MAKE THE WHITE TEXT READABLE -->
+    <div id="layer"></div>
+    <!-- END LAYER -->
+
+    <!-- START SLIDER -->
+    <div id="slider" class="rev_slider">
+        <ul>
+            {% for slide in site.data.slider %}
+            <li data-transition="slideleft" data-slotamount="1" data-thumb="assets/img/slider/1.jpg">
+                <img src="img/sliders/{{slide.name}}.jpg">
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <!-- END SLIDER -->
+
 </header>
-<!--
-        {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
-        {% endfor %}
- -->
 

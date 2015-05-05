@@ -1,0 +1,10 @@
+# Slider Images
+
+- name: slide1
+  alt: "Aternative text for accessibility requirement"
+
+- name: slide2
+  alt: "Aternative text for accessibility requirement"
+
+- name: slide3
+  alt: "Aternative text for accessibility requirement"
