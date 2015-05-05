@@ -30,7 +30,7 @@
                     {% for sub in site.data[namespace] %}
                     <li class="paper">
                         <div class="first">
-                            {% if sub.pic %}<a href="/assets/{{namespace}}/{{ sub.mainlink }}.pdf" target="_blank"><img class="img-responsive" src="/assets/{{namespace}}/{{ sub.pic }}.jpg" alt=""></a>{% else %}<div class="no-image text-center"></div>{% endif %}
+                            {% if sub.pic %}{% if sub.mainlink %}<a href="/assets/{{namespace}}/{{ sub.mainlink }}.pdf" target="_blank">{% endif %}<img class="img-responsive" src="/assets/{{namespace}}/{{ sub.pic }}.jpg" alt="">{% if sub,mainlink %}</a>{% endif %}{% else %}<div class="no-image text-center"></div>{% endif %}
                         </div>
                         <div class="second">
                             <div class="timeline-heading">

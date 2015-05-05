@@ -739,6 +739,7 @@ body {
 
 .paper .first img {
     border: 1px solid #ddd;
+    width: 150px;
 }
 
 .paper .first:hover img {
