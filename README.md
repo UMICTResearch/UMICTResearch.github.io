@@ -37,11 +37,30 @@ UMICTResearch Team website
     - subtitle (short description of the project)
     - date
     - thumbnail (name of thumbnail image for the project which is displayed on the homepage and the project page)
-    - alt (alternative description of image to meet accesibility standards)
+    - alt (alternative description of image to meet accessibility standards)
     - description (duplicate field could be used elsewhere on the website)
-    - weight 
+    - weight (defines order of appearance)
     - datafile (contains name of data file which has list of associated papers. This data file is present in the '_data' directory)
 4. To change any detail, updates to the fields is the only required task
+
+####How to Modify?
+1. To add a new project, duplicate an existing post and change the name of the file if you know the following
+    - today's date
+    - (shortname) of project
+2. Modify the Title of the project
+3. Modify the subtitle
+4. Add the same date as in the filename
+5. Create a folder in assets and name it same as 'project-'(shortname)
+6. Save an image of min-width 1600px with the filename 'thumbnail.jpg' in assets/short
+7. Add an alt description to make this thumbnail accessible
+8. Modify the description field to whatever needed
+9. Add a weight which defines order of this project on the homepage (lower = appears first)
+10. Go to _data directory and duplicate an existing project-(shortname).yml data file
+11. Change the filename to project-(shortname).yml (specific to this project)
+12. Go back to the _posts directory and edit the datafile value to project-(shortname)
+13. Save and upload to repository
+
+All all subprojects of the main project is stored in the _data/project-(shortname).yml file
 
 ---
 
