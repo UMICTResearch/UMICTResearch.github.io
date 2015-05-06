@@ -1,9 +1,15 @@
 UMICTResearch Team website
 ====================
 
-## Instructions for Updating the website
+## Table of Contents
+1. Homepage Slider
+2. Projects
+3. Individual Projects
+4. Papers
+5. Team
+6. Contact
 
-###Structure
+---
 
 ##Homepage Slider
 1. Template used: _includes/header.html
@@ -71,11 +77,11 @@ UMICTResearch Team website
 
 1. A member has the following fields:
     - name: name of member
-      pic: picture filename (size: 225px wide and 225px high)
-      position: title/status of the member
-      social: (the following is used to display links under the member thumbnail)
+    - pic: picture filename (size: 225px wide and 225px high)
+    - position: title/status of the member
+    - social: (the following is used to display links under the member thumbnail)
         - title: (iconname from the fontawesome directory of icons, http://fortawesome.github.io/Font-Awesome/icons/)
-          url: (url of the link)
+        - url: (url of the link)
       
 ####How to modify?
 1. To add a new member, first decide the type.
