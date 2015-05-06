@@ -2,12 +2,12 @@ UMICTResearch Team website
 ====================
 
 ## Table of Contents
-1. Homepage Slider
-2. Projects
-3. Individual Projects
-4. Papers
-5. Team
-6. Contact
+1. [Homepage Slider](#homepage-slider)
+2. [Projects](#projects)
+3. [Individual Projects](#individual-projects)
+4. [Papers](#papers)
+5. [Team](#team)
+6. [Contact](#contact)
 
 ---
 
