@@ -22,7 +22,7 @@ UMICTResearch Team website
 3. Add the filename of the image to _data/slider.yml
 4. Follow convention while adding to the data file (yml):
     - name: (filename)
-      alt: (text description of the image) 
+    - alt: (text description of the image) 
 
 ---
 

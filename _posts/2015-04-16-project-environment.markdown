@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project_multi
 title: Environmental Sustainability
 subtitle: "Socioeconomic factors play an important but largely hidden role in home-energy consumption. Most studies have targeted single-family, affluent households, and as a result, energy monitoring systems do not address the needs of renters and low-income individuals. These projects aim to fill this open area of research."
 date: 2015-04-16

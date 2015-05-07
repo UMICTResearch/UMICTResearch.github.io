@@ -42,13 +42,13 @@
                                 {% if sub.keywords %}<div class="paper-keywords">Keywords: {{ sub.keywords }}</div>{% endif %}
                                 {% if sub.resources %}
                                 <div class="paper-links">
-                                {% for item in sub.resources %}
+                                    {% for item in sub.resources %}
                                     {% if item.type == 'pdf' %}
                                     <a class="post-link" href="/assets/{{namespace}}/{{ item.link }}.pdf" target="_blank">{{item.type}}</a>
                                     {% elsif item.type %}
                                     |  <a class="post-link" href="{{item.link}}" target="_blank">{{item.type}}</a>
                                     {% endif %}
-                                {% endfor %}
+                                    {% endfor %}
                                 </div>
                                 {% endif %}
 
@@ -63,4 +63,3 @@
     {% endif %}
 
 </section>
-

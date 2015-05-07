@@ -732,6 +732,10 @@ body {
     list-style: none;
 }
 
+.papers-container.inner {
+    margin-top: 20px;
+}
+
 .paper {
     margin-bottom: 50px;
 }
