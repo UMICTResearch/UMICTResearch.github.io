@@ -2,6 +2,7 @@ UMICTResearch Team website
 ====================
 
 ## Table of Contents
+0. [Getting Started on your local system](#gettingstarted)
 1. [Homepage Slider](#homepage-slider)
 2. [Projects](#projects)
 3. [Individual Projects](#individual-projects)
@@ -10,6 +11,13 @@ UMICTResearch Team website
 6. [Contact](#contact)
 
 ---
+##Getting Started
+1. Install jekyll on your system if it is not installed already
+    Follow the instructions here based on your OS: http://jekyllrb.com/docs/installation/
+2. Change your directory to wherever you’ve pulled the UMICTResearch.github.io source
+3. Type: jekyll serve
+4. Type the server address that appears in the command window into your browser (e.g., http://127.0.0.1:4000/)
+
 
 ##Homepage Slider
 1. Template used: _includes/header.html
