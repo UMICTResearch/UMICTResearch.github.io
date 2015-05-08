@@ -12,12 +12,11 @@ UMICTResearch Team website
 
 ---
 ##Getting Started
-1. Install jekyll on your system if it is not installed already
+1. Install jekyll on your system if it is not installed already.  
     Follow the instructions here based on your OS: http://jekyllrb.com/docs/installation/
-2. Change your directory to wherever you’ve pulled the UMICTResearch.github.io source
+2. Change to your UMICTResearch.github.io source directory
 3. Type: jekyll serve
-4. Type the server address that appears in the command window into your browser (e.g., http://127.0.0.1:4000/)
-
+4. Once the server is ready, type: http://127.0.0.1:4000/
 
 ##Homepage Slider
 1. Template used: _includes/header.html
