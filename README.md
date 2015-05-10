@@ -90,7 +90,7 @@ All all subprojects of the main project is stored in the _data/project-(shortnam
     - Select the pdf file to convert to jpb
     - Click on Convert, wait for the process to finish
     - Save the first image which is generated
-4. Add the name of the pdf and image file to _data/papers.yml file
+4. If the paper should be added to the main list of publications, add the name of the pdf and image file to _data/papers.yml file. 
 
 ---
 
