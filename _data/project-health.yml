@@ -1,1 +1,9 @@
-# Project Details for SocioTechnical capital, employment and economic mobility
+#  Project Details for Health
+name: Using empathy to promote health insurance reviews
+  pic: using_empathy_health_insurance_reviews_thumb
+  abstract: "Health insurance shoppers attempting to find the best health insurance plan for their needs may benefit from reviews of plans left by other consumers; however, these reviews must be fairly detailed in order to be valuable. We posit that an appeal to empathy may motivate consumers to leave more detailed, and thus more valuable, reviews about health insurance plans for future insurance purchasers."
+  authors: "Mishra, S., Ng., S., Dillahunt, T."
+  mainlink: using_empathy_health_insurance_reviews
+  resources:
+      - type: pdf
+        link: using_empathy_health_insurance_reviews
