@@ -8,3 +8,6 @@
 
 - name: slide3
   alt: "Aternative text for accessibility requirement"
+
+- name: slide4
+  alt: "Aternative text for accessibility requirement"
