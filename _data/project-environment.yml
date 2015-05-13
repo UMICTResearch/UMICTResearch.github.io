@@ -10,6 +10,14 @@
       resources:
         - type: pdf
           link: fp134-dillahunt
+    - name: "Example Secondary Paper for sub-project"
+      pic: fp134-dillahunt_thumb
+      abstract: "In Proceedings of Ubicomp 2010."
+      authors: T.Dillahunt, J. Mankoff, E. Paulos
+      mainlink: fp134-dillahunt
+      resources:
+        - type: pdf
+          link: fp134-dillahunt
 
 - subproject: "A Proposed Framework for Assessing Environmental Sustainability in the HCI Community"
   description: "We propose a framework for assessing the sustainability of interactive technologies. Our goal is to initiate steps towards a common standard of measurement for sustainability in the HCI community. This could help motivate green competition, raise consumer awareness, and acknowledge environmental leadership. In this paper we summarize our methodology, our results, and discuss how the framework can be integrated for testing within the HCI community."

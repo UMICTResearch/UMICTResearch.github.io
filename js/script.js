@@ -27,7 +27,7 @@ $(function($) {
     "use strict";
     $("body #slider").revolution(
         {
-            delay:9000,
+            delay:4500,
             startheight:200,
             startwidth:200,
 
