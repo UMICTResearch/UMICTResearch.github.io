@@ -11,17 +11,6 @@
 #    - title: stack-overflow
 #      url: #
 
-- name: Jashanjit Kaur
-  pic: jashan
-  position: UMSI Student
-  social:
-      - title: globe
-        url: http://jashank.people.si.umich.edu/index.php
-      - title: linkedin
-        url: https://www.linkedin.com/in/jashanjit
-      - title: twitter
-        url: http://twitter.com/jashan90
-
 - name: Jonathan De Heus
   pic: jonathan
   position: UMSI Alum
@@ -30,7 +19,6 @@
         url: http://www.jondeheus.com
       - title: linkedin
         url: https://www.linkedin.com/in/jdeheus
-
 
 - name: Benjamin Jen
   pic: benjamin

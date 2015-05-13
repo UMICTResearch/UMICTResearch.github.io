@@ -9,12 +9,9 @@
     - title: linkedin
       url: https://www.linkedin.com/pub/tawanna-dillahunt/82/866/a77
 
-- name: Hailey Patterson
-  pic: hailey
-  position: UMSI Student
-  social:
-     - title: linkedin
-       url: https://www.linkedin.com/in/haileypatterson
+- name: Indulekha Ghandikota
+  pic: indulekha
+  position: UM Student
 
 - name: Samarth Gulati
   pic: samarth
@@ -23,6 +20,20 @@
     - title: globe
       url: http://www.samarthgulati.com
 
-- name: Indulekha Ghandikota
-  pic: indulekha
-  position: UM Student
+- name: Jashanjit Kaur
+  pic: jashan
+  position: UMSI Alum
+  social:
+      - title: globe
+        url: http://jashank.people.si.umich.edu/index.php
+      - title: linkedin
+        url: https://www.linkedin.com/in/jashanjit
+      - title: twitter
+        url: http://twitter.com/jashan90
+
+- name: Hailey Patterson
+  pic: hailey
+  position: UMSI Student
+  social:
+     - title: linkedin
+       url: https://www.linkedin.com/in/haileypatterson
