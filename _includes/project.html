@@ -10,6 +10,9 @@
                 <div class="portfolio-caption">
                     <h4>{{ page.title }}</h4>
                     <p class="text-muted">{{ page.description }}</p>
+                    {% if page.video %}
+                    <a href="{{page.video}}" target="_blank">Click here for related video</a>
+                    {% endif %}
                 </div>
             </div>
         </div>
