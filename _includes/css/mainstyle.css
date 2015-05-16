@@ -388,6 +388,11 @@ section h3.section-subheading {
     line-height: normal;
 }
 
+.project-video {
+    display: block;
+    margin-top: 15px;
+}
+
 .project-subs .heading {
     margin-bottom: 40px;
 }
