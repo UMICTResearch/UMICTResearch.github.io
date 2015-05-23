@@ -1,94 +1,104 @@
 # Project Details for SocioTechnical capital, employment and economic mobility
-- subproject: "Understanding Conflict Between Landlords and Tenants: Implications for Energy Sensing and Feedback"
-  description: "Energy use in the home is a topic of increasing interest and concern, and one on which technology can have a significant impact. However, existing work typically focuses on moderately affluent homeowners who have relative autonomy with respect to their home, or does not address socio-economic status, class, and other related issues. For the 30% of the U.S. population who rent their homes, many key decisions regarding energy use must be negotiated with a landlord. Because energy use impacts the bottom line of both landlords and tenants, this can be a source of conflict in the landlord/tenant relationship. Ubicomp technologies for reducing energy use in rental units must engage with landlord/tenant conflicts to be successful. Unfortunately, little detailed knowledge is available about the impact of landlord/tenant conflicts on energy use. We present an analysis of a series of qualitative studies with landlords and tenants. We argue that a consideration of multiple stakeholders, and the power imbalances among them, will drive important new research questions and lead to more widely applicable solutions. The main contribution of our work is a set of open research questions and design recommendations for technologies that may affect and be affected by the conflict between stakeholders around energy use."
+- subproject: "Environmental Sustainability, Socioeconomic Status and other Demographic Factors"
+  description: "While much of the research in eco-feedback either implicitly or explicitly focuses on relatively affluent homeowners, there are many unique problems that arise when looking at low-income communities, tenants and landlords, and diverse cultural groups. Some our research projects have explored these issues."
   papers:
+
+  # FIX LINK.....
+  # UPDATE Environmental sustainability DESCRIPTION; ADD papers
+    - name: "Deep Conservation in Urban India and its Implications for the Design of Conservation Technologies"
+      pic: CHI-2013_thumb
+      abstract: "Proceedings of the ACM 31st international conference on Human factors in computing systems, 2013, Paris, France "
+      authors: Shrinivasan, Y., Jain, M., Seetharam, D., Choudhary, A., Huang, E., Dillahunt, T., Mankoff, J.
+      mainlink: CHI-2013
+      resources:
+        - type: pdf
+          link: CHI-2013
+
     - name: "Understanding Conflict Between Landlords and Tenants: Implications for Energy Sensing and Feedback"
       pic: fp134-dillahunt_thumb
-      abstract: "In Proceedings of Ubicomp 2010."
-      authors: T.Dillahunt, J. Mankoff, E. Paulos
-      mainlink: fp134-dillahunt
-      resources:
-        - type: pdf
-          link: fp134-dillahunt
-    - name: "Example Secondary Paper for sub-project"
-      pic: fp134-dillahunt_thumb
-      abstract: "In Proceedings of Ubicomp 2010."
+      abstract: "In Proceedings of Ubicomp 2010, Copenhagen, Denmark"
       authors: T.Dillahunt, J. Mankoff, E. Paulos
       mainlink: fp134-dillahunt
       resources:
         - type: pdf
           link: fp134-dillahunt
 
-- subproject: "A Proposed Framework for Assessing Environmental Sustainability in the HCI Community"
-  description: "We propose a framework for assessing the sustainability of interactive technologies. Our goal is to initiate steps towards a common standard of measurement for sustainability in the HCI community. This could help motivate green competition, raise consumer awareness, and acknowledge environmental leadership. In this paper we summarize our methodology, our results, and discuss how the framework can be integrated for testing within the HCI community."
-  papers:
-    - name: "A Proposed Framework for Assessing Environmental Sustainability in the HCI Community"
-      pic: CHIWorkshopCFP_thumb
-      abstract: "Our paper was accepted to the CHI Examining Appropriation, Re-use, and Maintenance Workshop at CHI 2010 in Atlanta, GA"
-      authors: "Tawanna Dillahunt, Jennifer Mankoff, Jodi Forlizzi"
-      mainlink: CHIWorkshopCFP
-      resources:
-        - type: pdf
-          link: CHIWorkshopCFP
-
-- subproject: "It’s Not All About Green: Energy Use in Low-Income Communities"
-  description: "Personal energy consumption, specifically home energy consumption such as heating, cooling, and electricity, has been an important environmental and economic topic for decades. Despite the attention paid to this area, few researchers have specifically explored these issues within a community that makes up approximately 30% of U.S. households – those below the federal poverty line. We present a study of 26 low-income households in two very different locations – a small town in the Southern U.S. and a northerly metropolitan area. Through a photo-elicitation study and directed interviews, we explore the relationship between energy saving behaviors, external factors, and users’ intrinsic values and beliefs. Most of our participants are committed to saving energy for non-financial reasons, even when not responsible for paying bills. Challenges to saving energy include safety and lack of control over the environment. We discuss how Ubicomp technologies for saving energy can address some of these challenges."
-  papers:
     - name: "It’s Not All About Green: Energy Use in Low-Income Communities"
       pic: Low-Income_thumb
-      abstract: "In Proceedings of Ubicomp 2009."
+      abstract: "In Proceedings of Ubicomp 2009, Orlando, FL"  
       authors: T.Dillahunt, J. Mankoff, E. Paulos, S. Fussell
       mainlink: Low-Income
       resources:
         - type: pdf
           link: Low-Income
 
-- subproject: "Ubigreen"
-  description: "Collaborated with the University of Washington and Intel to explore the use of personal ambient displays on mobile phones to give users feedback about sensed and self-reported transportation behaviors."
+- subproject: "Footprints | Stepgreen"
+  description: "The Footprints project leverages social networking to reduce individuals’ ecological footprints.  StepGreen is a website that allows individuals to commit to environmental sustainable behaviors and report when they make their commitments. Footprints is an umbrella project, which includes several investigations into ways to sense, detect, and motivate environmentally sustainable actions."
   papers:
+    - name: "Stepgreen.org: Increasing Energy Saving Behaviours via Social Networks."
+      pic: StepGreen_thumb
+      abstract: "In Proceedings of the Fourth International AAAI Conference on Weblogs and Social Media 2010, Washington, D.C."
+      authors: J. Mankoff, S. Fussell, T. Dillahunt, R. Glaves, C. Grevet, D. Matthews, H.S. Matthews, R. McGuire,  R. Thompson, A. Shick, L. Setlock.
+      mainlink: StepGreen
+      resources:
+        - type: pdf
+          link: StepGreen
+
     - name: "Ubigreen:  Investigating a Mobile Tool for Tracking and Supporting Green Transportation Habits"
       pic: UbiGreen_thumb
-      abstract: "In Proceedings of Ubicomp 2009."
+      abstract: "In Proceedings of Ubicomp 2009, Boston, MA"
       authors: J. Froehlich, T. Dillahunt, P. Klasnja, J. Mankoff, S. Consolvo, B. Harrison, J.A. Landay
       mainlink: UbiGreen
       resources:
         - type: pdf
           link: UbiGreen
 
-- subproject: "What Motivates People to Reuse?"
-  description: "Work with Min Kyung Lee and Bryan Pendleton at Carnegie Mellon University.  The goal was to understand design implications for free online marketplaces to elicit participation of people with altruistic, financial, and environmental motivations."
-  papers:
-    - name: "Tailoring Websites to Increase Contributions to Online Communities."
+    - name: "Tailoring Websites to Increase Contributions to Online Communities"
       pic: TailoringWebsites_thumb
-      abstract: "In Proceedings of the twenty-seventh annual SIGCHI conference on Human factors 2009"
+      abstract: "CHI 2009, Extended abstracts, Boston, MA"
       authors: M.K. Lee, T. Dillahunt, B. Pendleton,  R. Kraut, S. Kiesler.
       mainlink: TailoringWebsites
       resources:
         - type: pdf
           link: TailoringWebsites
 
-- subproject: "Motivating Sustainable Behavior Changes with a Virtual Polar Bear "
-  description: "Work with Geof Becker at Carnegie Mellon University for Social Web (HCI-05820) to determine if there is a correlation between emotional attachment and sustainable behavior."
-  papers:
-    - name: "Motivating  environmentally sustainable behavior changes with a virtual polar bear"
+    - name: "Motivating environmentally sustainable behavior changes with a virtual polar bear"
       pic: PolarBear_thumb
-      abstract: "Pervasive ‘08 Workshop on Pervasive Persuasive Technology and Environmental Sustainability 2008."
+      abstract: "Pervasive 2008 Workshop on Pervasive Persuasive Technology and Environmental Sustainability, Sydney, Australia"
       authors: T. Dillahunt, G. Becker, J. Mankoff,  and R. Kraut
       mainlink: PolarBear
       resources:
         - type: pdf
           link: PolarBear
 
-- subproject: "Footprints | Stepgreen (ongoing)"
-  description: "The Footprints project leverages social networking to reduce individuals’ ecological footprints.  StepGreen is a website that allows individuals to commit to environmental sustainable behaviors and report when they make their commitments. Footprints is an umbrella project for our work.  Currently, we are looking into ways to sense and detect Stepgreen actions to enable automatic reporting via mobile devices.  This is work being done in collaboration with Stephanie Rosenthal and the Sensor Andrew team at Carnegie Mellon "
+# ADD THUMBNAILs (ALSO ADD WORKSHOP PAPERS HERE TOO!!)
+- subproject: "Broader topics in sustainability"
+  description: "We propose a framework for assessing the sustainability of interactive technologies. Our goal is to initiate steps towards a common standard of measurement for sustainability in the HCI community. This could help motivate green competition, raise consumer awareness, and acknowledge environmental leadership. In this paper we summarize our methodology, our results, and discuss how the framework can be integrated for testing within the HCI community."
   papers:
-    - name: "Stepgreen.org: Increasing Energy Saving Behaviours via Social Networks."
-      pic: StepGreen_thumb
-      abstract: "In Proceedings of the Fourth International AAAI Conference on Weblogs and Social Media 2010."
-      authors: J. Mankoff, S. Fussell, T. Dillahunt, R. Glaves, C. Grevet, D. Matthews, H.S. Matthews, R. McGuire,  R. Thompson, A. Shick, L. Setlock.
-      mainlink: StepGreen
+    - name: "Next steps for sustainable HCI"
+      pic: p66-silberman_thumb
+      abstract: "Interactions, September – October 2014"
+      authors: "Silberman, M.S., Nathan, L., Knowles, B., Bendor, R., Clear, A., Håkansson, Dillahunt, T., Mankoff, J."
+      mainlink: p66-silberman
       resources:
         - type: pdf
-          link: StepGreen
-        - type: ppt
-          link: SAGAPosterV7
+          link: p66-silberman
+
+    - name: "Creating Resilient Communities for Post-Sustainable Times"
+      pic: Dillahunt_postsustainability_v10_final_thumb
+      abstract: "Proceedings of the 31st international conference on Human factors in computing systems, Post-Sustainability Workshop, 2013, Paris, France"
+      authors: Dillahunt, T.
+      mainlink: Dillahunt_postsustainability_v10_final
+      resources:
+        - type: pdf
+          link: Dillahunt_postsustainability_v10_final
+
+    - name: "A Proposed Framework for Assessing Environmental Sustainability in the HCI Community"
+      pic: CHIWorkshopCFP_thumb
+      abstract: "Accepted to the CHI Examining Appropriation, Re-use, and Maintenance Workshop at CHI 2010, Atlanta, GA"
+      authors: "Tawanna Dillahunt, Jennifer Mankoff, Jodi Forlizzi"
+      mainlink: CHIWorkshopCFP
+      resources:
+        - type: pdf
+          link: CHIWorkshopCFP
+
