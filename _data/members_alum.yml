@@ -27,6 +27,17 @@
     - title: linkedin
       url: https://www.linkedin.com/pub/benjamin-jen/94/4ba/b87
 
+- name: Jashanjit Kaur
+  pic: jashan
+  position: UMSI Alum
+  social:
+      - title: globe
+        url: http://jashank.people.si.umich.edu/index.php
+      - title: linkedin
+        url: https://www.linkedin.com/in/jashanjit
+      - title: twitter
+        url: http://twitter.com/jashan90
+        
 - name: Amy Malone
   pic: amy
   position: University of Maryland Undergrad
