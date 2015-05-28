@@ -5,11 +5,11 @@ UMICTResearch Team website
 0. [Getting Started on your local system](#getting-started)
 1. [Homepage Slider](#homepage-slider)
 2. [Projects](#projects)
-3. [Individual Projects](#individual-projects)
-4. [Papers](#papers)
+3. [Project Papers](#project-papers)
+4. [Homepage Papers](#homepage-papers)
 5. [Team](#team)
 6. [Contact](#contact)
-7. [Additional Notes](#notes
+7. [Additional Notes](#notes)
 
 ---
 ##Getting Started
@@ -25,7 +25,7 @@ UMICTResearch Team website
 2. The slider images are changed using a JS plugin.
 3. The images are stored in img/sliders/
 
-#### How to modify?
+####How to Add/Modify?
 1. Add image to /img/sliders
 2. Image width should be a minimum of 1600 (the height is proportional)
 3. Add the filename of the image to _data/slider.yml
@@ -36,10 +36,10 @@ UMICTResearch Team website
 ---
 
 ##Projects
-1. All projects are stored in '_posts' with the file name as <date>project-(shortname).markdown
-2. The order is defined by the weight.
-    - low weight forces project to appear first
-    - higher weight forces project to appear later
+1. All projects are stored in '_posts' with the file name as yyyy-mm-dd-project-(shortname).markdown
+2. The order is defined by the weight defined in the markdown file
+    - lower number weight forces project to appear earlier in the order of the projects on the homepage
+    - higher number weight forces project to appear later in the order of the projects on the homepage
 3. Each post contains following fields:
     - layout (this is to select which template will be used to render the main project page)
     - title (project name)
@@ -50,30 +50,61 @@ UMICTResearch Team website
     - description (duplicate field could be used elsewhere on the website)
     - weight (defines order of appearance)
     - datafile (contains name of data file which has list of associated papers. This data file is present in the '_data' directory)
-4. To change any detail, updates to the fields is the only required task
+4. To change any detail, update the above fields
 
-####How to Modify?
-1. To add a new project, duplicate an existing post and change the name of the file if you know the following
-    - today's date
-    - (shortname) of project
-2. Modify the Title of the project
-3. Modify the subtitle
-4. Add the same date as in the filename
-5. Create a folder in assets and name it same as 'project-'(shortname)
-6. Save an image of min-width 1600px with the filename 'thumbnail.jpg' in assets/short
-7. Add an alt description to make this thumbnail accessible
-8. Modify the description field to whatever needed
-9. Add a weight which defines order of this project on the homepage (lower = appears first)
-10. Go to _data directory and duplicate an existing project-(shortname).yml data file
+####How to Add/Modify a project?
+1. To add a new project, duplicate an existing post in the '_posts' directory and change the name of the file
+    - Decide on a shortname for the project which is related to the title of the project and name it as per:
+        - yyyy-mm-dd-project-(shortname).markdown
+2. Modify 'title' field
+3. Modify 'subtitle' field
+4. Modify 'date' field which matches the filename date
+5. Create a folder in 'assets' directory and name it as 'project-'(shortname)
+6. Add an image of min-width 800px with the filename 'thumbnail.jpg' in 'assets' folder
+7. Modify 'alt' field to make this thumbnail accessible
+8. Modify 'description' field
+9. Modify 'weight' field which defines order of this project on the homepage (lower = appears earlier)
+10. In the '_data' directory, duplicate an existing project-(shortname).yml data file
 11. Change the filename to project-(shortname).yml (specific to this project)
-12. Go back to the _posts directory and edit the datafile value to project-(shortname)
-13. Save and upload to repository
+12. Save and commit to repository
 
-All all subprojects of the main project is stored in the _data/project-(shortname).yml file
+All papers of the main project are stored in the _data/project-(shortname).yml file
+
+####How to add/modify projects with sub-projects?
+1. Change 'layout' field to 'project_multi'
+2. 'project_multi' uses the 'project_multi.html' template
+3. Modify the data file stored under _data/project-(shortname).yml file
 
 ---
 
-##Papers
+##Project Papers
+1. All papers appearing on project pages are stored in _data/project-(shortname).yml
+2. Each paper contains the following fields:
+    - name: name of the paper
+    - pic: thumbnail image (max width: 150px)
+    - abstract: short paper description
+    - authors: name of authors
+    - mainlink: name of the pdf file (without extension)
+    - resources: collection of various resource types
+        - type: name of the resource type. eg - pdf | ppt
+        - link: name of the resource without extension
+    
+#### How to modify?
+1. To add a new paper use the data structure already present in another project under '_data' directory
+2. Duplicate any 'project-shortname' folder and rename it to the appropriate one 
+3. Open _data/project-shortname.yml
+4. Save the PDF or resource under '_assets/project-shortname' folder
+5. Create a thumbnail image as per follows:
+    - To create a thumbnail image use: https://pdfjpg.net/
+    - Select Output Quality: 150dpi
+    - Select the pdf file to convert to jpb
+    - Click on Convert, wait for the process to finish
+    - Save the first image which is generated using the following naming convention:
+        - nameofpdf_thumb.jpg
+
+---
+
+##Homepage Papers
 1. All papers appearing on the homepage are stored in _data/papers.yml
 2. Each paper contains the following fields:
     - name: name of the paper
@@ -92,7 +123,6 @@ All all subprojects of the main project is stored in the _data/project-(shortnam
     - Select the pdf file to convert to jpb
     - Click on Convert, wait for the process to finish
     - Save the first image which is generated
-4. If the paper should be added to the main list of publications, add the name of the pdf and image file to _data/papers.yml file. 
 
 ---
 
