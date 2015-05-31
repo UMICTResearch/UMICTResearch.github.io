@@ -955,7 +955,7 @@ body {
     width: 100%;
 }
 
-@media all and (max-width: 500px){
+@media all and (max-width: 800px){
     .projects .portfolio-item.custom-resp .portfolio-caption {
         padding: 0;
         margin-top: 20px;
