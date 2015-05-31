@@ -5,8 +5,8 @@
     <div class="container projects project-main">
 
         <div class="row row-centered">
-            <div class="col-xs-10 portfolio-item col-centered">
-                <img src="/assets/{{ page.datafile }}/thumbnail.jpg" class="img-responsive portfolio-link" alt="">
+            <div class="col-xs-12 col-sm-10 portfolio-item col-centered custom-resp">
+                <img src="/assets/{{ page.datafile }}/thumbnail.jpg" class="img-responsive portfolio-link custom-imgresp" alt="">
                 <div class="portfolio-caption">
                     <h4>{{ page.title }}</h4>
                     <p class="text-muted">{{ page.description }}</p>
@@ -22,16 +22,16 @@
     {% if site.data[namespace] %}
     <div class="container project-subs">
         <div class="row row-centered heading">
-            <div class="col-xs-10 col-centered">
+            <div class="col-xs-12 col-sm-10 col-centered">
                 <h4 class="section-heading">Subprojects</h4>
                 <hr>
             </div>
         </div>
         <div class="row row-centered">
-            <div class="col-xs-10 col-centered">
+            <div class="col-xs-12 col-sm-10 col-centered">
                 <ul class="papers-container">
                     {% for sub in site.data[namespace] %}
-                    <li class="paper">
+                    <li class="paper custom-resp">
                         <div class="first">
                             {% if sub.pic %}{% if sub.mainlink %}<a href="/assets/{{namespace}}/{{ sub.mainlink }}.pdf" target="_blank">{% endif %}<img class="img-responsive" src="/assets/{{namespace}}/{{ sub.pic }}.jpg" alt="">{% if sub,mainlink %}</a>{% endif %}{% else %}<div class="no-image text-center"></div>{% endif %}
                         </div>

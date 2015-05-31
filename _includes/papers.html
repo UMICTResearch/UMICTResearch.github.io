@@ -1,4 +1,4 @@
-<!-- About Section -->
+<!-- Papers and Publications Section -->
 <section id="about">
     <div class="container">
         <div class="row">
@@ -8,10 +8,10 @@
             </div>
         </div>
         <div class="row row-centered">
-            <div class="col-xs-10 col-centered">
+            <div class="col-xs-12 col-sm-10 col-centered">
                 <ul class="papers-container">
                     {% for paper in site.data.papers %}
-                    <li class="paper">
+                    <li class="paper custom-resp">
                         <div class="first">
                             {% if paper.pic %}<a href="/assets/papers/{{ paper.link }}.pdf" target="_blank"><img class="img-responsive" src="/assets/papers/{{ paper.pic }}.jpg" alt=""></a>{% else %}<div class="no-image text-center"></div>{% endif %}
                         </div>
