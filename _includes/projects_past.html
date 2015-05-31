@@ -10,14 +10,14 @@
         </div>
         <div class="row row-centered">
             {% for post in posts %}
-            <div class="col-xs-10 portfolio-item col-centered">
+            <div class="col-xs-10 portfolio-item col-centered custom-resp">
                 <a href="{{ post.url }}" class="portfolio-link" >
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="assets/{{post.datafile}}/thumbnail.jpg" class="img-responsive" alt="">
+                    <img src="assets/{{post.datafile}}/thumbnail.jpg" class="img-responsive custom-imgresp" alt="">
                 </a>
                 <div class="portfolio-caption">
                     <h4><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h4>

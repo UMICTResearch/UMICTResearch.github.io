@@ -950,3 +950,38 @@ body {
     transition-duration: 0.4s;
 }
 .tp-bullets.simplebullets.round .bullet.last {   margin-right:3px;}
+
+.custom-imgresp {
+    width: 100%;
+}
+
+@media all and (max-width: 500px){
+    .projects .portfolio-item.custom-resp .portfolio-caption {
+        padding: 0;
+        margin-top: 20px;
+    }
+    .papers-container .paper.custom-resp {
+        text-align: center;
+    }
+    .papers-container .paper.custom-resp .second {
+        text-align: left;
+        margin: 0;
+    }
+    .tp-bullets {
+        display: none;
+    }
+    .not-front section {
+        padding: 20px 0 0;
+    }
+    header .intro-text {
+        padding-top: 200px;
+    }
+    header .intro-text .intro-heading {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .btn-xl {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+}
