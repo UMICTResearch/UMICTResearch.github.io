@@ -6,17 +6,41 @@
   keywords: chi, 2015
   link: pn0389-dillahuntv2
 
-- name: "Democratizing Higher Education: Exploring MOOC Use Among Those Who Cannot Afford a Formal Education"
-  pic: Dillahunt-IRRODL-final_thumb
-  abstract: "The International Review of Research in Open and Distance Learning (IRRODL), Vol 15, No 5 (2014): Special Issue: Research into Massive Open Online Courses"
-  authors: "Dillahunt, T., Wang, Z., Teasley, S.D."
-  link: Dillahunt-IRRODL-final
+- name: Detecting and visualization filter bubbles in Google and Bing
+  pic: SESAndSearchv8-final_thumb
+  abstract: "Proceedings of the ACM 32nd international conference on Human factors in computing systems (CHI Extended Abstracts), 2015"
+  authors: "Dillahunt, T., Brooks, C., Gulati, S. (2015)"
+  link: SESAndSearchv8-final
+
+- name: "Learn with Friends: The Effects of Student Face-to-Face Collaborations on Massive Open Online Course Activities"
+  pic: p241-brooks_thumb
+  abstract: "Learning at Scale 2015"
+  authors: Brooks, C., Stalburg, C., Dillahunt, T., Robert, L
+  link: p241-brooks
 
 - name: "Next steps for sustainable HCI"
   pic: p66-silberman_thumb
   abstract: "Interactions, September – October 2014"
   authors: "Silberman, M.S., Nathan, L., Knowles, B., Bendor, R., Clear, A., Håkansson, Dillahunt, T., Mankoff, J."
   link: p66-silberman
+
+- name: "Toward a Deeper Understanding of Sustainability within HCI"
+  pic: Dillahunt-sustainability-workshop-2014-finalonwebsite_thumb
+  abstract: "CHI 2014 workshop on Sustainability. What have we learned?"
+  authors: Dillahunt, T.
+  link: Dillahunt-sustainability-workshop-2014-finalonwebsite
+
+- name: "Democratizing Higher Education: Exploring MOOC Use Among Those Who Cannot Afford a Formal Education"
+  pic: Dillahunt-IRRODL-final_thumb
+  abstract: "The International Review of Research in Open and Distance Learning (IRRODL), Vol 15, No 5 (2014): Special Issue: Research into Massive Open Online Courses"
+  authors: "Dillahunt, T., Wang, Z., Teasley, S.D."
+  link: Dillahunt-IRRODL-final
+
+- name: "Model Thinking: Demographics and Performance of MOOC Students Unable to Afford a Formal Education"
+  pic: Dillahunt-WIP2_thumb
+  abstract: "Learning at Scale 2014"
+  authors: Dillahunt, T., Chen, B., Teasley, S.
+  link: Dillahunt-WIP2
 
 - name: "Fostering Social Capital in Economically Distressed Communities"
   pic: Dillahunt_905_thumb
@@ -36,11 +60,17 @@
   authors: Shrinivasan, Y., Jain, M., Seetharam, D., Choudhary, A., Huang, E., Dillahunt, T., Mankoff, J.
   link: CHI-2013
 
-#- name: "Using Social Technologies to Increase Sharing and Communication around Household Energy Consumption in Low-Income and Rental Communities"
-#  pic: #
-#  abstract: "Doctoral Dissertation, December 2012"
-#  authors: Dillahunt, T.
-#  link: #
+- name: "Creating Resilient Communities for Post-Sustainable Times"
+  pic: Dillahunt_postsustainability_v10_final_thumb
+  abstract: "Proceedings of the 31st international conference on Human factors in computing systems, Post-Sustainability Workshop, 2013, Paris, France"
+  authors: Dillahunt, T.
+  link: Dillahunt_postsustainability_v10_final
+
+- name: "Replicating Residential Sustainability Study in Urban India"
+  pic: IndiaEnergyRepliCHI_submitted_thumb
+  abstract: "Proceedings of the ACM 31st international conference on Human factors in computing systems, Replication Workshop 2013, Paris, France"
+  authors: Jain, M., Shrinivasan, Y., Dillahunt, T.
+  link: IndiaEnergyRepliCHI_submitted
 
 - name: "Design implications for social-energy applications"
   pic: CMU-HCII-12-100_thumb
@@ -72,32 +102,3 @@
   authors: Froehlich, J., Dillahunt, T., Klansja, P., Mankoff, J., Consolvo, S., Harrison, B., Landay, J.
   link: UbiGreen
 
-- name: "Toward a Deeper Understanding of Sustainability within HCI"
-  pic: Dillahunt-sustainability-workshop-2014-finalonwebsite_thumb
-  abstract: "CHI 2014 workshop on Sustainability. What have we learned?"
-  authors: Dillahunt, T.
-  link: Dillahunt-sustainability-workshop-2014-finalonwebsite
-
-- name: "Creating Resilient Communities for Post-Sustainable Times"
-  pic: Dillahunt_postsustainability_v10_final_thumb
-  abstract: "Proceedings of the 31st international conference on Human factors in computing systems, Post-Sustainability Workshop, 2013, Paris, France"
-  authors: Dillahunt, T.
-  link: Dillahunt_postsustainability_v10_final
-
-- name: "Replicating Residential Sustainability Study in Urban India"
-  pic: IndiaEnergyRepliCHI_submitted_thumb
-  abstract: "Proceedings of the ACM 31st international conference on Human factors in computing systems, Replication Workshop 2013, Paris, France"
-  authors: Jain, M., Shrinivasan, Y., Dillahunt, T.
-  link: IndiaEnergyRepliCHI_submitted
-
-- name: "Learn with Friends: The Effects of Student Face-to-Face Collaborations on Massive Open Online Course Activities"
-  pic: p241-brooks_thumb
-  abstract: "Learning at Scale 2015"
-  authors: Brooks, C., Stalburg, C., Dillahunt, T., Robert, L
-  link: p241-brooks
-
-- name: "Model Thinking: Demographics and Performance of MOOC Students Unable to Afford a Formal Education"
-  pic: Dillahunt-WIP2_thumb
-  abstract: "Learning at Scale 2014"
-  authors: Dillahunt, T., Chen, B., Teasley, S.
-  link: Dillahunt-WIP2

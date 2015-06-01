@@ -9,9 +9,13 @@
     - title: linkedin
       url: https://www.linkedin.com/pub/tawanna-dillahunt/82/866/a77
 
-- name: Indulekha Ghandikota
-  pic: indulekha
-  position: UM Undergrad, EECS
+- name: Joey Chiao-Yin Hsiao
+  pic: joey
+  position: UMSI Ph.D. Student
+  social:
+    - title: globe
+      url: http://www.joeyhsiao.info/
+
 
 - name: Samarth Gulati
   pic: samarth
@@ -19,10 +23,3 @@
   social:
     - title: globe
       url: http://www.samarthgulati.com
-
-- name: Hailey Patterson
-  pic: hailey
-  position: UM Undergrad, LSA
-  social:
-     - title: linkedin
-       url: https://www.linkedin.com/in/haileypatterson

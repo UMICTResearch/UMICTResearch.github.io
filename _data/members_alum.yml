@@ -20,6 +20,10 @@
       - title: linkedin
         url: https://www.linkedin.com/in/jdeheus
 
+- name: Indulekha Ghandikota
+  pic: indulekha
+  position: UM Undergrad, EECS
+
 - name: Benjamin Jen
   pic: benjamin
   position: UM Undergrad, LSA
@@ -44,3 +48,10 @@
   social:
     - title: linkedin
       url: https://www.linkedin.com/pub/amelia-malone/60/826/b25
+
+- name: Hailey Patterson
+  pic: hailey
+  position: UM Undergrad, LSA
+  social:
+     - title: linkedin
+       url: https://www.linkedin.com/in/haileypatterson
