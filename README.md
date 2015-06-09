@@ -17,7 +17,7 @@ UMICTResearch Team website
     Follow the instructions here based on your OS: http://jekyllrb.com/docs/installation/
 2. Change to your UMICTResearch.github.io source directory
 3. Type: jekyll serve
-4. Once the server is ready, type: http://127.0.0.1:4000/
+4. Once the server is ready, type: http://127.0.0.1:4000/ into your web browser's address bar
 5. Note: If there is a '_site' folder inside the '_data' folder, remove it or do not make any changes
 
 ##Homepage Slider

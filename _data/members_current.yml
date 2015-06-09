@@ -8,21 +8,23 @@
       url: http://www.tawannadillahunt.com
     - title: linkedin
       url: https://www.linkedin.com/pub/tawanna-dillahunt/82/866/a77
-
-- name: Indulekha Ghandikota
-  pic: indulekha
-  position: UM Undergrad, EECS
-
+- name: Joey Chiao-Yin Hsiao
+  pic: joey
+  position: UMSI Ph.D. Student
+  social:
+    - title: globe
+      url: http://www.joeyhsiao.info/
 - name: Samarth Gulati
   pic: samarth
   position: UMSI Student
   social:
     - title: globe
       url: http://www.samarthgulati.com
-
-- name: Hailey Patterson
-  pic: hailey
-  position: UM Undergrad, LSA
+- name: Asha Chen-Phang
+  pic: asha
+  position: Northeastern University Student
   social:
-     - title: linkedin
-       url: https://www.linkedin.com/in/haileypatterson
+    - title: globe
+      url: http://www1.coe.neu.edu/~achenpha/
+    - title: linkedin
+      url: https://www.linkedin.com/in/ashacp
