@@ -11,6 +11,21 @@
 #    - title: stack-overflow
 #      url: #
 
+
+- name: Ameera Ayodeji
+  pic: ameera
+  position: NSF REU and Bowie State Alum
+  social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/ameeraayodeji
+
+- name: Thaddeus Brown
+  pic: thaddeus
+  position: NSF REU and Bowie State Alum
+  social:
+      - title: linkedin
+        url: https://www.linkedin.com/profile/view?id=181522342
+
 - name: Jonathan De Heus
   pic: jonathan
   position: UMSI Alum
@@ -20,13 +35,17 @@
       - title: linkedin
         url: https://www.linkedin.com/in/jdeheus
 
+  name: Michelle Fiesta
+  pic: mfiesta
+  position: UMSI Alum
+
 - name: Indulekha Ghandikota
   pic: indulekha
-  position: UM Undergrad, EECS
+  position: UROP Student, EECS
 
 - name: Benjamin Jen
   pic: benjamin
-  position: UM Undergrad, LSA
+  position: UROP Student, LSA
   social:
     - title: linkedin
       url: https://www.linkedin.com/pub/benjamin-jen/94/4ba/b87
@@ -42,16 +61,35 @@
       - title: twitter
         url: http://twitter.com/jashan90
 
+- name: Sandy Ng
+  pic: sandyng
+  position: UMSI Student
+
 - name: Amy Malone
   pic: amy
-  position: University of Maryland Undergrad
+  position: NSF REU Alum, University of Maryland Undergrad
   social:
     - title: linkedin
       url: https://www.linkedin.com/pub/amelia-malone/60/826/b25
 
 - name: Hailey Patterson
   pic: hailey
-  position: UM Undergrad, LSA
+  position: UROP Student, LSA
   social:
      - title: linkedin
        url: https://www.linkedin.com/in/haileypatterson
+
+- name: Pablo-Alejandro Quionones, Ph.D.
+  pic: pabloq
+  position: UMSI Alum
+  social:
+      - title: globe
+        url: http://www.pquinones.com/
+
+- name: Zengguang (Brian) Wang
+  pic: brianwang
+  position: UM Alum
+  social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/brian1wang
+
