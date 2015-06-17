@@ -165,7 +165,8 @@ All papers of the main project are stored in the _data/project-(shortname).yml f
 
 ##Code Push
 
-For smaller bug fixes
+####For smaller bug fixes
+
 1. Clone repository
 Execute: "$ git clone <repo>"
 2. Create a new branch which is based off origin/master. This is the hotfix branch.
@@ -174,7 +175,7 @@ Execute: "$ git checkout -b hotfix origin/master"
 4. Before pushing to remote, fetch changes
 Execute: "$ git fetch"
 5. If updates to the local repo are required
-Execute: "$ git pull"
+Execute: "$ git pull --ff origin"
 6. If no updates are required
 Execute: "$ git push origin hotfix"
 7. Go to github.com/<repo>
