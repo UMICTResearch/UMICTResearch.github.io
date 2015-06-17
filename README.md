@@ -8,8 +8,8 @@ UMICTResearch Team website
 3. [Project Papers](#project-papers)
 4. [Homepage Papers](#homepage-papers)
 5. [Team](#team)
-6. [Contact](#contact)
-7. [Additional Notes](#notes)
+6. [Contact Page](#contact-page)
+7. [Additional Notes](#additional-notes)
 
 ---
 ##Getting Started
