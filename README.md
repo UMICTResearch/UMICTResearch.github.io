@@ -10,6 +10,7 @@ UMICTResearch Team website
 5. [Team](#team)
 6. [Contact Page](#contact-page)
 7. [Additional Notes](#additional-notes)
+8. [Code Push](#code-push)
 
 ---
 ##Getting Started
@@ -160,6 +161,8 @@ All papers of the main project are stored in the _data/project-(shortname).yml f
 2. If there is a '_site' folder inside the '_data' folder, remove it or do not make any changes
 3. Keep image sizes to the minimum, ideal size for image sliders is about 1600px (width). The height should be proportional
 
+---
+
 ##Code Push
 
 For smaller bug fixes
@@ -173,11 +176,14 @@ Execute: "$ git fetch"
 5. If updates to the local repo are required
 Execute: "$ git pull"
 6. If no updates are required
-Execute: "$ git push origin"
+Execute: "$ git push origin hotfix"
 7. Go to github.com/<repo>
 8. Open a pull request against the master branch
 9. Assign the pull request to another team member
-10. Inform the team member to review the code and merge into master
+10. Inform the team member to review code and merge into master
+
+For new features
+All steps are the same except, replace name of branch "hotfix" with a different name like "feature-1"
 
 =========
 
