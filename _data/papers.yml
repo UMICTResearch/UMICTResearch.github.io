@@ -1,9 +1,20 @@
 # Papers
+- name: "Do Massive Open Online Course Platforms Support Employability?"
+  pic: pn133dillahunt-thumb
+  abstract: "CSCW 2016 (to appear)."
+  authors: "Dillahunt, T., Ng, S., Fiesta, M., Wang, Z."
+  link: pn133dillahunt
+
+- name: "If God Gives Me the Chance I Will Design My Own Phone"
+  pic: pn0107-dillahunt-thumb
+  abstract: "*honorable mention* | UbiComp 2015."
+  authors: "Wyche, S., Dillahunt, T., Simiyu, N., Alaka, S."
+  link: pn0107-dillahunt
+
 - name: "Promise of the Sharing Economy among Disadvantaged Communities"
   pic: pn0389-dillahuntv2_thumb
   abstract: "Proceedings of the ACM 32nd international conference on Human factors in computing systems (CHI), 2015 (to appear)."
   authors: "Dillahunt, T.R. and Malone, A.R"
-  keywords: chi, 2015
   link: pn0389-dillahuntv2
 
 - name: Detecting and visualization filter bubbles in Google and Bing
