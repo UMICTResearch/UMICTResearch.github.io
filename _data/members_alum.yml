@@ -11,7 +11,6 @@
 #    - title: stack-overflow
 #      url: #
 
-
 - name: Ameera Ayodeji
   pic: ameera
   position: NSF REU and Bowie State Alum
@@ -26,6 +25,15 @@
       - title: linkedin
         url: https://www.linkedin.com/profile/view?id=181522342
 
+- name: Asha Chen-Phang
+  pic: asha
+  position: NSF REU, Northeastern University Student
+  social:
+      - title: globe
+        url: http://www1.coe.neu.edu/~achenpha
+      - title: linkedin
+        url: https://www.linkedin.com/in/ashacp
+
 - name: Jonathan De Heus
   pic: jonathan
   position: UMSI Alum
@@ -35,13 +43,19 @@
       - title: linkedin
         url: https://www.linkedin.com/in/jdeheus
 
-  name: Michelle Fiesta
+- name: Michelle Fiesta
   pic: mfiesta
   position: UMSI Alum
+  social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/michellefiesta
 
 - name: Indulekha Ghandikota
   pic: indulekha
   position: UROP Student, EECS
+  social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/indulekha-ghandikota-b269aa92
 
 - name: Benjamin Jen
   pic: benjamin
@@ -54,16 +68,12 @@
   pic: jashan
   position: UMSI Alum
   social:
-      - title: globe
-        url: http://jashank.people.si.umich.edu/index.php
-      - title: linkedin
-        url: https://www.linkedin.com/in/jashanjit
-      - title: twitter
-        url: http://twitter.com/jashan90
-
-- name: Sandy Ng
-  pic: sandyng
-  position: UMSI Student
+    - title: globe
+      url: http://jashank.people.si.umich.edu/index.php
+    - title: linkedin
+      url: https://www.linkedin.com/in/jashanjit
+    - title: twitter
+      url: http://twitter.com/jashan90
 
 - name: Amy Malone
   pic: amy
@@ -71,6 +81,10 @@
   social:
     - title: linkedin
       url: https://www.linkedin.com/pub/amelia-malone/60/826/b25
+
+- name: Sandy Ng
+  pic: sandyng
+  position: UMSI Student
 
 - name: Hailey Patterson
   pic: hailey
@@ -92,4 +106,3 @@
   social:
       - title: linkedin
         url: https://www.linkedin.com/in/brian1wang
-
