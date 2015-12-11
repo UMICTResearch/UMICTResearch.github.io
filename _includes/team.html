@@ -13,7 +13,7 @@
             {% for member in site.data.members_current %}
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                    <div class="img-circle img-team" style="background-image: url('img/team/{{ member.pic }}.jpg')"></div>
                     <h4>{{ member.name }}</h4>
                     <p>{{ member.position }}</p>
                     {% if member.social %}
@@ -34,7 +34,7 @@
             {% for member in site.data.members_alum %}
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                    <div class="img-circle img-team" style="background-image: url('img/team/{{ member.pic }}.jpg')"></div>
                     <h4>{{ member.name }}</h4>
                     <p>{{ member.position }}</p>
                     {% if member.social %}
