@@ -486,7 +486,7 @@ section h3.section-subheading {
 }
 
 .team-member {
-    margin-bottom: 50px;
+    height: 375px;
     text-align: center;
 }
 
@@ -953,6 +953,14 @@ body {
 
 .custom-imgresp {
     width: 100%;
+}
+
+.img-team {
+  height: 200px;
+  width: 200px;
+  background-size: contain;
+  margin: 0 auto;
+  border: 5px solid #fff;
 }
 
 @media all and (max-width: 800px){
