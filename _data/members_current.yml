@@ -14,12 +14,8 @@
   social:
     - title: globe
       url: http://www.joeyhsiao.info/
-- name: Samarth Gulati
-  pic: samarth
-  position: UMSI Student
-  social:
-    - title: globe
-      url: http://www.samarthgulati.com
+    - title: linkedin
+      url: https://www.linkedin.com/in/joeycyhsiao
 
 - name: Suleman Diwan
   pic: suleman

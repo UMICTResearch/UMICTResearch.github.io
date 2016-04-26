@@ -68,6 +68,15 @@
       - title: linkedin
         url: https://www.linkedin.com/in/indulekha-ghandikota-b269aa92
 
+
+- name: Samarth Gulati
+  pic: samarth
+  position: UMSI Alum
+  social:
+    - title: globe
+      url: http://www.samarthgulati.com
+
+
 - name: Benjamin Jen
   pic: benjamin
   position: UROP Student, LSA
@@ -95,7 +104,7 @@
 
 - name: Sandy Ng
   pic: sandyng
-  position: UMSI Student
+  position: UMSI Alum
 
 - name: Hailey Patterson
   pic: hailey
