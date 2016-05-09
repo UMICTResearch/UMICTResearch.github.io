@@ -2,37 +2,37 @@
 
 - name: "Designing for Disadvantaged Job Seekers: Insights from Early Investigations"
   pic: pn0497dillahunt_thumb
-  abstract: "DIS 2016 (to appear)."
+  abstract: "To appear in Proc. of DIS 2016."
   authors: "Dillahunt T., Bose, N., Diwan, S., and Chen-Phang, A."
   link: pn0497dillahunt
 
 - name: "Do Massive Open Online Course Platforms Support Employability?"
   pic: pn133dillahunt-thumb
-  abstract: "Proceedings of the 19th ACM conference on Computer supported cooperative work & social computing (CSCW '16)."
+  abstract: "In Proc. of CSCW 2016."
   authors: "Dillahunt, T., Ng, S., Fiesta, M., Wang, Z."
   link: pn133dillahunt
 
 - name: "If God Gives Me the Chance I Will Design My Own Phone"
   pic: pn0107-dillahunt-thumb
-  abstract: "*honorable mention* | UbiComp 2015."
+  abstract: "*honorable mention* | In Proc. of UbiComp 2015."
   authors: "Wyche, S., Dillahunt, T., Simiyu, N., Alaka, S."
   link: pn0107-dillahunt
 
 - name: "Promise of the Sharing Economy among Disadvantaged Communities"
   pic: pn0389-dillahuntv2_thumb
-  abstract: "Proceedings of the ACM 32nd international conference on Human factors in computing systems (CHI), 2015"
-  authors: "Dillahunt, T.R. and Malone, A.R"
+  abstract: "In Proc. of CHI 2015"
+  authors: "Dillahunt, T.R. and Malone, A.R."
   link: pn0389-dillahuntv2
 
 - name: Detecting and visualization filter bubbles in Google and Bing
   pic: SESAndSearchv8-final_thumb
-  abstract: "Proceedings of the ACM 32nd international conference on Human factors in computing systems (CHI Extended Abstracts), 2015"
-  authors: "Dillahunt, T., Brooks, C., Gulati, S. (2015)"
+  abstract: "In CHI Extended Abstract 2015"
+  authors: "Dillahunt, T., Brooks, C., Gulati, S."
   link: SESAndSearchv8-final
 
 - name: "Learn with Friends: The Effects of Student Face-to-Face Collaborations on Massive Open Online Course Activities"
   pic: p241-brooks_thumb
-  abstract: "Learning at Scale 2015"
+  abstract: "In Proc. of Learning at Scale 2015"
   authors: Brooks, C., Stalburg, C., Dillahunt, T., Robert, L
   link: p241-brooks
 
@@ -44,7 +44,7 @@
 
 - name: "Toward a Deeper Understanding of Sustainability within HCI"
   pic: Dillahunt-sustainability-workshop-2014-finalonwebsite_thumb
-  abstract: "CHI 2014 workshop on Sustainability. What have we learned?"
+  abstract: "CHI 2014, Workshop on Sustainability. What Have We Learned?"
   authors: Dillahunt, T.
   link: Dillahunt-sustainability-workshop-2014-finalonwebsite
 
@@ -56,37 +56,37 @@
 
 - name: "Model Thinking: Demographics and Performance of MOOC Students Unable to Afford a Formal Education"
   pic: Dillahunt-WIP2_thumb
-  abstract: "Learning at Scale 2014"
+  abstract: "In Proc. of Learning at Scale 2014"
   authors: Dillahunt, T., Chen, B., Teasley, S.
   link: Dillahunt-WIP2
 
 - name: "Fostering Social Capital in Economically Distressed Communities"
   pic: Dillahunt_905_thumb
-  abstract: "Proceedings of the ACM 31st international conference on Human factors in computing systems (CHI), 2014"
+  abstract: "In Proc. of CHI 2014"
   authors: Dillahunt, T.R.
   link: Dillahunt_905
 
 - name: "Understanding factors of successful engagement around energy consumption between and among households"
   pic: cscw_228_thumb
-  abstract: "Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2014"
+  abstract: "In Proc. of CSCW 2014"
   authors: Dillahunt, T., Mankoff, J.
   link: cscw_228
 
 - name: "Deep Conservation in Urban India and its Implications for the Design of Conservation Technologies"
   pic: CHI-2013_thumb
-  abstract: "Proceedings of the ACM 31st international conference on Human factors in computing systems, 2013 "
+  abstract: "In Proc. of CHI 2013"
   authors: Shrinivasan, Y., Jain, M., Seetharam, D., Choudhary, A., Huang, E., Dillahunt, T., Mankoff, J.
   link: CHI-2013
 
 - name: "Creating Resilient Communities for Post-Sustainable Times"
   pic: Dillahunt_postsustainability_v10_final_thumb
-  abstract: "Proceedings of the 31st international conference on Human factors in computing systems, Post-Sustainability Workshop, 2013, Paris, France"
+  abstract: "CHI 2013, Post-Sustainability Workshop"
   authors: Dillahunt, T.
   link: Dillahunt_postsustainability_v10_final
 
 - name: "Replicating Residential Sustainability Study in Urban India"
   pic: IndiaEnergyRepliCHI_submitted_thumb
-  abstract: "Proceedings of the ACM 31st international conference on Human factors in computing systems, Replication Workshop 2013, Paris, France"
+  abstract: "CHI 2013, Replication Workshop"
   authors: Jain, M., Shrinivasan, Y., Dillahunt, T.
   link: IndiaEnergyRepliCHI_submitted
 
@@ -98,25 +98,25 @@
 
 - name: "StepGreen.org: Increasing energy saving behaviors via social networks"
   pic: StepGreen_thumb
-  abstract: "ICWSM 2010"
+  abstract: "In Proc. of ICWSM 2010"
   authors: Mankoff, J., Fussell, S., Dillahunt, T., Glaves, Rachel, Grevet, C., Johnson, M., Matthews, D., Matthews, H.S., McGuire, R., Thompson, R.
   link: StepGreen
 
 - name: "Understanding conflict between landlords and tenants: Implications for energy sensing and feedback"
   pic: Understanding-Conflict_thumb
-  abstract: "Proceedings of the 12th international conference on Ubiquitous computing, 2010. pp. 149-158."
+  abstract: "In Proc. of UbiComp 2010"
   authors: Dillahunt, T., Mankoff, J., Paulos, E.
   link: Understanding-Conflict
 
 - name: "It’s not all about green: energy use in low-income communities."
   pic: Its-not-all-about-green_thumb
-  abstract: "Proceedings of the 11th international conference on Ubiquitous computing, 2009. pp. 255–264."
+  abstract: "In Proc. of UbiComp 2009"
   authors: Dillahunt, T., Mankoff, J., Paulos, E., Fussell, S.
   link: Its-not-all-about-green
 
 - name: "UbiGreen: investigating a mobile tool for tracking and supporting green transportation habits."
   pic: UbiGreen_thumb
-  abstract: "Proceedings of the 27th international conference on Human factors in computing systems, 2009. pp. 1043–1052."
+  abstract: "In Proc. of CHI 2009"
   authors: Froehlich, J., Dillahunt, T., Klansja, P., Mankoff, J., Consolvo, S., Harrison, B., Landay, J.
   link: UbiGreen
 
