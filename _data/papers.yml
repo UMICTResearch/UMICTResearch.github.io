@@ -1,7 +1,14 @@
 # Papers
+
+- name: "Designing for Disadvantaged Job Seekers: Insights from Early Investigations"
+  pic: pn0497dillahunt_thumb
+  abstract: "DIS 2016 (to appear)."
+  authors: "Dillahunt T., Bose, N., Diwan, S., and Chen-Phang, A."
+  link: pn0497dillahunt
+
 - name: "Do Massive Open Online Course Platforms Support Employability?"
   pic: pn133dillahunt-thumb
-  abstract: "CSCW 2016 (to appear)."
+  abstract: "Proceedings of the 19th ACM conference on Computer supported cooperative work & social computing (CSCW '16)."
   authors: "Dillahunt, T., Ng, S., Fiesta, M., Wang, Z."
   link: pn133dillahunt
 
@@ -13,7 +20,7 @@
 
 - name: "Promise of the Sharing Economy among Disadvantaged Communities"
   pic: pn0389-dillahuntv2_thumb
-  abstract: "Proceedings of the ACM 32nd international conference on Human factors in computing systems (CHI), 2015 (to appear)."
+  abstract: "Proceedings of the ACM 32nd international conference on Human factors in computing systems (CHI), 2015"
   authors: "Dillahunt, T.R. and Malone, A.R"
   link: pn0389-dillahuntv2
 
