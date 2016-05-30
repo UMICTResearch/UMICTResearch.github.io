@@ -3,6 +3,16 @@
   description: "While much of the research in eco-feedback either implicitly or explicitly focuses on relatively affluent homeowners, there are many unique problems that arise when looking at low-income communities, tenants and landlords, and diverse cultural groups. Some our research projects have explored these issues."
   papers:
 
+    - name: "Understanding factors of successful engagement around energy consumption between and among households"
+      pic: cscw_228_thumb
+      abstract: "In Proc. of CSCW 2014"
+      authors: Dillahunt, T., Mankoff, J.
+      mainlink: cscw_228
+      resources:
+        - type: pdf
+          link: cscw_228
+
+
   # FIX LINK.....
   # UPDATE Environmental sustainability DESCRIPTION; ADD papers
     - name: "Deep Conservation in Urban India and its Implications for the Design of Conservation Technologies"
