@@ -1,5 +1,14 @@
 # Project Details for SocioTechnical capital, employment and economic mobility
 
+- name: "Project Boost: Addressing the Socio in a Socio-Technical System to Improve Income-Earning Opportunities in Urban America"
+  pic: Dillahunt_CHI16WS_thumb
+  abstract: "“Sharing economy” ventures such as Uber and Airbnb use rhetoric that claims to provide income-earning opportunities for those seeking them. Research to-date, however, suggests that the people who most benefit from these services are those with significant advantages to begin with. In other words, even effective, widely accessible technology isn’t enough to address socio-economic divides on its own. We propose Project Boost, which seeks to document all of the non- technological elements required for citizens of Detroit to benefit from online income opportunities. In particular, we seek to understand what residents who wish to earn income by giving local tours require beyond a website. We have already begun on the project, and at the workshop, we would like to continue planning with our geographically scattered team, and invite others to work with us or attempt similar programs in other cities. <br><br> This project was presented at the CHI 2016 Workshop - Development Consortium 2016: HCI Across Borders"
+  authors: "Kameswaran, V. Marathe, M., Dillahunt, T., Pal, Joyojeet, Reinecke, K., and Toyama, K."
+  mainlink: Dillahunt_CHI16WS
+  resources:
+    - type: pdf
+      link: Dillahunt_CHI16WS
+
 - name: "Increasing Sociotechnical Capital with Crowd-sourced Career Advice"
   pic: employment-thumb
   abstract: "Despite the passing of the economic recession of 2008, many people are still unable to find stable jobs. The goal of this project is to help to address this problem by providing easy access to individuals for access to employment resources such as resume and interview feedback. We explore both Crowd-sourcing and Friend-sourcing as mechanisms to address these issues. <br><br>This project was presented at the Michigan UROP symposium in April 2015."
