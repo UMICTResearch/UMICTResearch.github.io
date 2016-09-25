@@ -8,6 +8,7 @@
       url: http://www.tawannadillahunt.com
     - title: linkedin
       url: https://www.linkedin.com/pub/tawanna-dillahunt/82/866/a77
+
 - name: Joey Chiao-Yin Hsiao
   pic: joey
   position: UMSI Ph.D. Student
@@ -17,13 +18,9 @@
     - title: linkedin
       url: https://www.linkedin.com/in/joeycyhsiao
 
-- name: Suleman Diwan
-  pic: suleman
-  position: Developer
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/sulemandiwan
-
+- name: Earnest Wheeler
+  pic: earnest
+  position: UMSI Ph.D. Student
 
 - name: Vaishnav Kameswaran
   pic: vaishnav
@@ -32,13 +29,20 @@
     - title: globe
       url: http://www.vaishnavk.com
 
+- name: Jessica Salvador
+  pic: je
+  position: UMSI REMS, University of Washington 
 
 - name: Eva Li
   pic: eva
   position: UM CS/Stats Undergrad
 
-
-
+- name: Suleman Diwan
+  pic: suleman
+  position: Developer
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/sulemandiwan
 
 
 
