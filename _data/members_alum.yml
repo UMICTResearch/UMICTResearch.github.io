@@ -11,6 +11,16 @@
 #    - title: stack-overflow
 #      url: #
 
+
+- name: Brittney Atkinson-McFarlane
+  pic: brittney
+  position: NSF REU, Cornell University Student
+  social:
+      - title: globe
+        url: http://branded.me/brittneymc
+      - title: linkedin
+        url: https://www.linkedin.com/in/brittneymcfarlane
+
 - name: Ameera Ayodeji
   pic: ameera
   position: NSF REU and Bowie State Alum

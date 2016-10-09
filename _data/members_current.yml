@@ -33,9 +33,23 @@
   pic: je
   position: UMSI REMS, University of Washington 
 
+- name: David Cui
+  pic: david
+  position: UM Undergrad
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/david-cui-168376a6
+
 - name: Eva Li
   pic: eva
   position: UM CS/Stats Undergrad
+
+- name: Mingda Tang
+  pic: mingda
+  position: UM UROP Student
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/mingda-tang-84546998 
 
 - name: Suleman Diwan
   pic: suleman
