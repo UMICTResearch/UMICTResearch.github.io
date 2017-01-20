@@ -1,8 +1,16 @@
 # Papers
+
+- name: "Uncovering the Values and Constraints of Real-time Ridesharing for Low-resource Populations" 
+  pic: Dillahunt_CHI17_thumb 
+  abstract: "To appear in Proc. of CHI 2017."
+  authors: "Dillahunt, T.R., Kameswaran, V., Li, L., and Rosenblat, T." 
+  link: Dillahunt_CHI17
+
 - name: "People-Nearby Applications: How Newcomers Move Their Relationships Offline and Develop Social and Cultural Capital."
   pic: Hsiao_CSCW17_thumb 
-  abstract: "To appear in CSCW 2017. (Contact us for the draft.)"
+  abstract: "To appear in Proc. of CSCW 2017."
   authors: "Hsiao, J. C.-Y. and Dillahunt, T.R." 
+  link: Hsiao_CSCW17
 
 - name: "Designing for Disadvantaged Job Seekers: Insights from Early Investigations"
   pic: pn0497dillahunt_thumb
@@ -12,7 +20,7 @@
 
 - name: "Project Boost: Addressing the Socio in a Socio-Technical System to Improve Income-Earning Opportunities in Urban America."
   pic: Dillahunt_CHI16WS_thumb
-  abstract: "CHI ’16. Workshop: Development Consortium 2016: HCI Across Borders"
+  abstract: "CHI '16. Workshop: Development Consortium 2016: HCI Across Borders"
   authors: "Kameswaran, V. Marathe, M., Dillahunt, T., Pal, Joyojeet, Reinecke, K., and Toyama, K."
   link: Dillahunt_CHI16WS
 
