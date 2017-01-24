@@ -6,6 +6,12 @@
   authors: "Dillahunt, T.R., Kameswaran, V., Li, L., and Rosenblat, T." 
   link: Dillahunt_CHI17
 
+- name: "Reflections on Design Methods for Underserved Communities"
+  pic: Dillahunt_CSCW17WS_thumb 
+  abstract: "CSCW 2017 Workshop"
+  authors: "Dillahunt, T.R., Erete, S., Galusca, R., Israni, A., Nacu, D., and Sengers, P."
+  link: Dillahunt_CSCW17WS
+
 - name: "People-Nearby Applications: How Newcomers Move Their Relationships Offline and Develop Social and Cultural Capital."
   pic: Hsiao_CSCW17_thumb 
   abstract: "To appear in Proc. of CSCW 2017."
@@ -20,7 +26,7 @@
 
 - name: "Project Boost: Addressing the Socio in a Socio-Technical System to Improve Income-Earning Opportunities in Urban America."
   pic: Dillahunt_CHI16WS_thumb
-  abstract: "CHI '16. Workshop: Development Consortium 2016: HCI Across Borders"
+  abstract: "CHI 2016. Workshop: Development Consortium 2016: HCI Across Borders"
   authors: "Kameswaran, V. Marathe, M., Dillahunt, T., Pal, Joyojeet, Reinecke, K., and Toyama, K."
   link: Dillahunt_CHI16WS
 
