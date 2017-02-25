@@ -1,0 +1,21 @@
+# Project Details for SocioTechnical capital, employment and economic mobility
+
+- name: "Detecting Life Changes: Increasing Opportunities to Benefit from People-Nearby Applications" 
+  pic: Hsiao_CHIEA17_thumb 
+  abstract: "Prior research suggests that individuals are motivated to use People-Nearby Applications (PNAs) to meet new people offline and that these individuals receive benefits such as social and cultural capital from their offline connections. It is unclear, however, what the impetus behind these motivations are and whether individuals are motivated to use PNAs for other reasons. To explore these questions, we analyzed a dataset of 14 active PNA users' semi-structured interviews and found that participants' first experiences using PNAs were associated with significant life events such as moving to a new area or ending a relationship. We conducted an online survey (N=142) to explore these findings further and investigate whether they generalized across a broader set of active PNA users. We confirm our past findings and contribute ways in which future technologies can detect specific life changes to increase the opportunities for individuals to benefit from PNAs."
+  authors: "Hsiao, J. C.-Y. and Dillahunt, T.R. (2017)"
+  mainlink: Hsiao_CHIEA17
+  resources:
+    - type: pdf
+      link: Hsiao_CHIEA17
+
+
+- name: "People-Nearby Applications: How Newcomers Move Their Relationships Offline and Develop Social and Cultural Capital."
+  pic: Hsiao_CSCW17_thumb 
+  abstract: "People-nearby applications (PNAs), such as Tinder and Badoo, help millions of users to make new social connections everyday. However, little is known about how PNAs support offline interactions or what application features are associated with offline encounters. Research suggests that these applications support the development of social capital, but the forms of social capital are unclear. We conducted interviews with 14 active PNA users to address these questions. Our results suggest that while existing PNA features such as filters, profile photos, and chat support online connections, most participants used non-PNA platforms to build mutual trust before meeting offline. In addition, PNA users developed two forms of social (informal and formal) and cultural capital (incorporated and symbolic). We offer insights into how PNAs and non-PNAs intersect to foster feelings of safety and trust prior to offline meetings, and we propose ways for PNAs to support the exchange of cultural and social capital." 
+  authors: "Hsiao, J. C.-Y. and Dillahunt, T.R. (2017)" 
+  mainlink: Hsiao_CSCW17
+  resources: 
+    - type: pdf
+      link: Hsiao_CSCW17
+
