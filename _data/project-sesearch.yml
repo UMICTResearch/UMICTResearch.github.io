@@ -1,4 +1,13 @@
-# Project Details for SocioTechnical capital, employment and economic mobility
+
+- name: Opportunities to Address Information Poverty with Social Search
+  pic: Wheeler_CHIEA17_thumb
+  abstract: "Information seeking is a central part of human life, and search engines are the dominant method of information seeking on the Internet. Although recent years have seen the rise of social search systems as a promising alternative, their application for populations across the digital divide that are starved for information has been overlooked. Drawing on research on social search, information search, and information poverty, we identify three dimensions of information poverty in web search, and hypothesize affordances of social search platforms that could address the details of each issue. Finally, we propose research questions and two as- sociated studies to investigate these hypotheses."
+  authors: "Wheeler, E., Dillahunt, T. R., and Rieh, S. Y. (2017)"
+  mainlink: Wheeler_CHIEA17
+  resources:
+    - type: pdf
+      link: Wheeler_CHIEA17
+
 - name: Detecting and visualization filter bubbles in Google and Bing
   pic: SESAndSearchv8-final_thumb
   abstract: "Despite the pervasiveness of search engines, most users know little about the implications of search engine algorithms and are unaware of how they work. People using web search engines assume that search results are unbiased and neutral. Filter bubbles, or personalized results, could lead to polarizing effects across populations, which could create divisions in society. This preliminary work explores whether the filter bubble can be measured and described and is an initial investigation towards the larger goal of identifying how non-search experts might understand how the filter bubble impacts their search results."
