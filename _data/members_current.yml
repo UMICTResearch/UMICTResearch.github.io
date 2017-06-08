@@ -29,9 +29,28 @@
     - title: globe
       url: http://www.vaishnavk.com
 
-- name: Jessica Salvador
-  pic: je
-  position: UMSI REMS, University of Washington 
+- name: Raden Tonev
+  pic: raden
+  position: UM MSI Student
+  social: 
+    - title: globe
+      url: http://www.radentonev.com 
+    - title: linkedin
+      url: https://www.linkedin.com/in/raden-tonev-3929b227/
+          
+- name: Seungjoo Baek
+  pic: seungjoo
+  position: UM MSI Student
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/davidsjbaek/
+
+- name: Jason Jbrill
+  pic: jason
+  position: UM CS/Design Undergrad
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jlbrill/ 
 
 - name: David Cui
   pic: david
@@ -50,6 +69,10 @@
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/mingda-tang-84546998 
+
+- name: Guillermo Garcia
+  pic: guillermo
+  position: UM UROP Student 
 
 - name: Suleman Diwan
   pic: suleman
