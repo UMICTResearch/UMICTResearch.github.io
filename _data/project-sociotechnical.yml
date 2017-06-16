@@ -1,5 +1,16 @@
 # Project Details for SocioTechnical capital, employment and economic mobility
 
+
+- name: "Technology for Underserved Communities"
+  pic: Dillahunt_RFP17_thumb
+  abstract: "This installment of Research for Practice provides curated reading guides to technology for underserved communities and to new developments in personal fabrication. First, Tawanna Dillahunt describes design considerations and technology for underserved and impoverished communities. Designing for the more than 1.6 billion impoverished individuals worldwide requires special consideration of community needs, constraints, and context. Tawanna's selections span protocols for poor-quality communication networks, community-driven content generation, and resource and public service discovery. Second, Stefanie Mueller and Patrick Baudisch provide an overview of recent advances in personal fabrication (e.g., 3D printers). Their selection covers new techniques for fabricating (and emulating) complex materials (e.g., by manipulating the internal structure of an object), for more easily specifying object shape and behavior, and for human-in-the-loop rapid prototyping. Combined, these two guides provide a fascinating deep dive into some of the latest human-centric computer science research results."
+  authors: "Dillahunt, T. R. (2017)" 
+  mainlink: Dillahunt_RFP17
+  resources:
+      - type: pdf
+        link: Dillahunt_RFP17
+
+
 - name: "Uncovering the Values and Constraints of Real-time Ridesharing for Low-resource Populations"
   pic: Dillahunt_CHI17_thumb
   abstract: "Real-time ridesharing services (e.g., Uber and Lyft) are often touted as sharing-economy leaders and dramatically lower the cost of transportation. However, how to make these services work better among low-income and transportation-scarce households, how these individuals experience these services, and whether they encounter barriers in enlisting these services is unknown. To address these questions, we onboarded 13 low-income individuals living in transportation-scarce environments to Uber as passengers. Our participants found these services to be reliable and benefited from rich social interactions with drivers; however, barriers such as cost, limited payment methods, and low digital literacy can make such services infeasible. We contribute platform designs that could lead to increased digital literacy and application transparency. To be more inclusive and to reach critical mass, we suggest that these companies foster belief in commons and community trust by coordinating with local businesses in low-resource areas with lower digital literacy."
