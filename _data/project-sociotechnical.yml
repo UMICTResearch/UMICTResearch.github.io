@@ -3,7 +3,7 @@
 
 - name: "Technology for Underserved Communities"
   pic: Dillahunt_RFP17_thumb
-  abstract: 
+  abstract: "This installment of Research for Practice provides curated reading guides to technology for underserved communities and to new developments in personal fabrication. First, Tawanna Dillahunt describes design considerations and technology for underserved and impoverished communities. Designing for the more than 1.6 billion impoverished individuals worldwide requires special consideration of community needs, constraints, and context. Tawanna's selections span protocols for poor-quality communication networks, community-driven content generation, and resource and public service discovery. Second, Stefanie Mueller and Patrick Baudisch provide an overview of recent advances in personal fabrication (e.g., 3D printers). Their selection covers new techniques for fabricating (and emulating) complex materials (e.g., by manipulating the internal structure of an object), for more easily specifying object shape and behavior, and for human-in-the-loop rapid prototyping. Combined, these two guides provide a fascinating deep dive into some of the latest human-centric computer science research results."
   authors: "Dillahunt, T. R. (2017)" 
   mainlink: Dillahunt_RFP17
   resources:
