@@ -9,6 +9,15 @@
     - title: linkedin
       url: https://www.linkedin.com/pub/tawanna-dillahunt/82/866/a77
 
+- name: Julie Hui
+  pic: julie
+  position: UMSI Post-doc
+  social:
+    - title: globe
+      url: http://www.juliehui.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/juliehui/ 
+
 - name: Joey Chiao-Yin Hsiao
   pic: joey
   position: UMSI Ph.D. Student
@@ -22,9 +31,16 @@
   pic: earnest
   position: UMSI Ph.D. Student
 
+- name: Ihudiya Finda Ogbonnaya-Ogburu
+  pic: finda
+  position: UMSI Ph.D. Student
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/ihudiyaogburu/
+
 - name: Vaishnav Kameswaran
   pic: vaishnav
-  position: UMSI Research Assistant
+  position: UMSI Ph.D. Student
   social:
     - title: globe
       url: http://www.vaishnavk.com
@@ -37,35 +53,31 @@
       url: http://www.radentonev.com 
     - title: linkedin
       url: https://www.linkedin.com/in/raden-tonev-3929b227/
-          
-- name: Jason Jbrill
+
+- name: Seungjoo Baek
+  pic: seungjoo
+  position: UM MSI Student
+  social: 
+    - title: globe
+      url: http://www.davidsjbaek.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/davidsjbaek/
+
+- name: Jason Brill
   pic: jason
   position: UM CS/Design Undergrad
   social:
+    - title: globe
+      url: http://www-personal.umich.edu/~jlbrill/
     - title: linkedin
       url: https://www.linkedin.com/in/jlbrill/ 
 
-- name: David Cui
-  pic: david
-  position: UM Undergrad
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/david-cui-168376a6
-
-- name: Eva Li
-  pic: eva
-  position: UM CS/Stats Undergrad
-
 - name: Mingda Tang
   pic: mingda
-  position: UM UROP Student
+  position: UM Undergrad
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/mingda-tang-84546998 
-
-- name: Guillermo Garcia
-  pic: guillermo
-  position: UM UROP Student 
 
 - name: Suleman Diwan
   pic: suleman
