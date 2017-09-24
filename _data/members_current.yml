@@ -53,11 +53,22 @@
       url: http://www.radentonev.com 
     - title: linkedin
       url: https://www.linkedin.com/in/raden-tonev-3929b227/
-          
-- name: Jason Jbrill
+
+- name: Seungjoo Baek
+  pic: seungjoo
+  position: UM MSI Student
+  social: 
+    - title: globe
+      url: http://www.davidsjbaek.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/davidsjbaek/
+
+- name: Jason Brill
   pic: jason
   position: UM CS/Design Undergrad
   social:
+    - title: globe
+      url: http://www-personal.umich.edu/~jlbrill/
     - title: linkedin
       url: https://www.linkedin.com/in/jlbrill/ 
 
