@@ -38,7 +38,6 @@
     - title: linkedin
       url: https://www.linkedin.com/in/nishanbose
 
-
 - name: Thaddeus Brown
   pic: thaddeus
   position: NSF REU and Bowie State Alum
@@ -54,6 +53,13 @@
         url: http://www1.coe.neu.edu/~achenpha
       - title: linkedin
         url: https://www.linkedin.com/in/ashacp
+
+- name: David Cui
+  pic: david
+  position: UM Undergrad
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/david-cui-168376a6
 
 - name: Jonathan De Heus
   pic: jonathan
@@ -104,6 +110,10 @@
       url: https://www.linkedin.com/in/jashanjit
     - title: twitter
       url: http://twitter.com/jashan90
+
+- name: Eva Li
+  pic: eva
+  position: UM CS/Stats Undergrad
 
 - name: Amy Malone
   pic: amy
