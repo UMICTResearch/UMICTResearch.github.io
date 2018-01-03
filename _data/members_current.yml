@@ -45,6 +45,16 @@
     - title: globe
       url: http://www.vaishnavk.com
 
+- name: Jason Lam
+  pic: jasonlam
+  position: UMSI Alumni
+  social:
+    - title: globe
+      url: http://jasonclam.com 
+    - title: linkedin
+      url: https://www.linkedin.com/in/jasonclam/
+
+
 - name: Raden Tonev
   pic: raden
   position: UM MSI Student
@@ -63,8 +73,24 @@
     - title: linkedin
       url: https://www.linkedin.com/in/davidsjbaek/
 
+- name: Alex Lu
+  pic: alexlu
+  position: UM MSI/MSW Student
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/lujiahong 
+
+- name: Marcy Held
+  pic: marcy
+  position: UM MSI Student
+  social:
+    - title: globe
+      url: http://www.marcyheld.com 
+    - title: linkedin
+      url: https://www.linkedin.com/in/marcy-held-837917b0/ 
+
 - name: Jason Brill
-  pic: jason
+  pic: jasonbrill
   position: UM CS/Design Undergrad
   social:
     - title: globe

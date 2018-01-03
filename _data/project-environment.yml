@@ -6,7 +6,20 @@
 
     - name: "Reducing Children's Psychological Distance from Climate Change via Eco-feedback Technologies"
       pic: Dillahunt_IJCCI17_thumb
-      abstract: "Empirical environment and behavior research has found that empathy improves environmental attitudes and behaviors. Emotionally persuasive icons (EPIs) show promise for creating empathy and for the design of effective eco-feedback technologies, particularly among children. Yet studies using these icons have focused on adults, with little research devoted to eco-feedback design for children. We explore the affective reactions to EPIs among children ages 9-11. To understand which types of EPIs generate the most empathy, we vary them in two dimensions: 1) metaphorical versus literal representations and 2) animal scenes versus environmental scenes. Our findings suggest that the impact of EPIs extends beyond metaphorical or literal images; to improve eco-feedback technologies that employ EPIs, designers must link the causes and effects of climate change to concrete, tangible actions that are associated with personal experiences, which could lead to stronger engagement and emotional responses among children. These results are consistent with the construal level theory of psychological distance, which is the cognitive and affective perception of how close or far something is. We extend this theory to sustainable HCI and contribute a space for future eco-feedback design among children. "
+      abstract: 
+  "Empirical environment and behavior research has found that empathy improves environmental attitudes
+and behaviors. Emotionally persuasive icons (EPIs) show promise for creating empathy and for the design
+of effective eco-feedback technologies, particularly among children. Yet studies using these icons have
+focused on adults, with little research devoted to eco-feedback design for children. We explore the
+affective reactions to EPIs among children ages 9–11. To understand which types of EPIs generate the
+most empathy, we vary them in two dimensions: (1) metaphorical versus literal representations and (2)
+animal scenes versus environmental scenes. Our findings suggest that the impact of EPIs extends beyond
+metaphorical or literal images; to improve eco-feedback technologies that employ EPIs, designers must
+link the causes and effects of climate change to concrete, tangible actions that are associated with personal
+experiences, which could lead to stronger engagement and emotional responses among children. These
+results are consistent with the construal level theory of psychological distance, which is the cognitive
+and affective perception of how close or far something is. We extend this theory to sustainable HCI and
+contribute a space for future eco-feedback design among children."
       authors: Dillahunt, T., Lyrab, O., Barretoc, M., and Karapanos, E.
       mainlink: Dillahunt_IJCCI17
       resources:
