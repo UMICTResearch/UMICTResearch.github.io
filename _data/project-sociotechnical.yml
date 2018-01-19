@@ -1,5 +1,31 @@
 # Project Details for SocioTechnical capital, employment and economic mobility
 
+- name: "Entrepreneurship and the Socio-Technical Chasm in a Lean Economy"
+  pic: Dillahunt_CHI18_thumb
+  abstract: "Online technologies are increasingly hailed as enablers of entrepreneurship and income generation. Recent evidence suggests, however, that even the best such tools dispropor- tionately favor those with pre-existing entrepreneurial advan- tages. Despite intentions, the technology on its own seems far from addressing socio-economic inequalities. Using par- ticipatory action research, we investigated why this might be, in an intimate, close-up context. Over a 1-year period, we— a collaborative team of university researchers and residents of Detroit’s East Side—worked to establish a neighborhood tour whose initial goal was to raise supplementary income and fundraise for community block clubs. We found that in addition to technical requirements, such as communication tools, a range of non-technological efforts is needed to manage projects, build self-efficacy, and otherwise support community participants. Our findings widen Ackerman’s “socio-technical gap” for some contexts and offer a counterpoint to overgener- alized claims about well-designed technologies being able to address certain classes of social challenges."
+  authors: "Dillahunt, T. R., Kameswaran, V., McLain, D., Lester, M., Orr, D., and Toyama, K. (2018)"  
+  mainlink: Dillahunt_CHI18
+  resources:
+      - type: pdf
+        link: Dillahunt_CHI18
+
+- name: "Support for Social and Cultural Capital Development in Real-time Ridesharing Services"
+  pic: Kameswaran_CHI18_thumb
+  abstract: "Today’s transportation systems and technologies have the potential to transform the ways individuals acquire resources from their social networks and environments. However, it is unclear what types of resources can be acquired and how technology could support these efforts. We address this gap by investigating these questions in the domain of real-time ridesharing systems. We present insights from two qualitative studies: (1) a set of semi-structured interviews with 13 Uber drivers and (2) a set of semi-structured interviews with 13 Uber riders. Our results show that both drivers and riders acquired and benefited from informational, emotional and instrumental resources, as well as cultural exchanges via interactions with each other and with online platforms. We argue that these interactions could support the development of social and cultural capital. We discuss our findings in the context of labor and contribute design implications for in-car social and cultural experiences and for the ways technologies such as GPS and location-based services can support the additional emotional, social, and cultural labor that drivers provide to their riders."
+  authors: "Kameswaran, V., Cameron, L., and Dillahunt, T. R. (2018)"
+  mainlink: Kameswaran_CHI18
+  resources:
+      - type: pdf
+        link: Kameswaran_CHI18
+
+- name: "Navigating the Job Search as a Low-Resourced Job Seeker"
+  pic: Wheeler_CHI18_thumb
+  abstract: "The Internet is providing increasing access to information about employment opportunities, but not everyone can lever- age it effectively. Research suggests that job seekers with limited access to Internet technologies are being left behind, while those with limited social resources are expected to rely on the Internet even more. In this work, we conducted in- depth semi-structured interviews with 11 low-resourced job seekers in a metropolitan area in the Midwestern United States to understand how social and digital resources support their efforts to find work. We find that online resources support job seekers in finding relevant jobs via search, but do not help them identify opportunities to improve their job search pro- cess or increase their chances of securing employment. We recommend that systems aiming to support low-resourced job seekers design for deeper engagement with their users across the job search process, to help users recognize ways to improve on their existing practices."
+  authors: "Wheeler, E., and Dillahunt, T. R. (2018)"
+  mainlink: Wheeler_CHI18
+  resources:
+      - type: pdf
+        link: Wheeler_CHI18
 
 - name: "Technology for Underserved Communities"
   pic: Dillahunt_RFP17_thumb
