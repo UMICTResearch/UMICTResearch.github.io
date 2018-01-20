@@ -1,5 +1,22 @@
 # Papers
 
+- name: "Entrepreneurship and the Socio-Technical Chasm in a Lean Economy"
+  pic: Dillahunt_CHI18_thumb
+  abstract: "To Appear in Proc. of CHI 2018"
+  authors: "Dillahunt, T. R., Kameswaran, V., McLain, D., Lester, M., Orr, D., and Toyama, K." 
+  link: Dillahunt_CHI18
+
+- name: "Support for Social and Cultural Capital Development in Real-time Ridesharing Services"
+  pic: Kameswaran_CHI18_thumb
+  abstract: "To Appear in Proc. of CHI 2018"
+  authors: "Kameswaran, V., Cameron, L., and Dillahunt, T. R."
+  link: Kameswaran_CHI18
+
+- name: "Navigating the Job Search as a Low-Resourced Job Seeker"
+  pic: Wheeler_CHI18_thumb
+  abstract: "To Appear in Proc. of CHI 2018"
+  authors: "Wheeler, E., and Dillahunt, T. R."
+  link: Wheeler_CHI18
 
 - name: "The Sharing Economy in Computing: A Systematic Literature Review"
   pic: Dillahunt_CSCW18_thumb
