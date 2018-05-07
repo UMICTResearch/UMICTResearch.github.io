@@ -1,5 +1,15 @@
 # Project Details for SocioTechnical capital, employment and economic mobility
 
+
+- name: "The Role of Demographics, Trust, Computer Self-efficacy, and Ease of Use in the Sharing Economy"
+  pic: Hsiao_COMPASS18_thumb
+  abstract: "The digital sharing economy has introduced opportunities for eco- nomic growth, productivity, and technological innovation. However, the adoption of sharing economy applications may be inaccessible to certain demographics, including older adults, low-income adults, and individuals who are not college educated. This research inves- tigates how the demographic factors: trust, computer self-e cacy, and perceived ease of use, impact participation in the sharing econ- omy. Drawing on survey data with 508 participants, we found that trust in institutions, computer self-e cacy, and perceived ease of use positively correlate to individuals’ past use of and willingness to pay for future sharing economy services, but age is negatively correlated. Surprisingly, we do not  nd that sharing economy users are more likely to have higher trust in strangers, higher incomes, or more education. We compare our  ndings to existing research, discuss why institutional trust might negate other concerns about sharing economy use, and explore opportunities to support broader participation in the sharing economy."
+  authors: "Hsiao, J. C.-Y., Moser, C., Schoenebeck, S., and Dillahunt, T. R."
+  mainlink: Hsiao_COMPASS18
+  resources: 
+      - type: pdf
+        link: Hsiao_COMPASS18
+
 - name: "Entrepreneurship and the Socio-Technical Chasm in a Lean Economy"
   pic: Dillahunt_CHI18_thumb
   abstract: "Online technologies are increasingly hailed as enablers of entrepreneurship and income generation. Recent evidence suggests, however, that even the best such tools dispropor- tionately favor those with pre-existing entrepreneurial advan- tages. Despite intentions, the technology on its own seems far from addressing socio-economic inequalities. Using par- ticipatory action research, we investigated why this might be, in an intimate, close-up context. Over a 1-year period, we— a collaborative team of university researchers and residents of Detroit’s East Side—worked to establish a neighborhood tour whose initial goal was to raise supplementary income and fundraise for community block clubs. We found that in addition to technical requirements, such as communication tools, a range of non-technological efforts is needed to manage projects, build self-efficacy, and otherwise support community participants. Our findings widen Ackerman’s “socio-technical gap” for some contexts and offer a counterpoint to overgener- alized claims about well-designed technologies being able to address certain classes of social challenges."
