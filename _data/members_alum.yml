@@ -28,6 +28,14 @@
       - title: linkedin
         url: https://www.linkedin.com/in/ameeraayodeji
 
+- name: Seungjoo Baek
+  pic: seungjoo
+  position: UM MSI Alum
+  social: 
+    - title: globe
+      url: http://www.davidsjbaek.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/davidsjbaek/
 
 - name: Nishan Bose
   pic: nishan
@@ -37,6 +45,15 @@
       url: http://nishanbose.com
     - title: linkedin
       url: https://www.linkedin.com/in/nishanbose
+
+- name: Jason Brill
+  pic: jasonbrill
+  position: UM CS/Design Undergrad
+  social:
+    - title: globe
+      url: http://www-personal.umich.edu/~jlbrill/
+    - title: linkedin
+      url: https://www.linkedin.com/in/jlbrill/ 
 
 - name: Thaddeus Brown
   pic: thaddeus
@@ -69,6 +86,13 @@
         url: http://www.jondeheus.com
       - title: linkedin
         url: https://www.linkedin.com/in/jdeheus
+
+- name: Suleman Diwan
+  pic: suleman
+  position: Developer
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/sulemandiwan
 
 - name: Michelle Fiesta
   pic: mfiesta
@@ -143,6 +167,17 @@
 - name: Jessica Salvador
   pic: je
   position: UMSI REMS, University of Washington 
+
+- name: Raden Tonev
+  pic: raden
+  position: UM MSI Alum
+  social: 
+    - title: globe
+      url: http://www.radentonev.com 
+    - title: linkedin
+      url: https://www.linkedin.com/in/raden-tonev-3929b227/
+
+
 
 - name: Zengguang (Brian) Wang
   pic: brianwang
