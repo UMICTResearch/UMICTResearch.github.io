@@ -1,10 +1,18 @@
 # Project Details for SocioTechnical capital, employment and economic mobility
 
+- name: "Designing Future Employment Applications for Underserved Job Seekers: A Speed Dating Study"
+  pic: Dillahunt_DIS18_thumb
+  abstract: "Modern Information and Communication Technologies (ICTs) support job searches, resume creation, career development, and professional self-presentation. However, these technology tools are often tailored to high-income, highly educated users and white-collar professionals. It is unclear what interventions address the needs of job seekers who have limited resources or education, or who may be underserved in other ways. We gathered insights from the literature and generated ten tangible design concepts to address the needs of underserved job seekers. We then conducted a needs validation and speed dating study to understand which concepts were most viable among our population. We found that the three most preferred concepts immediately addressed job seekers' social and personal needs, where addressing social needs meant mediating job seekers' connections to others and supporting job seekers' limited access to strong ties."
+  authors: "Dillahunt, T. R., Lam, J., Lu, A., and Wheeler, E. (2018)"
+  mainlink: Dillahunt_DIS18
+  resources: 
+      - type: pdf
+        link: Dillahunt_DIS18
 
 - name: "The Role of Demographics, Trust, Computer Self-efficacy, and Ease of Use in the Sharing Economy"
   pic: Hsiao_COMPASS18_thumb
   abstract: "The digital sharing economy has introduced opportunities for economic growth, productivity, and technological innovation. However, the adoption of sharing economy applications may be inaccessible to certain demographics, including older adults, low-income adults, and individuals who are not college educated. This research investigates how the demographic factors: trust, computer self-efficacy, and perceived ease of use, impact participation in the sharing economy. Drawing on survey data with 508 participants, we found that trust in institutions, computer self-efficacy, and perceived ease of use positively correlate to individuals' past use of and willingness to pay for future sharing economy services, but age is negatively correlated. Surprisingly, we do not find that sharing economy users are more likely to have higher trust in strangers, higher incomes, or more education. We compare our findings to existing research, discuss why institutional trust might negate other concerns about sharing economy use, and explore opportunities to support broader participation in the sharing economy."
-  authors: "Hsiao, J. C.-Y., Moser, C., Schoenebeck, S., and Dillahunt, T. R."
+  authors: "Hsiao, J. C.-Y., Moser, C., Schoenebeck, S., and Dillahunt, T. R. (2018)"
   mainlink: Hsiao_COMPASS18
   resources: 
       - type: pdf
