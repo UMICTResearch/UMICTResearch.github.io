@@ -3,11 +3,22 @@
 - name: slide1
   alt: "Aternative text for accessibility requirement"
 
-- name: slide2
-  alt: "Aternative text for accessibility requirement"
+#- name: slide2
+#  alt: "Aternative text for accessibility requirement"
 
 - name: slide3
   alt: "Aternative text for accessibility requirement"
 
 - name: slide4
   alt: "Aternative text for accessibility requirement"
+
+- name: slide5
+  alt: "Aternative text for accessibility requirement"
+
+- name: slide6
+  alt: "Aternative text for accessibility requirement"
+
+- name: slide7
+  alt: "Aternative text for accessibility requirement"
+
+
