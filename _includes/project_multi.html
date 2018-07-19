@@ -10,6 +10,18 @@
                 <div class="portfolio-caption">
                     <h4>{{ page.title }}</h4>
                     <p class="text-muted">{{ page.description }}</p>
+					<br />
+
+                    {% if site.data[namespace] %}
+				 	<p class="text-muted">This project contains the following sub-projects:
+					    <ul>
+					    {% for main in site.data[namespace] %} 
+					        <li><b>{{ main.subproject }}</b></li>
+					    {% endfor %}
+					    </ul>
+					</p>
+                    {% endif %}
+
                     {% if page.video %}
                     <a href="{{page.video}}" target="_blank" class="project-video">Click here for related video</a>
                     {% endif %}
