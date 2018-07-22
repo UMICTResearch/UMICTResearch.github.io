@@ -37,6 +37,13 @@
     - title: linkedin
       url: https://www.linkedin.com/in/davidsjbaek/
 
+- name: Jacob Berman
+  pic: jacob
+  position: UM MSI Student
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jacobberman/
+
 - name: Nishan Bose
   pic: nishan
   position: UMSI Alum
@@ -116,6 +123,15 @@
     - title: globe
       url: http://www.samarthgulati.com
 
+- name: Marcy Held
+  pic: marcy
+  position: UMSI Alumni
+  social:
+    - title: globe
+      url: http://www.marcyheld.com 
+    - title: linkedin
+      url: https://www.linkedin.com/in/marcy-held-837917b0/ 
+
 
 - name: Benjamin Jen
   pic: benjamin
@@ -134,6 +150,17 @@
       url: https://www.linkedin.com/in/jashanjit
     - title: twitter
       url: http://twitter.com/jashan90
+
+
+- name: Jason Lam
+  pic: jasonlam
+  position: UMSI Alumni
+  social:
+    - title: globe
+      url: http://jasonclam.com 
+    - title: linkedin
+      url: https://www.linkedin.com/in/jasonclam/
+
 
 - name: Eva Li
   pic: eva
@@ -168,6 +195,13 @@
   pic: je
   position: UMSI REMS, University of Washington 
 
+- name: Mingda Tang
+  pic: mingda
+  position: UM Undergrad
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/mingda-tang-84546998 
+
 - name: Raden Tonev
   pic: raden
   position: UM MSI Alum
@@ -176,8 +210,6 @@
       url: http://www.radentonev.com 
     - title: linkedin
       url: https://www.linkedin.com/in/raden-tonev-3929b227/
-
-
 
 - name: Zengguang (Brian) Wang
   pic: brianwang

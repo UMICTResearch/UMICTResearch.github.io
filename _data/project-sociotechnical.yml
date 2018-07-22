@@ -102,6 +102,17 @@
         link: Kameswaran_CHI18
 
 
+
+    - name: "The Sharing Economy in Computing: A Systematic Literature Review"
+      pic: Dillahunt_CSCW18_thumb
+      abstract: "The sharing economy has quickly become a very prominent subject of research in the broader computing literature and in the human–computer interaction (HCI) literature more speci cally. When other computing research areas have experienced similarly rapid growth (e.g., human computation, eco-feedback technology), early stage literature reviews have proved useful and in uential by identifying trends and gaps in the literature of interest and by providing key directions for short- and long-term future work. In this paper, we seek to provide the same bene ts with respect to computing research on the sharing economy. Speci cally, following the suggested approach of prior computing literature reviews, we conducted a systematic review of sharing economy articles published in the Association for Computing Machinery Digital Library to investigate the state of sharing economy research in computing. We performed this review with two simultaneous foci: a broad focus toward the computing literature more generally and a narrow focus speci cally on HCI literature. We collected a total of 112 sharing economy articles published between 2008 and 2017 and through our analysis of these papers, we make two core contributions: (1) an understanding of the computing community’s contributions to our knowledge about the sharing economy, and speci cally the role of the HCI community in these contributions (i.e., what has been done) and (2) a discussion of under-explored and unexplored aspects of the sharing economy that can serve as a partial research agenda moving forward (i.e. what is next to do)." 
+      authors: "Dillahunt, T. R., Wang, X., Wheeler, E., Cheng, H. F., Hecht, B., and Zhu, H. (2017)"
+      mainlink: Dillahunt_CSCW18
+      resources: 
+      - type: pdf
+        link: Dillahunt_CSCW18
+
+
     - name: "Uncovering the Values and Constraints of Real-time Ridesharing for Low-resource Populations"
       pic: Dillahunt_CHI17_thumb
       abstract: "Real-time ridesharing services (e.g., Uber and Lyft) are often touted as sharing-economy leaders and dramatically lower the cost of transportation. However, how to make these services work better among low-income and transportation-scarce households, how these individuals experience these services, and whether they encounter barriers in enlisting these services is unknown. To address these questions, we onboarded 13 low-income individuals living in transportation-scarce environments to Uber as passengers. Our participants found these services to be reliable and benefited from rich social interactions with drivers; however, barriers such as cost, limited payment methods, and low digital literacy can make such services infeasible. We contribute platform designs that could lead to increased digital literacy and application transparency. To be more inclusive and to reach critical mass, we suggest that these companies foster belief in commons and community trust by coordinating with local businesses in low-resource areas with lower digital literacy."
