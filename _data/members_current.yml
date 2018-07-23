@@ -31,6 +31,13 @@
   pic: earnest
   position: UMSI Ph.D. Student
 
+- name: Vaishnav Kameswaran
+  pic: vaishnav
+  position: UMSI Ph.D. Student
+  social:
+    - title: globe
+      url: http://www.vaishnavk.com
+
 - name: Ihudiya Finda Ogbonnaya-Ogburu
   pic: finda
   position: UMSI Ph.D. Student
@@ -40,13 +47,6 @@
     - title: linkedin
       url: https://www.linkedin.com/in/ihudiyaogburu/
 
-- name: Vaishnav Kameswaran
-  pic: vaishnav
-  position: UMSI Ph.D. Student
-  social:
-    - title: globe
-      url: http://www.vaishnavk.com
-
 - name: Aarti Israni
   pic: aarti
   position: UMSI Ph.D. Student
@@ -54,15 +54,12 @@
     - title: linkedin
       url: https://www.linkedin.com/in/aartiisrani
 
-
-- name: Jason Lam
-  pic: jasonlam
-  position: UMSI Alumni
-  social:
-    - title: globe
-      url: http://jasonclam.com 
+- name: Sylvia Simoni
+  pic: sylvia
+  position: UMSI Ph.D. Student
+  social: 
     - title: linkedin
-      url: https://www.linkedin.com/in/jasonclam/
+      url: https://www.linkedin.com/in/sylvia-simioni/
 
 - name: Alex Lu
   pic: alexlu
@@ -70,16 +67,6 @@
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/lujiahong 
-
-- name: Marcy Held
-  pic: marcy
-  position: UM MSI Student
-  social:
-    - title: globe
-      url: http://www.marcyheld.com 
-    - title: linkedin
-      url: https://www.linkedin.com/in/marcy-held-837917b0/ 
-
           
 - name: Saebom April Kwon
   pic: april
@@ -90,17 +77,18 @@
     - title: linkedin
       url: https://www.linkedin.com/in/saebomkwon/
 
-- name: Mingda Tang
-  pic: mingda
-  position: UM Undergrad
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/mingda-tang-84546998 
-
 - name: Xuecong (Esme) Xu
   pic: esme
   position: UM Undergrad
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/esme-xuecong-xu-59a08712b/
+
+- name: Emory Kimball
+  pic: emory
+  position: Incoming UM Dearborn Undergrad
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/emory-kimball-738a95143
+
 
