@@ -34,7 +34,7 @@ $RECYCLE.BIN/
 # Icon must ends with two \r.
 Icon
 # Thumbnails
-._*
+# ._*
 
 # Files that might appear on external disk
 .Spotlight-V100
