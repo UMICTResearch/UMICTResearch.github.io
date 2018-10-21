@@ -151,6 +151,12 @@
     - title: twitter
       url: http://twitter.com/jashan90
 
+- name: Emory Kimball
+  pic: emory
+  position: UM Dearborn Undergrad
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/emory-kimball-738a95143
 
 - name: Jason Lam
   pic: jasonlam
