@@ -1,5 +1,5 @@
 - subproject: "ICTs and Immigrant Adaptation Needs"
-  description: "Are you sure?"
+  description: "Immigrants face challenges that all newcomers face. Indeed, immigrants additionally face cultural and language differences, which further increase difficulties in adaptation. Research suggests that information and communication technologies (ICTs) foster immigrants’ social capital and facilitate their adaptation. This project aims to understand how immigrants use ICTs to develop their social capital and access resources to address their adaptation needs."
   papers: 
 
     - name: "Technology to Support Immigrant Access to Social Capital and Adaptation to a New Country"
@@ -14,7 +14,7 @@
 
 
 - subproject: "People-Nearby Applications and Social Capital"
-  description: ""
+  description: "People-Nearby Applications (PNAs), such as Tinder and Badoo, bridge online interactions with offline ones. These PNA-mediated offline encounters with local populations could be benefcial for a newcomer to establish new social connections. Understanding how PNAs support newcomers' relocation experience thus leads to insights for technology to facilitate smooth relocation."
   papers: 
 
     - name: "Detecting Life Changes: Increasing Opportunities to Benefit from People-Nearby Applications"
