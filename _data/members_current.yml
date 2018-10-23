@@ -77,6 +77,14 @@
     - title: linkedin
       url: https://www.linkedin.com/in/saebomkwon/
 
+- name: Jacob Berman
+  pic: jacob
+  position: UM MSI Student
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jacobberman/
+
+
 - name: Xuecong (Esme) Xu
   pic: esme
   position: UM Undergrad
