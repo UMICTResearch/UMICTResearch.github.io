@@ -77,18 +77,18 @@
     - title: linkedin
       url: https://www.linkedin.com/in/saebomkwon/
 
+- name: Jacob Berman
+  pic: jacob
+  position: UM MSI Student
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jacobberman/
+
+
 - name: Xuecong (Esme) Xu
   pic: esme
   position: UM Undergrad
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/esme-xuecong-xu-59a08712b/
-
-- name: Emory Kimball
-  pic: emory
-  position: Incoming UM Dearborn Undergrad
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/emory-kimball-738a95143
-
 

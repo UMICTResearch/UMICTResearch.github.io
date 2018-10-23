@@ -37,12 +37,6 @@
     - title: linkedin
       url: https://www.linkedin.com/in/davidsjbaek/
 
-- name: Jacob Berman
-  pic: jacob
-  position: UM MSI Student
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/jacobberman/
 
 - name: Nishan Bose
   pic: nishan
@@ -151,6 +145,12 @@
     - title: twitter
       url: http://twitter.com/jashan90
 
+- name: Emory Kimball
+  pic: emory
+  position: UM Dearborn Undergrad
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/emory-kimball-738a95143
 
 - name: Jason Lam
   pic: jasonlam

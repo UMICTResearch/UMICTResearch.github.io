@@ -5,6 +5,15 @@
   description: "The ubiquity of technologies such as robotics, artificial intelligence, and the Internet of Things have changed the nature of work. Despite the many benefits created by these technologies, these transformations in the employment landscape have posed challenges for job seekers, especially those with limited education and low resources. This research investigates how digital tools should be designed and implemented to support employment among low-resource job seekers."
   papers:
 
+#    - name: 'DreamGigs: A "Stepping Stone" for Low-resource Job Seekers to Reach Their Ideal Job'
+#      pic: Lu_CSCWEA18_thumb
+#      abstract: "Digital employment tools ought to support job seekers in developing viable career paths while preparing them with necessary skills for employment. This is particularly important for job seekers who are not highly educated and lack access to resources such as career counseling. We designed, implemented, and conducted a preliminary evaluation of a prototype — DreamGigs, a tool to help job seekers understand the career-related skills they would need to obtain to reach their ''dream'' job or gig. Our preliminary results suggest that DreamGigs helps job seekers understand what skills employers need, identify potential pathways towards their career goals, and access opportunities to gain the skills needed to achieve their goals. We contribute the design of this tool, our implementation, and the results of our initial evaluation with low-resource job seekers."
+#      authors: "Lu, A., Lam, J., and Dillahunt, T. R. (2018)"
+#      mainlink: Lu_CSCWEA18
+#      resources: 
+#      - type: pdf
+#        link: Lu_CSCWEA18
+
     - name: "Designing Future Employment Applications for Underserved Job Seekers: A Speed Dating Study"
       pic: Dillahunt_DIS18_thumb
       abstract: "Modern Information and Communication Technologies (ICTs) support job searches, resume creation, career development, and professional self-presentation. However, these technology tools are often tailored to high-income, highly educated users and white-collar professionals. It is unclear what interventions address the needs of job seekers who have limited resources or education, or who may be underserved in other ways. We gathered insights from the literature and generated ten tangible design concepts to address the needs of underserved job seekers. We then conducted a needs validation and speed dating study to understand which concepts were most viable among our population. We found that the three most preferred concepts immediately addressed job seekers' social and personal needs, where addressing social needs meant mediating job seekers' connections to others and supporting job seekers' limited access to strong ties."
@@ -148,6 +157,15 @@
 - subproject: "Entrepreneurship in Lean Economies"
   description: "Online technologies are increasingly hailed as enablers of entrepreneurship and income generation. Recent evidence suggests, however, that even the best such tools disproportionately favor those with pre-existing entrepreneurial advantages. Our research explores the use of these tools among those with limited prior entrepreneurial advantages."
   papers:
+
+    - name: "Making a Living My Way: Necessity-driven Entrepreneurship in Resource-Constrained Communities"
+      pic: Hui_PACMHCI18_thumb
+      abstract: "Entrepreneurship has long been used to create self-employment opportunities to guard against career uncertainty. Yet, little is known about how social technologies impact the day-to-day work of entrepreneurs in resource-constrained contexts. We performed a qualitative study involving interviews with 26 microentrepreneurs in Detroit and observations of entrepreneurship events. We found that micro-entrepreneurs in Detroit are often pushed into entrepreneurship in response to unexpected life disruptions, barriers to employment, and desire to benefit the community. Their resource-constrained contexts shape how they use social technologies, such as sharing economy tools and social media groups, particularly with respect to privacy, safety, and professional agency. We expand the discussion in CSCW around what it means to be an entrepreneur and provide implications for how social technologies can be designed to better meet the employment needs of people in resource-constrained communities."
+      authors: "Hui, J., Toyama, K., Pal, J., and Dillahunt, T. R. (2018)"
+      mainlink: Hui_PACMHCI18
+      resources:
+          - type: pdf
+            link: Hui_PACMHCI18
 
     - name: "Entrepreneurship and the Socio-Technical Chasm in a Lean Economy"
       pic: Dillahunt_CHI18_thumb
