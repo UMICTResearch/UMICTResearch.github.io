@@ -5,14 +5,14 @@
   description: "The ubiquity of technologies such as robotics, artificial intelligence, and the Internet of Things have changed the nature of work. Despite the many benefits created by these technologies, these transformations in the employment landscape have posed challenges for job seekers, especially those with limited education and low resources. This research investigates how digital tools should be designed and implemented to support employment among low-resource job seekers."
   papers:
 
-#    - name: 'DreamGigs: A "Stepping Stone" for Low-resource Job Seekers to Reach Their Ideal Job'
-#      pic: Lu_CSCWEA18_thumb
-#      abstract: "Digital employment tools ought to support job seekers in developing viable career paths while preparing them with necessary skills for employment. This is particularly important for job seekers who are not highly educated and lack access to resources such as career counseling. We designed, implemented, and conducted a preliminary evaluation of a prototype — DreamGigs, a tool to help job seekers understand the career-related skills they would need to obtain to reach their ''dream'' job or gig. Our preliminary results suggest that DreamGigs helps job seekers understand what skills employers need, identify potential pathways towards their career goals, and access opportunities to gain the skills needed to achieve their goals. We contribute the design of this tool, our implementation, and the results of our initial evaluation with low-resource job seekers."
-#      authors: "Lu, A., Lam, J., and Dillahunt, T. R. (2018)"
-#      mainlink: Lu_CSCWEA18
-#      resources: 
-#      - type: pdf
-#        link: Lu_CSCWEA18
+    - name: 'DreamGigs: A "Stepping Stone" for Low-resource Job Seekers to Reach Their Ideal Job'
+      pic: Lu_CSCWEA18_thumb
+      abstract: "Digital employment tools ought to support job seekers in developing viable career paths while preparing them with necessary skills for employment. This is particularly important for job seekers who are not highly educated and lack access to resources such as career counseling. We designed, implemented, and conducted a preliminary evaluation of a prototype — DreamGigs, a tool to help job seekers understand the career-related skills they would need to obtain to reach their ''dream'' job or gig. Our preliminary results suggest that DreamGigs helps job seekers understand what skills employers need, identify potential pathways towards their career goals, and access opportunities to gain the skills needed to achieve their goals. We contribute the design of this tool, our implementation, and the results of our initial evaluation with low-resource job seekers."
+      authors: "Lu, A., Lam, J., and Dillahunt, T. R. (2018)"
+      mainlink: Lu_CSCWEA18
+      resources: 
+      - type: pdf
+        link: Lu_CSCWEA18
 
     - name: "Designing Future Employment Applications for Underserved Job Seekers: A Speed Dating Study"
       pic: Dillahunt_DIS18_thumb

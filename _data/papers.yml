@@ -2,21 +2,27 @@
 
 - name: "Technology to Support Immigrant Access to Social Capital and Adaptation to a New Country"
   pic: Hsiao_PACMHCI18_thumb
-  abstract: "(To appear) In Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 70"
+  abstract: "In Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 70"
   authors: "Hsiao, J. C.-Y. and Dillahunt, T. R."
   link: Hsiao_PACMHCI18
 
 - name: "Making a Living My Way: Necessity-driven Entrepreneurship in Resource-Constrained Communities"
   pic: Hui_PACMHCI18_thumb
-  abstract: "(To appear) In Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 71"
+  abstract: "In Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 71"
   authors: "Hui, J., Toyama, K., Pal, J., and Dillahunt, T. R."
   link: Hui_PACMHCI18
 
-#- name: 'DreamGigs: A "Stepping Stone" for Low-resource Job Seekers to Reach Their Ideal Job'
-#  pic: Lu_CSCWEA18_thumb
-#  abstract: "(To appear) In ACM CSCW'18 Companion"
-#  authors: "Lu, A., Lam, J., and Dillahunt, T. R."
-#  link: Lu_CSCWEA18
+- name: 'DreamGigs: A "Stepping Stone" for Low-resource Job Seekers to Reach Their Ideal Job'
+  pic: Lu_CSCWEA18_thumb
+  abstract: "In ACM CSCW'18 Companion"
+  authors: "Lu, A., Lam, J., and Dillahunt, T. R."
+  link: Lu_CSCWEA18
+
+- name: "Returning Citizens' Job Search and Technology Use: Preliminary Findings"
+  pic: OgbonnayaOgburu_CSCWEA18_thumb
+  abstract: "In ACM CSCW'18 Companion"
+  authors: "Ogbonnaya-Ogburu, I. F., Toyama, K., and Dillahunt, T. R."
+  link: OgbonnayaOgburu_CSCWEA18
 
 - name: "Designing Future Employment Applications for Underserved Job Seekers: A Speed Dating Study"
   pic: Dillahunt_DIS18_thumb
