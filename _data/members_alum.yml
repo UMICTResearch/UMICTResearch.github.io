@@ -38,9 +38,17 @@
       url: https://www.linkedin.com/in/davidsjbaek/
 
 
+- name: Jacob Berman
+  pic: jacob
+  position: UM MSI Alum
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jacobberman/
+
+
 - name: Nishan Bose
   pic: nishan
-  position: UMSI Alum
+  position: UM MSI Alum
   social:
     - title: globe
       url: http://nishanbose.com
@@ -81,7 +89,7 @@
 
 - name: Jonathan De Heus
   pic: jonathan
-  position: UMSI Alum
+  position: UM MSI Alum
   social:
       - title: globe
         url: http://www.jondeheus.com
@@ -97,7 +105,7 @@
 
 - name: Michelle Fiesta
   pic: mfiesta
-  position: UMSI Alum
+  position: UM MSI Alum
   social:
       - title: linkedin
         url: https://www.linkedin.com/in/michellefiesta
@@ -112,14 +120,14 @@
 
 - name: Samarth Gulati
   pic: samarth
-  position: UMSI Alum
+  position: UM MSI Alum
   social:
     - title: globe
       url: http://www.samarthgulati.com
 
 - name: Marcy Held
   pic: marcy
-  position: UMSI Alumni
+  position: UM MSI Alu
   social:
     - title: globe
       url: http://www.marcyheld.com 
@@ -136,7 +144,7 @@
 
 - name: Jashanjit Kaur
   pic: jashan
-  position: UMSI Alum
+  position: UM MSI Alum
   social:
     - title: globe
       url: http://jashank.people.si.umich.edu/index.php
@@ -145,6 +153,7 @@
     - title: twitter
       url: http://twitter.com/jashan90
 
+
 - name: Emory Kimball
   pic: emory
   position: UM Dearborn Undergrad
@@ -152,9 +161,19 @@
     - title: linkedin
       url: https://www.linkedin.com/in/emory-kimball-738a95143
 
+- name: Saebom April Kwon
+  pic: april
+  position: UM MSI Alum
+  social:
+    - title: globe  
+      url: http://saebomkwon.com
+    - title: linkedin
+      url: https://www.linkedin.com/in/saebomkwon/
+
+
 - name: Jason Lam
   pic: jasonlam
-  position: UMSI Alumni
+  position: UM MSI Alum
   social:
     - title: globe
       url: http://jasonclam.com 
@@ -164,7 +183,7 @@
 
 - name: Eva Li
   pic: eva
-  position: UM CS/Stats Undergrad
+  position: UM Alum
 
 - name: Amy Malone
   pic: amy
@@ -175,7 +194,7 @@
 
 - name: Sandy Ng
   pic: sandyng
-  position: UMSI Alum
+  position: UM MSI Alum
 
 - name: Hailey Patterson
   pic: hailey
@@ -197,7 +216,7 @@
 
 - name: Mingda Tang
   pic: mingda
-  position: UM Undergrad
+  position: UM Alum
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/mingda-tang-84546998 
@@ -217,5 +236,13 @@
   social:
       - title: linkedin
         url: https://www.linkedin.com/in/brian1wang
+
+- name: Xuecong (Esme) Xu
+  pic: esme
+  position: UM Alum
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/esme-xuecong-xu-59a08712b/
+
 
 
