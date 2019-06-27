@@ -1,14 +1,51 @@
 # Papers
 
+
+- name: "Online Grocery Delivery Services: An Opportunity to Address Food Disparities in Transportation-scarce Areas"
+  pic: Dillahunt_CHI19a_thumb
+  abstract: "*Best Paper* | In Proc. of CHI 2019"
+  authors: "Dillahunt, T. R., Simioni, S., and Xu, X."
+  link: Dillahunt_CHI19a 
+
+- name: "DreamGigs: Designing a Tool to Empower Low-resource Job Seekers"
+  pic: Dillahunt_CHI19b_thumb
+  abstract: "In Proc. of CHI 2019"
+  authors: "Dillahunt, T. R. and Lu, A."
+  link: Dillahunt_CHI19b 
+
+- name: "Towards an Effective Digital Literacy Intervention to Assist Returning Citizens with Job Search"
+  pic: OgbonnayaOgburu_CHI19_thumb
+  abstract: "In Proc. of CHI 2019"
+  authors: "Ogbonnaya-Ogburu, I.F., Toyama, K., and Dillahunt, T.R."
+  link: OgbonnayaOgburu_CHI19
+
+- name: "Mobility-on-Demand Versus Fixed-Route Transit Systems: An Evaluation of Traveler Preferences in Low-income Communities"
+  pic: Yan_arXiv19_thumb
+  abstract: "arXiv preprint | arXiv:1901.07607"
+  authors: "Yan, X., Zhao, X., Han, Y.,  Van Hentenryck, P., and Dillahunt, T. R."
+  link: Yan_arXiv19
+
+- name: "Getting There: Barriers and Facilitators to Transportation Access in Underserved Communities"
+  pic: Dillahunt_TOCHI18_thumb
+  abstract: "ACM Transactions on Comput.-Hum Interact., Vol. 25, No. 5, Article 29"
+  authors: "Dillahunt, T.R. and Veinot, T.C."
+  link: Dillahunt_TOCHI18
+
+- name: "Mobility-on-Demand Versus Fixed-Route Transit Systems: An Evaluation of Traveler Preferences in Low-income Communities"
+  pic: Dillahunt_PovSol19_thumb
+  abstract: "Poverty Solutions, University of Michigan"
+  authors: "Dillahunt, T. R. and Yan, X."
+  link: Dillahunt_PovSol19
+
 - name: "Technology to Support Immigrant Access to Social Capital and Adaptation to a New Country"
   pic: Hsiao_PACMHCI18_thumb
-  abstract: "In Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 70"
+  abstract: "Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 70"
   authors: "Hsiao, J. C.-Y. and Dillahunt, T. R."
   link: Hsiao_PACMHCI18
 
 - name: "Making a Living My Way: Necessity-driven Entrepreneurship in Resource-Constrained Communities"
   pic: Hui_PACMHCI18_thumb
-  abstract: "In Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 71"
+  abstract: "Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 71"
   authors: "Hui, J., Toyama, K., Pal, J., and Dillahunt, T. R."
   link: Hui_PACMHCI18
 
@@ -74,7 +111,7 @@
 
 - name: "Technology for Underserved Communities"
   pic: Dillahunt_RFP17_thumb
-  abstract: "acmqueue Research for Practice: Expert-curated guides to the best of CS research."
+  abstract: "acmqueue Research for Practice: Expert-curated guides to the Dillahunt_CHI19_thumbbest of CS research."
   authors: "Dillahunt, T."
   link: Dillahunt_RFP17
 
