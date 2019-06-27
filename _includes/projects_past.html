@@ -1,6 +1,8 @@
 <!-- Portfolio Grid Section -->
-{% assign posts = site.categories.past | sort:"weight"  %}
 
+{% assign posts = site.categories.past %}
+
+{% if posts %}
 <section id="pastprojects" class="bg-dark-gray projects">
     <div class="container">
         <div class="row">
@@ -28,3 +30,5 @@
         </div>
     </div>
 </section>
+{% endif %}
+
