@@ -5,6 +5,27 @@
   description: "The ubiquity of technologies such as robotics, artificial intelligence, and the Internet of Things have changed the nature of work. Despite the many benefits created by these technologies, these transformations in the employment landscape have posed challenges for job seekers, especially those with limited education and low resources. This research investigates how digital tools should be designed and implemented to support employment among low-resource job seekers."
   papers:
 
+
+    - name: 'DreamGigs: Designing a Tool to Empower Low-resource Job Seekers'
+      pic: Dillahunt_CHI19b_thumb
+      abstract: "Technology allows us to scale the number of jobs we search for and apply to, train for work, and earn money online. However, these technologies do not beneft all job seekers equally and must be designed to better support the needs of underserved job seekers. Research suggests that underserved job seekers prefer employment technologies that can support them in articulating their skills and experiences and in identifying pathways to achieve their career goals. Therefore, we present the design, implementation, and evaluation of DreamGigs, a tool that identifes the skills job seekers need to reach their dream jobs and presents volunteer and employment opportunities for them to acquire those skills. Our evaluation results show that DreamGigs aids in the process of personal empowerment. We contribute design implications for mitigating aspects of powerlessness that low-resource job seekers experience and discuss ways to promote action-taking in these job seekers."
+      authors: "Dillahunt, T. R. and Lu, A. (2019)"
+      mainlink: Dillahunt_CHI19b
+      resources: 
+      - type: pdf
+        link: Dillahunt_CHI19b
+
+    - name: 'Towards an Effective Digital Literacy Intervention to Assist Returning Citizens with Job Search'
+      pic: OgbonnayaOgburu_CHI19_thumb
+      abstract: "Returning citizens (formerly incarcerated individuals) face great challenges fnding employment, and these are exacer- bated by the need for digital literacy in modern job search. Through 23 semi-structured interviews and a pilot digital literacy course with returning citizens in the Greater Detroit area, we explore tactics and needs with respect to job search and digital technology. Returning citizens exhibit great diversity, but overall, we fnd our participants to have striking gaps in digital liter- acy upon release, even as they are quickly introduced to smartphones by friends and family. They tend to have em- ployable skills and ability to use ofine social networks to fnd opportunities, but have little understanding of formal job search processes, online or ofine. They mostly mirror mainstream use of mobile technology, but they have various reasons to avoid social media. These and other fndings lead to recommendations for digital literacy programs for returning citizens."
+      authors: "Ogbonnaya-Ogburu, I. F., Toyaman, K., and Dillahunt, T. R. (2019)"
+      mainlink: OgbonnayaOgburu_CHI19
+      resources: 
+      - type: pdf
+        link: OgbonnayaOgburu_CHI19
+
+
+
     - name: 'DreamGigs: A "Stepping Stone" for Low-resource Job Seekers to Reach Their Ideal Job'
       pic: Lu_CSCWEA18_thumb
       abstract: "Digital employment tools ought to support job seekers in developing viable career paths while preparing them with necessary skills for employment. This is particularly important for job seekers who are not highly educated and lack access to resources such as career counseling. We designed, implemented, and conducted a preliminary evaluation of a prototype — DreamGigs, a tool to help job seekers understand the career-related skills they would need to obtain to reach their ''dream'' job or gig. Our preliminary results suggest that DreamGigs helps job seekers understand what skills employers need, identify potential pathways towards their career goals, and access opportunities to gain the skills needed to achieve their goals. We contribute the design of this tool, our implementation, and the results of our initial evaluation with low-resource job seekers."
@@ -86,10 +107,42 @@
         link: https://www.youtube.com/watch?v=Sul8liZtBqc
 
 
-### The Sharing Economy Project ###
+### Papers related to the sharing economy, transportation, economic mobility, etc. ###
 - subproject: "The Sharing Economy and Economic Mobility"
   description: "With the rise of the sharing economy in the broader computing literature and in the human-computer interaction (HCI) literature more specifically, it is important to understand how these services are used among underserved groups. Our research explores the feasibility and use of these services among low-SES groups."
   papers:
+
+
+    - name: "Mobility-on-Demand Versus Fixed-Route Transit Systems: An Evaluation of Traveler Preferences in Low-income Communities"
+      pic: Yan_arXiv19_thumb
+      abstract: "Emerging transportation technologies, such as ride-hailing and autonomous vehicles, are disrupting the transportation sector and transforming public transit. Some transit observers envision future public transit to be integrated transit systems with fixed-route services running along major corridors and on-demand ridesharing services covering lower-density areas. A switch from a conventional fixed-route service model to this kind of integrated mobility-on-demand transit system, however, may elicit varied responses from local residents. This paper evaluates traveler preferences for a proposed integrated mobility-on-demand transit system versus the existing fixed-route system, with a particular focus on disadvantaged travelers. We conducted a survey in two low-resource communities in the United States, namely, Detroit and Ypsilanti, Michigan. A majority of survey respondents preferred a mobility-on-demand transit system over a fixed-route one. Based on ordered logit model outputs, we found a stronger preference for mobility-on-demand transit among males, college graduates, individuals who have never heard of or used ride-hailing before, and individuals who currently receive inferior transit services. By contrast, preferences varied little by age, income, race, or disability status. The most important benefit of a mobility-on-demand transit system perceived by the survey respondents is enhanced transit accessibility to different destinations, whereas their major concerns include the need to actively request rides, possible transit-fare increases, and potential technological failures. Addressing the concerns of female riders and accommodating the needs of less technology-proficient individuals should be major priorities for transit agencies that are considering mobility-on-demand initiatives."
+      authors: "Yan, X., Zhao, X., Han, Y., Van Hentenryck, P., and Dillahunt, T. R. (2019)"
+      mainlink: Yan_arXiv19
+      resources: 
+      - type: pdf
+        link: Yan_arXiv19
+
+
+    - name: "Mobility-on-Demand Versus Fixed-Route Transit Systems: An Evaluation of Traveler Preferences in Low-income Communities"
+      pic: Dillahunt_PovSol19_thumb
+      abstract: "
+Transportation innovations such as ride-hailing and autonomous vehicles are transforming public transit and disrupting the transportation sector. This presents opportunities to integrate these new ridesharing services with fixed-route public transit services that run along major corridors. This integration brings the promise of affordable and convenient public transit services to areas that were previously unreachable, which could lead to significant benefits for people in disadvantaged communities. These benefits include enhanced “last-mile” access to transit services (less walking to transit stops), a known deterrent to public transit use, and reduced wait time and total travel times. Additional benefits include access to employment opportunities, reduced greenhouse emissions, and increased access to healthcare, and healthy food. However, it is unclear how local travelers, particularly those who are disadvantaged in some way, would respond to a shift from a conventional fixed-route service model to an integrated mobility-on-demand transit system; this policy brief reports initial insights to answer this question."
+      authors: "Dillahunt, T. R. and Yan, X. (2019)"
+      mainlink: Dillahunt_PovSol19
+      resources: 
+      - type: pdf
+        link: Dillahunt_PovSol19
+
+
+    - name: "Getting There: Barriers and Facilitators to Transportation Access in Underserved Communities"
+      pic: Dillahunt_TOCHI18_thumb
+      abstract: "Advances in Information and Communication Technologies (ICTs) offer new opportunities for addressing transportation needs; however, past research suggests that opportunities are not equally shared by millions of low-income Americans. We draw from four empirical studies and two case studies to contribute descriptions of the 11 everyday transportation models currently used by residents of low-income and underserved communities to enhance their access to health-enhancing resources. These models fell into personal, private, public, and interpersonal categories. We contribute insights regarding the following barriers and facilitators associated with these models: (1) affordability; (2) individual capabilities; (3) interpersonal trust, care and/or reciprocity; (4) trust in technology; (5) service availability/eligibility; (6) spatial and temporal matches; (7) match between transportation mode and physical needs; (8) service reliability and quality; and (9) infrastructure access. To address these barriers and build on these facilitators, we contribute six supportive policy and design principles. Operationalizing these principles, we propose four new ICT-enhanced models: (1) smart jitneys; (2) generalized, favor-based models; (3) expanded resource pooling; and (4) transportation clubs. The focus of these models on socio-technical integration with current capabilities and resources holds promise for enhancing access to jobs, food, and health care for residents of low-income communities."
+      authors: "Dillahunt, T. R. and Veinot, T. C. (2018)"
+      mainlink: Dillahunt_TOCHI18
+      resources: 
+      - type: pdf
+        link: Dillahunt_TOCHI18
+
 
     - name: "The Role of Demographics, Trust, Computer Self-efficacy, and Ease of Use in the Sharing Economy"
       pic: Hsiao_COMPASS18_thumb
