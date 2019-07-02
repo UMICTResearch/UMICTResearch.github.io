@@ -71,10 +71,27 @@
 - name: Jaleesa Rosario Turner
   pic: jaleesa
   position: UM MSI Student/REMS
+  social:
+    - title: globe
+      url: http://www.jaleesarosario.com
+    - title: linkedin
+      url: https://www.linkedin.com/in/jaleesa-rosario-turner-b6b58a5a/
 
 - name: Alexis Ashby
   pic: ashbya
   position: UM MSI Student
+  social:
+    - title: globe
+      url: https://www.alexisashby.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/alexis-ashby/
+
+- name: Yongwei Yuan
+  pic: ywyuan
+  position: UM CS Undergraduate
+  social:
+    - title: linkedin
+      url: http://linkedin.com/in/yongweiyuan 
  
 - name: Malavika Krishnamachari
   pic: malakchari
