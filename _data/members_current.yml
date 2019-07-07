@@ -11,7 +11,7 @@
 
 - name: Julie Hui
   pic: julie
-  position: UMSI Post-doc
+  position: UMSI Presidential Post-doc
   social:
     - title: globe
       url: http://www.juliehui.com/
@@ -63,32 +63,37 @@
 
 - name: Alex Lu
   pic: alexlu
-  position: UM MSI/MSW Student
+  position: UM MSI & MSW Student/Incoming UMSI PhD
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/lujiahong 
-          
-- name: Saebom April Kwon
-  pic: april
+
+- name: Jaleesa Rosario Turner
+  pic: jaleesa
+  position: UM MSI Student/REMS
+  social:
+    - title: globe
+      url: http://www.jaleesarosario.com
+    - title: linkedin
+      url: https://www.linkedin.com/in/jaleesa-rosario-turner-b6b58a5a/
+
+- name: Alexis Ashby
+  pic: ashbya
   position: UM MSI Student
   social:
-    - title: globe  
-      url: http://saebomkwon.com
+    - title: globe
+      url: https://www.alexisashby.com/
     - title: linkedin
-      url: https://www.linkedin.com/in/saebomkwon/
+      url: https://www.linkedin.com/in/alexis-ashby/
 
-- name: Jacob Berman
-  pic: jacob
-  position: UM MSI Student
+- name: Yongwei Yuan
+  pic: ywyuan
+  position: UM CS Undergraduate
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/jacobberman/
-
-
-- name: Xuecong (Esme) Xu
-  pic: esme
-  position: UM Undergrad
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/esme-xuecong-xu-59a08712b/
-
+      url: http://linkedin.com/in/yongweiyuan 
+ 
+- name: Malavika Krishnamachari
+  pic: malakchari
+  position: High School Student/Visiting Research Assistant
+ 
