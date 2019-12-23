@@ -1,5 +1,40 @@
 # Papers
 
+- name: "Additional Labors of the Entrepreneurial Self"
+  pic: Alve_PACMHCI19_thumb
+  abstract: "Proc. ACM Hum.-Comput. Interact. 3, CSCW, Article 218"
+  authors: "Avle, S., Hui, J., Lindtner, S., and Dillahunt, T. R."
+  link: Avle_PACMHCI19
+
+- name: "Does Driving as a Form of “Gig Work” Mitigate Low-Skilled Job Seekers’ Negative Long-Term Unemployment Effects?"
+  pic: Li_PACMHCI19_thumb
+  abstract: "Proc. ACM Hum.-Comput. Interact. 3, CSCW, Article 156"
+  authors: "Li, L., Dillahunt, T. R., and Rosenblat, T."
+  link: Li_PACMHCI19 
+
+- name: "Life Transitions and Social Technologies: Research and Design for Times of Life Change"
+  pic: Haimson_CSCWws19_thumb
+  abstract: "Workshop Proposal | In ACM CSCW'19 Companion"
+  authors: "Haimson, O. L., Semaan, B., Dym, B., Hsiao, J. C.-Y., Herron, D., and Moncur, W."
+  link: Haimson_CSCWws19 
+
+- name: "The Future of Work(places): Creating a Sense of Place for On-demand Work"
+  pic: Hui_CSCWws19_thumb
+  abstract: "Workshop Proposal | In ACM CSCW'19 Companion"
+  authors: "Hui, J., Cranshaw, J., Kotturi, Y., and Kulkarni, C."
+  link: Hui_CSCWws19 
+
+- name: "Fostering Immigrants' Trust in Online Local Social Exchange"
+  pic: Hsiao_CSCWdc19_thumb
+  abstract: "Doctoral Consortium | In ACM CSCW'19 Companion"
+  authors: "Hsiao, J. C.-Y."
+  link: Hsiao_CSCWdc19 
+
+- name: "An alternative to slow transit, drunk driving, and walking in bad weather: An exploratory study of resourcing mode choice and demand"
+  pic: Goodspeed_JTG19_thumb
+  abstract: "Journal of Transport Geography, Vol. 79, July 2019"
+  authors: "Goodspeed, R., Xie, T., Dillahunt, T.R., Lustig, J."
+  link: Goodspeed_JTG19 
 
 - name: "Online Grocery Delivery Services: An Opportunity to Address Food Disparities in Transportation-scarce Areas"
   pic: Dillahunt_CHI19a_thumb

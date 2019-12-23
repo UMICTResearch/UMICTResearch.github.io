@@ -1,5 +1,4 @@
 # Team names, titles and social links
-
 #- name: Jonathan De Heus
 #  pic: 4
 #  position: UMSI Alum
@@ -10,7 +9,6 @@
 #      url: #
 #    - title: stack-overflow
 #      url: #
-
 
 - name: Alexis Ashby
   pic: ashbya
@@ -46,14 +44,12 @@
     - title: linkedin
       url: https://www.linkedin.com/in/davidsjbaek/
 
-
 - name: Jacob Berman
   pic: jacob
   position: UM MSI Alum
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/jacobberman/
-
 
 - name: Nishan Bose
   pic: nishan
@@ -126,7 +122,6 @@
       - title: linkedin
         url: https://www.linkedin.com/in/indulekha-ghandikota-b269aa92
 
-
 - name: Samarth Gulati
   pic: samarth
   position: UM MSI Alum
@@ -142,7 +137,6 @@
       url: http://www.marcyheld.com 
     - title: linkedin
       url: https://www.linkedin.com/in/marcy-held-837917b0/ 
-
 
 - name: Benjamin Jen
   pic: benjamin
@@ -161,7 +155,6 @@
       url: https://www.linkedin.com/in/jashanjit
     - title: twitter
       url: http://twitter.com/jashan90
-
 
 - name: Emory Kimball
   pic: emory
@@ -183,7 +176,6 @@
     - title: linkedin
       url: https://www.linkedin.com/in/saebomkwon/
 
-
 - name: Jason Lam
   pic: jasonlam
   position: UM MSI Alum
@@ -192,7 +184,6 @@
       url: http://jasonclam.com 
     - title: linkedin
       url: https://www.linkedin.com/in/jasonclam/
-
 
 - name: Eva Li
   pic: eva
@@ -242,7 +233,6 @@
       url: http://www.radentonev.com 
     - title: linkedin
       url: https://www.linkedin.com/in/raden-tonev-3929b227/
-
 
 - name: Jaleesa Rosario Turner
   pic: jaleesa
