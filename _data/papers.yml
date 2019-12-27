@@ -1,7 +1,7 @@
 # Papers
 
 - name: "Additional Labors of the Entrepreneurial Self"
-  pic: Alve_PACMHCI19_thumb
+  pic: Avle_PACMHCI19_thumb
   abstract: "Proc. ACM Hum.-Comput. Interact. 3, CSCW, Article 218"
   authors: "Avle, S., Hui, J., Lindtner, S., and Dillahunt, T. R."
   link: Avle_PACMHCI19
@@ -29,6 +29,12 @@
   abstract: "Doctoral Consortium | In ACM CSCW'19 Companion"
   authors: "Hsiao, J. C.-Y."
   link: Hsiao_CSCWdc19 
+
+- name: "Reaching Hard-To-Reach Populations: An Analysis of Survey Recruitment Methods"
+  pic: Xu_CSCWposter19_thumb
+  abstract: "Poster Abstract | In ACM CSCW'19 Companion"
+  authors: "Xu, X., Yan, X., and Dillahunt., T. R. "
+  link: Xu_CSCWposter19 
 
 - name: "An alternative to slow transit, drunk driving, and walking in bad weather: An exploratory study of resourcing mode choice and demand"
   pic: Goodspeed_JTG19_thumb
