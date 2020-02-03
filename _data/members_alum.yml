@@ -252,7 +252,7 @@
 
 - name: Earnest Wheeler
   pic: earnest
-  position: UMSI Alumni
+  position: UMSI Alum
 
 - name: Xuecong (Esme) Xu
   pic: esme
@@ -261,3 +261,10 @@
     - title: linkedin
       url: https://www.linkedin.com/in/esme-xuecong-xu-59a08712b/
 
+- name: Yongwei Yuan
+  pic: ywyuan
+  position: UM CS Undergraduate
+  social:
+    - title: linkedin
+      url: http://linkedin.com/in/yongweiyuan 
+ 
