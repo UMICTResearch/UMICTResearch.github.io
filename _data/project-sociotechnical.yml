@@ -5,6 +5,23 @@
   description: "The ubiquity of technologies such as robotics, artificial intelligence, and the Internet of Things have changed the nature of work. Despite the many benefits created by these technologies, these transformations in the employment landscape have posed challenges for job seekers, especially those with limited education and low resources. This research investigates how digital tools should be designed and implemented to support employment among low-resource job seekers."
   papers:
 
+    - name: "Positive Feedback and Self-reflection: Features to Support Self-efficacy among Underrepresented Job Seekers"
+      pic: Dillahunt_CHI20_thumb
+      abstract: "Technologies play a key role in finding employment in today's job market. However, the majority of those who are unemployed, e.g., individuals who have limited education or who are racial and ethnic minorities, are not well supported by existing digital employment tools. Therefore, we conducted an 8-month randomized field experiment to evaluate two tools — Review-Me and Interview4 — designed to address these job seekers' key employment needs. We used the Theory of Planned Behavior to examine the tools effects on three fac- tors influencing job seekers' job search intention: job search self-efficacy, subjective norms, and job search attitudes. Our interview data suggested that the tools positively affected all factors, but our survey results were mixed. Interview results suggest that these trends were caused by positive feedback and self-reflection. We contribute ways to integrate these two features into future tools for, and techniques to increase study retention among, underrepresented job seekers."
+      authors: "Dillahunt., T. R. and Hsiao, J. C.-Y. (2020, To Appear in CHI'20)"
+      mainlink: Dillahunt_CHI20 
+      resources: 
+      - type: pdf
+        link: Dillahunt_CHI20
+
+    - name: "Reaching Hard-To-Reach Populations: An Analysis of Survey Recruitment Methods"
+      pic: Xu_CSCWposter19_thumb
+      abstract: "This work examined the survey distribution methods used in a past study. The goal was to identify the most effective methods to reach marginalized voices to participate in technological research and thus, create more inclusive technologies. Initial analyses identified in-person onsite recruitment as one of the better methods for reaching hard-to-reach populations compared to M-Turk, social media, newsletters, mail, and text messages. Our results call for continued efforts to use more inclusive research methods in the field of HCI."
+      authors: "Xu, X., Yan, X., and Dillahunt., T. R. (2019)"
+      mainlink: Xu_CSCWposter19 
+      resources: 
+      - type: pdf
+        link: Xu_CSCWposter19
 
     - name: 'DreamGigs: Designing a Tool to Empower Low-resource Job Seekers'
       pic: Dillahunt_CHI19b_thumb
@@ -112,6 +129,23 @@
   description: "With the rise of the sharing economy in the broader computing literature and in the human-computer interaction (HCI) literature more specifically, it is important to understand how these services are used among underserved groups. Our research explores the feasibility and use of these services among low-SES groups."
   papers:
 
+    - name: "Does Driving as a Form of “Gig Work” Mitigate Low-Skilled Job Seekers’ Negative Long-Term Unemployment Effects?"
+      pic: Li_PACMHCI19_thumb
+      abstract: "About 20% of the U.S. unemployed population has been out of the labor force for more than 6 months. The rise of the gig economy has changed the landscape of nontraditional employment opportunities for these predominantly low-skilled long-term unemployed workers. This particular type of on-demand work can be used to fill unemployment gaps and offers little to no training costs and flexible hours. Therefore, we explore whether driving as a form of gig work helps to mitigate the negative effects of long-term unemployment for low-skilled job seekers with employment gaps, and how employers evaluate workers who have held non-traditional jobs. Using a correspondence audit study with 1006 job applications, we evaluated whether a set of resumes “enhanced” with experience driving for a real-time ridesharing service received more callbacks than baseline resumes with an employment gap. We found no evidence that driving as a form of gig work increased the callback rates of applicants. In fact, we observed that in comparison to men, the callback rates for women slightly declined. Our study suggests that driving ‘gigs’ might not be a substitute for traditional employment on resumes for low-skilled workers. We contribute a call to CSCW to investigate methods that help to understand why real-time ridesharing services do not substitute for traditional jobs in bridging employment gaps and solutions on how to overcome it. Finally, we reflect on our use of audit studies in the new digital era and present potential CSCW and HCI contributions using this method."
+      authors: "Li, L., Dillahunt, T. R., and Rosenblat, T. (2019)"
+      mainlink: Li_PACMHCI19 
+      resources:
+      - type: pdf
+        link: Li_PACMHCI19
+
+    - name: "An alternative to slow transit, drunk driving, and walking in bad weather: An exploratory study of resourcing mode choice and demand"
+      pic: Goodspeed_JTG19_thumb
+      abstract: "Companies providing ridesourcing, or the use of mobile phone apps to request rides from drivers of privatelyowned vehicles, have expanded rapidly in many cities in recent years. To shed light on this phenomenon, this paper reports an exploratory study of ridesourcing trip patterns and mode choice in Washtenaw County, Michigan, USA, which obtained a convenience sample of 167 respondents (reporting 192 trips) via geographically targeted online and offline ads. Consistent with previous empirical studies, ridesharing users are younger and a greater percentage are female than the the general public, and most trips occur in a small number of high density block groups. When asked what other options were available for ridesourcing trips, respondents reported transit (63%), private vehicles (32%), walking (32%) and bicycling (18%). Specific reasons for choosing ridesourcing instead of these options included the frequency of transit, alcohol use for driving, and weather and distance for walking and biking. A multivariate analysis found variables related to greater ridesourcing use for a block group included job density, jobs-housing balance, bar and restaurant density, and presence of households without vehicles. The paper demonstrates the potential of survey data to generate greater geographic insights into ridesourcing use, as well as the potential for extending established travel-behavior research approaches to ridesourcing"
+      authors: "Goodspeed, R., Xie, T., Dillahunt, T.R., Lustig, J. (2019)"
+      mainlink: Goodspeed_JTG19 
+      resources: 
+      - type: pdf
+        link: Goodspeed_JTG19
 
     - name: "Mobility-on-Demand Versus Fixed-Route Transit Systems: An Evaluation of Traveler Preferences in Low-income Communities"
       pic: Yan_arXiv19_thumb
@@ -121,7 +155,6 @@
       resources: 
       - type: pdf
         link: Yan_arXiv19
-
 
     - name: "Mobility-on-Demand Versus Fixed-Route Transit Systems: An Evaluation of Traveler Preferences in Low-income Communities"
       pic: Dillahunt_PovSol19_thumb
@@ -210,6 +243,26 @@ Transportation innovations such as ride-hailing and autonomous vehicles are tran
 - subproject: "Entrepreneurship in Lean Economies"
   description: "Online technologies are increasingly hailed as enablers of entrepreneurship and income generation. Recent evidence suggests, however, that even the best such tools disproportionately favor those with pre-existing entrepreneurial advantages. Our research explores the use of these tools among those with limited prior entrepreneurial advantages."
   papers:
+
+
+    - name: "Community Collectives: Low-tech Social Support for Digitally-Engaged Entrepreneurship"
+      pic: Hui_CHI20_thumb
+      abstract: "With the rise of social media, entrepreneurs are feeling the pressure to adopt digital tools for their work. However, the upfront effort and resources needed to participate on these platforms is ever more complex, particularly in underresourced contexts. Through participatory action research over two years in Detroit’s Eastside, we found that local entrepreneurs preferred to become engaged digitally through a community collective, which involved (a) resource-connecting organizations, (b) regular in-person meetings, (c) paper planning tools, and (d) practice and validation. Together, these elements combined to provide (1) awareness and willingness to use digital tools, (2) regular opportunities to build internet self-efficacy, and (3) ways to collectively overcome digital obstacles. We discuss our findings in the context of digital engagement and entrepreneurship, and outline recommendations for digital platforms seeking to better support economic mobility more broadly."
+      authors: "Hui, J., Barber, N. R., Casey, W., Cleage, S., Dolley, D. C., Worthy, F., Toyama, K., and Dillahunt T. R. (2020, To Appear in CHI'20)"
+      mainlink: Hui_CHI20
+      resources:
+      - type: pdf
+        link: Hui_CHI20
+
+
+    - name: "Additional Labors of the Entrepreneurial Self"
+      pic: Avle_PACMHCI19_thumb
+      abstract: "Workers are increasingly expected to take on the responsibility and effort of preparing for employment in the new economy, where digital technologies play a central role in bridging access to resources, connections, and opportunity. Drawing from multi-year studies of entrepreneurs in Accra and Detroit, two cities that continue to experience high rates of inequality and persistently low incomes for the majority of their residents, this article highlights three key challenges to self-entrepreneurialization in the digital age: self-upgrading, maintaining technology, and overcoming exclusion. Locating these challenges at the intersection of (1) two powerful global discourses of entrepreneurialism and technology upgrade and (2) class frictions and racial dynamics, this paper uncovers ways in which CSCW might support entrepreneurialism in the new economy, particularly given that it is becoming a de facto space of work and mode of living"
+      authors: "Avle, S., Hui, J., Lindtner, S., and Dillahunt, T. R. (2019)"
+      mainlink: Avle_PACMHCI19
+      resources:
+          - type: pdf
+            link: Avle_PACMHCI19
 
     - name: "Making a Living My Way: Necessity-driven Entrepreneurship in Resource-Constrained Communities"
       pic: Hui_PACMHCI18_thumb

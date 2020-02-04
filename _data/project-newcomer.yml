@@ -2,6 +2,15 @@
   description: "Immigrants face challenges that all newcomers face. Indeed, immigrants additionally face cultural and language differences, which further increase difficulties in adaptation. Research suggests that information and communication technologies (ICTs) foster immigrants’ social capital and facilitate their adaptation. This project aims to understand how immigrants use ICTs to develop their social capital and access resources to address their adaptation needs."
   papers: 
 
+    - name: "Fostering Immigrants' Trust in Online Local Social Exchange"
+      pic: Hsiao_CSCWdc19_thumb
+      abstract: "Immigrants use technologies for socialization in new countries, but HCI scholars have not explored this research space. In my dissertation, I am adopting the social exchange theory to explore this research space. My first study suggested that trust is the key to addressing immigrants’ concerns about social exchange through technologies. Following this finding, my ongoing work will be focused on designing interventions to address these trust-related concerns. My dissertation should shed light on inclusive design supporting immigrants’ socialization, and inform research on other newcomers (e.g., domestic migrants and refugees) and specific forms of resource exchange (e.g., ridesharing and language exchange)."
+      authors: "Hsiao, J. C.-Y. (2019)" 
+      mainlink: Hsiao_CSCWdc19
+      resources: 
+        - type: pdf
+          link: Hsiao_CSCWdc19
+
     - name: "Technology to Support Immigrant Access to Social Capital and Adaptation to a New Country"
       pic: Hsiao_PACMHCI18_thumb 
       abstract: "The key to successful adaptation for immigrants in a new country is their social capital, or those resources embedded in their social networks. Research suggests that information and communication technologies (ICTs) foster immigrants’ social capital and facilitate their adaptation. However, it is unclear how recent immigrants use ICTs to develop social capital and how this supports their adaptation needs. We performed semi-structured interviews with thirteen recent immigrants and five long-term immigrants. We found that ICTs and technology-mediated connections: (1) easily addressed immigrants’ settlement needs, (2) minimally addressed their financial and cultural needs, and (3) were not used to address their emotional needs. To support recent immigrants’ adaptation, we suggest ways for ICTs to (1) reduce uncertainty about meeting local-born populations, (2) foster reciprocity among immigrant communities, and (3) facilitate safe resource exchanges."

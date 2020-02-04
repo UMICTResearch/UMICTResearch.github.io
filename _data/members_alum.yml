@@ -1,5 +1,4 @@
 # Team names, titles and social links
-
 #- name: Jonathan De Heus
 #  pic: 4
 #  position: UMSI Alum
@@ -11,6 +10,14 @@
 #    - title: stack-overflow
 #      url: #
 
+- name: Alexis Ashby
+  pic: ashbya
+  position: UM MSI Student
+  social:
+    - title: globe
+      url: https://www.alexisashby.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/alexis-ashby/
 
 - name: Brittney Atkinson-McFarlane
   pic: brittney
@@ -37,14 +44,12 @@
     - title: linkedin
       url: https://www.linkedin.com/in/davidsjbaek/
 
-
 - name: Jacob Berman
   pic: jacob
   position: UM MSI Alum
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/jacobberman/
-
 
 - name: Nishan Bose
   pic: nishan
@@ -117,7 +122,6 @@
       - title: linkedin
         url: https://www.linkedin.com/in/indulekha-ghandikota-b269aa92
 
-
 - name: Samarth Gulati
   pic: samarth
   position: UM MSI Alum
@@ -133,7 +137,6 @@
       url: http://www.marcyheld.com 
     - title: linkedin
       url: https://www.linkedin.com/in/marcy-held-837917b0/ 
-
 
 - name: Benjamin Jen
   pic: benjamin
@@ -153,13 +156,16 @@
     - title: twitter
       url: http://twitter.com/jashan90
 
-
 - name: Emory Kimball
   pic: emory
   position: UM Dearborn Undergrad
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/emory-kimball-738a95143
+
+- name: Malavika Krishnamachari
+  pic: malakchari
+  position: High School Student/Visiting Research Assistant 
 
 - name: Saebom April Kwon
   pic: april
@@ -170,7 +176,6 @@
     - title: linkedin
       url: https://www.linkedin.com/in/saebomkwon/
 
-
 - name: Jason Lam
   pic: jasonlam
   position: UM MSI Alum
@@ -179,7 +184,6 @@
       url: http://jasonclam.com 
     - title: linkedin
       url: https://www.linkedin.com/in/jasonclam/
-
 
 - name: Eva Li
   pic: eva
@@ -230,12 +234,25 @@
     - title: linkedin
       url: https://www.linkedin.com/in/raden-tonev-3929b227/
 
+- name: Jaleesa Rosario Turner
+  pic: jaleesa
+  position: UM MSI Student/REMS
+  social:
+    - title: globe
+      url: http://www.jaleesarosario.com
+    - title: linkedin
+      url: https://www.linkedin.com/in/jaleesa-rosario-turner-b6b58a5a/
+
 - name: Zengguang (Brian) Wang
   pic: brianwang
   position: UM Alum
   social:
       - title: linkedin
         url: https://www.linkedin.com/in/brian1wang
+
+- name: Earnest Wheeler
+  pic: earnest
+  position: UMSI Alum
 
 - name: Xuecong (Esme) Xu
   pic: esme
@@ -244,5 +261,10 @@
     - title: linkedin
       url: https://www.linkedin.com/in/esme-xuecong-xu-59a08712b/
 
-
-
+- name: Yongwei Yuan
+  pic: ywyuan
+  position: UM CS Undergraduate
+  social:
+    - title: linkedin
+      url: http://linkedin.com/in/yongweiyuan 
+ 

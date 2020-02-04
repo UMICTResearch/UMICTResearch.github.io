@@ -11,7 +11,7 @@
 
 - name: Julie Hui
   pic: julie
-  position: UMSI Presidential Post-doc
+  position: UMSI Assistant Professor/Presidential Post-doc
   social:
     - title: globe
       url: http://www.juliehui.com/
@@ -26,10 +26,6 @@
       url: http://www.joeyhsiao.info/
     - title: linkedin
       url: https://www.linkedin.com/in/joeycyhsiao
-
-- name: Earnest Wheeler
-  pic: earnest
-  position: UMSI Ph.D. Student
 
 - name: Vaishnav Kameswaran
   pic: vaishnav
@@ -63,37 +59,28 @@
 
 - name: Alex Lu
   pic: alexlu
-  position: UM MSI & MSW Student/Incoming UMSI PhD
+  position: UMSI Ph.D. Student
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/lujiahong 
 
-- name: Jaleesa Rosario Turner
-  pic: jaleesa
-  position: UM MSI Student/REMS
-  social:
+- name: Ruchita Lodha
+  pic: ruchital
+  position: UMSI Master Student
+  social: 
     - title: globe
-      url: http://www.jaleesarosario.com
+      url: http://www.ruchitalodha.com/
     - title: linkedin
-      url: https://www.linkedin.com/in/jaleesa-rosario-turner-b6b58a5a/
+      url: https://www.linkedin.com/in/ruchitalodha/
 
-- name: Alexis Ashby
-  pic: ashbya
-  position: UM MSI Student
-  social:
+
+- name: Kaushal Solanki
+  pic: ksolanki
+  position: UMSI Master Student
+  social: 
     - title: globe
-      url: https://www.alexisashby.com/
+      url: https://kaushalpsolanki.com/
     - title: linkedin
-      url: https://www.linkedin.com/in/alexis-ashby/
+      url: https://www.linkedin.com/in/kaushalpsolanki/
 
-- name: Yongwei Yuan
-  pic: ywyuan
-  position: UM CS Undergraduate
-  social:
-    - title: linkedin
-      url: http://linkedin.com/in/yongweiyuan 
- 
-- name: Malavika Krishnamachari
-  pic: malakchari
-  position: High School Student/Visiting Research Assistant
- 
+
