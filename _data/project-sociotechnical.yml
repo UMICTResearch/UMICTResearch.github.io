@@ -244,6 +244,17 @@ Transportation innovations such as ride-hailing and autonomous vehicles are tran
   description: "Online technologies are increasingly hailed as enablers of entrepreneurship and income generation. Recent evidence suggests, however, that even the best such tools disproportionately favor those with pre-existing entrepreneurial advantages. Our research explores the use of these tools among those with limited prior entrepreneurial advantages."
   papers:
 
+
+    - name: "Community Collectives: Low-tech Social Support for Digitally-Engaged Entrepreneurship"
+      pic: Hui_CHI20_thumb
+      abstract: "With the rise of social media, entrepreneurs are feeling the pressure to adopt digital tools for their work. However, the upfront effort and resources needed to participate on these platforms is ever more complex, particularly in underresourced contexts. Through participatory action research over two years in Detroit’s Eastside, we found that local entrepreneurs preferred to become engaged digitally through a community collective, which involved (a) resource-connecting organizations, (b) regular in-person meetings, (c) paper planning tools, and (d) practice and validation. Together, these elements combined to provide (1) awareness and willingness to use digital tools, (2) regular opportunities to build internet self-efficacy, and (3) ways to collectively overcome digital obstacles. We discuss our findings in the context of digital engagement and entrepreneurship, and outline recommendations for digital platforms seeking to better support economic mobility more broadly."
+      authors: "Hui, J., Barber, N. R., Casey, W., Cleage, S., Dolley, D. C., Worthy, F., Toyama, K., and Dillahunt T. R. (2020, To Appear in CHI'20)"
+      mainlink: Hui_CHI20
+      resources:
+      - type: pdf
+        link: Hui_CHI20
+
+
     - name: "Additional Labors of the Entrepreneurial Self"
       pic: Avle_PACMHCI19_thumb
       abstract: "Workers are increasingly expected to take on the responsibility and effort of preparing for employment in the new economy, where digital technologies play a central role in bridging access to resources, connections, and opportunity. Drawing from multi-year studies of entrepreneurs in Accra and Detroit, two cities that continue to experience high rates of inequality and persistently low incomes for the majority of their residents, this article highlights three key challenges to self-entrepreneurialization in the digital age: self-upgrading, maintaining technology, and overcoming exclusion. Locating these challenges at the intersection of (1) two powerful global discourses of entrepreneurialism and technology upgrade and (2) class frictions and racial dynamics, this paper uncovers ways in which CSCW might support entrepreneurialism in the new economy, particularly given that it is becoming a de facto space of work and mode of living"
