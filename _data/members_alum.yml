@@ -189,6 +189,18 @@
   pic: eva
   position: UM Alum
 
+
+- name: Ruchita Lodha
+  pic: ruchital
+  position: UMSI Master Student
+  social: 
+    - title: globe
+      url: http://www.ruchitalodha.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/ruchitalodha/
+
+
+
 - name: Amy Malone
   pic: amy
   position: NSF REU Alum, University of Maryland Undergrad
@@ -217,6 +229,18 @@
 - name: Jessica Salvador
   pic: je
   position: UMSI REMS, University of Washington 
+
+
+- name: Kaushal Solanki
+  pic: ksolanki
+  position: UMSI Master Student
+  social: 
+    - title: globe
+      url: https://kaushalpsolanki.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/kaushalpsolanki/
+
+
 
 - name: Mingda Tang
   pic: mingda
