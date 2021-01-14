@@ -2,7 +2,7 @@
 
 - name: Tawanna Dillahunt
   pic: tawanna
-  position: Principal Investigator, Team Lead
+  position: "Principal Investigator, Team Lead |<br /> UMSI Associate Professor"
   social:
     - title: globe
       url: http://www.tawannadillahunt.com
@@ -11,7 +11,7 @@
 
 - name: Julie Hui
   pic: julie
-  position: UMSI Assistant Professor/Presidential Post-doc
+  position: UMSI Assistant Professor
   social:
     - title: globe
       url: http://www.juliehui.com/

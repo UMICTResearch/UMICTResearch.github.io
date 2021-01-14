@@ -5,10 +5,28 @@
   description: "The ubiquity of technologies such as robotics, artificial intelligence, and the Internet of Things have changed the nature of work. Despite the many benefits created by these technologies, these transformations in the employment landscape have posed challenges for job seekers, especially those with limited education and low resources. This research investigates how digital tools should be designed and implemented to support employment among low-resource job seekers."
   papers:
 
+    - name: "Examining the Use of Online Platforms for Employment: A Survey of U.S. Job Seekers"
+      pic: Dillahunt_CHI21_thumb
+      abstract: "Online employment resources are now as important as offline per- sonal and professional networks, which have been pivotal in finding employment. However, it is unclear, which specific online resources are key to employment and how job seekers take advantage of them. Therefore, in an online survey of 768 job seekers, we investigated which online platforms, specific job search phases, behaviors, and job search strategies job seekers used in their job search, and which of these were associated with positive outcomes. We examined whether these results correlated with demographic factors and found differences in online platform use among income, gender, years of education, and race. Our results suggest that higher-income job seekers were more likely to use different strategies and more likely to get callbacks than lower-income job seekers. We raise new questions around demographics and technology and discuss the need for practitioners to design for a wider variety of job seekers. (*The two authors contributed equally to this research)"
+      authors: "Dillahunt, T. R., Israni, A.*, Lu, A.*, Cai, M., and Hsiao, J. C.-Y. (2021, To Appear)"
+      mainlink: Dillahunt_CHI21
+      resources: 
+      - type: pdf
+        link: Dillahunt_CHI21
+
+    - name: "SkillsIdentifier: A Tool to Promote Career Identity and Self-efficacy Among Underrepresented Job Seekers"
+      pic: Dillahunt_HICSS21_thumb
+      abstract: "Today’s employment applications enable job seekers to improve their skill sets and build social networks with potential employers and colleagues. However, many of these tools cater to higher-educated and relatively affluent job seekers. Research suggests that underrepresented job seekers face challenges associated with articulating their skill sets and understanding those skills’ transferability across jobs and might prefer employment tools to address these types of challenges over others. Because such articulation is vital in today’s job market, we designed, developed, and evaluated SkillsIdentifier, a tool to assist job seekers in identifying their current skill set. We evaluated the tool with 20 U.S. job seekers and found that it helped to enhance their career identity and self-efficacy. We contribute the empirical results of our evaluation and design implications for supporting these constructs among underrepresented job seekers."
+      authors: "Dillahunt, T. R. and Hsiao, J. C.-Y. (2021)"
+      mainlink: Dillahunt_HICSS21
+      resources:
+      - type: pdf
+        link: Dillahunt_HICSS21
+
     - name: "Positive Feedback and Self-reflection: Features to Support Self-efficacy among Underrepresented Job Seekers"
       pic: Dillahunt_CHI20_thumb
       abstract: "Technologies play a key role in finding employment in today's job market. However, the majority of those who are unemployed, e.g., individuals who have limited education or who are racial and ethnic minorities, are not well supported by existing digital employment tools. Therefore, we conducted an 8-month randomized field experiment to evaluate two tools — Review-Me and Interview4 — designed to address these job seekers' key employment needs. We used the Theory of Planned Behavior to examine the tools effects on three fac- tors influencing job seekers' job search intention: job search self-efficacy, subjective norms, and job search attitudes. Our interview data suggested that the tools positively affected all factors, but our survey results were mixed. Interview results suggest that these trends were caused by positive feedback and self-reflection. We contribute ways to integrate these two features into future tools for, and techniques to increase study retention among, underrepresented job seekers."
-      authors: "Dillahunt., T. R. and Hsiao, J. C.-Y. (2020, To Appear in CHI'20)"
+      authors: "Dillahunt., T. R. and Hsiao, J. C.-Y. (2020)"
       mainlink: Dillahunt_CHI20 
       resources: 
       - type: pdf
