@@ -64,6 +64,14 @@
     - title: linkedin
       url: https://www.linkedin.com/in/lujiahong 
 
+
+- name: Mingzhi Cai
+  pic: mingzhic
+  position: UM CS Undergrad
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/mingzhi-cai/
+
 - name: Anna Gilhool
   pic: annakgil
   position: UMSI Undergrad
@@ -73,12 +81,14 @@
     - title: linkedin
       url: https://www.linkedin.com/in/anna-gilhool-5bb137160/
 
-- name: Mingzhi Cai
-  pic: mingzhic
-  position: UM Engineering Undergrad
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/mingzhi-cai/
+- name: Muhan Zhao
+  pic: muhanz
+  position: UM CS Undergrad
+
+
+
+
+
 
 
 
