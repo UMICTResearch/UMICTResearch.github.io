@@ -64,6 +64,21 @@
     - title: linkedin
       url: https://www.linkedin.com/in/lujiahong 
 
+- name: Anandita Aggarwal
+  pic: aanandit
+  position: UMSI Master Student
+  social: 
+    - title: globe
+      url: https://www.aaggarwa.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/anandita-aggarwal/
+
+- name: Sadhana Ramaseshadri
+  pic: sadhanar
+  position: UMSI Master Student
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/sadhana-ramaseshadri/
 
 - name: Mingzhi Cai
   pic: mingzhic
@@ -84,11 +99,9 @@
 - name: Muhan Zhao
   pic: muhanz
   position: UM CS Undergrad
-
-
-
-
-
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/muhan-zhao-05b769196/
 
 
 
