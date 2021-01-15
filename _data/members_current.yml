@@ -73,13 +73,6 @@
     - title: linkedin
       url: https://www.linkedin.com/in/anandita-aggarwal/
 
-- name: Sadhana Ramaseshadri
-  pic: sadhanar
-  position: UMSI Master Student
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/sadhana-ramaseshadri/
-
 - name: Mingzhi Cai
   pic: mingzhic
   position: UM CS Undergrad
@@ -95,6 +88,13 @@
       url: https://www.annagilhool.com/
     - title: linkedin
       url: https://www.linkedin.com/in/anna-gilhool-5bb137160/
+
+- name: Sadhana Ramaseshadri
+  pic: sadhanar
+  position: UMSI Undergrad
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/sadhana-ramaseshadri/
 
 - name: Muhan Zhao
   pic: muhanz
