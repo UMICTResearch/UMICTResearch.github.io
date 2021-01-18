@@ -2,7 +2,7 @@
 
 - name: Tawanna Dillahunt
   pic: tawanna
-  position: Principal Investigator, Team Lead
+  position: "Principal Investigator, Team Lead |<br /> UMSI Associate Professor"
   social:
     - title: globe
       url: http://www.tawannadillahunt.com
@@ -11,7 +11,7 @@
 
 - name: Julie Hui
   pic: julie
-  position: UMSI Assistant Professor/Presidential Post-doc
+  position: UMSI Assistant Professor
   social:
     - title: globe
       url: http://www.juliehui.com/
@@ -64,23 +64,44 @@
     - title: linkedin
       url: https://www.linkedin.com/in/lujiahong 
 
-- name: Ruchita Lodha
-  pic: ruchital
+- name: Anandita Aggarwal
+  pic: aanandit
   position: UMSI Master Student
   social: 
     - title: globe
-      url: http://www.ruchitalodha.com/
+      url: https://www.aaggarwa.com/
     - title: linkedin
-      url: https://www.linkedin.com/in/ruchitalodha/
+      url: https://www.linkedin.com/in/anandita-aggarwal/
 
+- name: Mingzhi Cai
+  pic: mingzhic
+  position: UM CS Undergrad
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/mingzhi-cai/
 
-- name: Kaushal Solanki
-  pic: ksolanki
-  position: UMSI Master Student
+- name: Anna Gilhool
+  pic: annakgil
+  position: UMSI Undergrad
   social: 
     - title: globe
-      url: https://kaushalpsolanki.com/
+      url: https://www.annagilhool.com/
     - title: linkedin
-      url: https://www.linkedin.com/in/kaushalpsolanki/
+      url: https://www.linkedin.com/in/anna-gilhool-5bb137160/
+
+- name: Sadhana Ramaseshadri
+  pic: sadhanar
+  position: UMSI Undergrad
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/sadhana-ramaseshadri/
+
+- name: Muhan Zhao
+  pic: muhanz
+  position: UM CS Undergrad
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/muhan-zhao-05b769196/
+
 
 

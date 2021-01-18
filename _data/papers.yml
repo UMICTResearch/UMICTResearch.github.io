@@ -1,15 +1,26 @@
 # Papers
 
+- name: "Examining the Use of Online Platforms for Employment: A Survey of U.S. Job Seekers"
+  pic: Dillahunt_CHI21_thumb
+  abstract: "To Appear in Proc. of CHI'21 | *The two authors contributed equally to this research."
+  authors: "Dillahunt, T. R., Israni, A.*, Lu, A.*, Cai, M., and Hsiao, J. C.-Y."
+  link: Dillahunt_CHI21
+
+- name: "SkillsIdentifier: A Tool to Promote Career Identity and Self-efficacy Among Underrepresented Job Seekers"
+  pic: Dillahunt_HICSS21_thumb
+  abstract: "In Proc. of HICSS'21"
+  authors: "Dillahunt, T. R. and Hsiao, J. C.-Y."
+  link: Dillahunt_HICSS21
 
 - name: "Positive Feedback and Self-reflection: Features to Support Self-efficacy among Underrepresented Job Seekers"
   pic: Dillahunt_CHI20_thumb
-  abstract: "To Appear in Proc. of CHI'20"
+  abstract: "In Proc. of CHI'20"
   authors: "Dillahunt, T. R. and Hsiao, J. C.-Y."
   link: Dillahunt_CHI20
 
 - name: "Community Collectives: Low-tech Social Support for Digitally-Engaged Entrepreneurship"
   pic: Hui_CHI20_thumb
-  abstract: "To Appear in Proc. of CHI'20"
+  abstract: "*Honorable Mention* | In Proc. of CHI'20"
   authors: "Hui, J., Barber, N. R., Casey, W., Cleage, S., Dolley, D. C., Worthy, F., Toyama, K., and Dillahunt T. R."
   link: Hui_CHI20
 
