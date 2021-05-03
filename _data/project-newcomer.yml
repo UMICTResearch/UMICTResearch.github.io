@@ -3,6 +3,15 @@
   papers: 
 
     - name: "Fostering Immigrants' Trust in Online Local Social Exchange"
+      pic: Hsiao_CHIEA21_thumb
+      abstract: "Transnational newcomers, i.e., foreign-born populations who move to a new country, rely on consumer-to-consumer electronic commerce (C2C e-commerce) to access local resources for adaptation. However, with low trust among transnational newcomers who en- ter a new country, they often face difculties in the adaptation process, and little is known about which determinants afect their trust in C2C e-commerce. Because social identity is often compli- cated in transnational newcomers’ adaptation process, our work focuses on unpacking shared identity, a key trust antecedent in C2C e-commerce. We interviewed 12 transnational newcomers in the United States to identify the determinants of their shared identity in C2C e-commerce. Our preliminary results suggest that shared identity determinants include geographic proximity, ethnic back- ground, life stage, and socio-economic status. We also uncovered ways that shared identity determinants infuence transnational new- comers’ trust in local C2C e-commerce. Our work contributes two research implications to future studies on transnational newcomers’ technology use."
+      authors: "Hsiao, J. C.-Y. and Dillahunt T. R. (2021)" 
+      mainlink: Hsiao_CHIEA21_preprint
+      resources: 
+        - type: pdf
+          link: Hsiao_CHIEA21_preprint
+
+    - name: "Fostering Immigrants' Trust in Online Local Social Exchange"
       pic: Hsiao_CSCWdc19_thumb
       abstract: "Immigrants use technologies for socialization in new countries, but HCI scholars have not explored this research space. In my dissertation, I am adopting the social exchange theory to explore this research space. My first study suggested that trust is the key to addressing immigrants’ concerns about social exchange through technologies. Following this finding, my ongoing work will be focused on designing interventions to address these trust-related concerns. My dissertation should shed light on inclusive design supporting immigrants’ socialization, and inform research on other newcomers (e.g., domestic migrants and refugees) and specific forms of resource exchange (e.g., ridesharing and language exchange)."
       authors: "Hsiao, J. C.-Y. (2019)" 

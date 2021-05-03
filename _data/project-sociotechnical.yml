@@ -5,6 +5,15 @@
   description: "The ubiquity of technologies such as robotics, artificial intelligence, and the Internet of Things have changed the nature of work. Despite the many benefits created by these technologies, these transformations in the employment landscape have posed challenges for job seekers, especially those with limited education and low resources. This research investigates how digital tools should be designed and implemented to support employment among low-resource job seekers."
   papers:
 
+    - name: "Elucidating Skills for Job Seekers: Insights and Critical Concerns from a Field Deployment in Switzerland"
+      pic: Cherubini_DIS21_thumb
+      abstract: "This article contributes results of a longitudinal field study of SkillsIdentifier, an employment tool originally designed and assessed in the United States (U.S.), to support 'underrepresented' job seekers in identifying and articulating their employment skills. To understand whether the tool could support the needs of job seekers outside the U.S., we assessed it among 16 job seekers with limited education and language resources in Switzerland. While many of our results mirrored those of the U.S., we found that the tool was especially beneficial for non-French speaking immigrants who needed support describing their skills outside of their native language. We also found that listing skills like 'active listening' without important context was insufficient and risked hiding key skills and meaning behind those skills to employers. Taking these factors into account, we illustrate the design implications of our findings and directions for practitioners who wish to design employment tools in support of job seekers, especially those who have traditionally been excluded from the labor market. We then provide insight into the potential for unintended consequences as a result of focusing solely on skills in a post-COVID labor market and contribute ways to mitigate them."
+      authors: "Cherubini, M., Lu, A., Hsiao, J. C.-Y., Zhao, M., Aggarwal, A., and Dillahunt, T. R. (2021, To Appear)"
+      mainlink: Cherubini_DIS21_preprint
+      resources: 
+      - type: pdf
+        link: Cherubini_DIS21_preprint
+
     - name: "Examining the Use of Online Platforms for Employment: A Survey of U.S. Job Seekers"
       pic: Dillahunt_CHI21_thumb
       abstract: "Online employment resources are now as important as offline per- sonal and professional networks, which have been pivotal in finding employment. However, it is unclear, which specific online resources are key to employment and how job seekers take advantage of them. Therefore, in an online survey of 768 job seekers, we investigated which online platforms, specific job search phases, behaviors, and job search strategies job seekers used in their job search, and which of these were associated with positive outcomes. We examined whether these results correlated with demographic factors and found differences in online platform use among income, gender, years of education, and race. Our results suggest that higher-income job seekers were more likely to use different strategies and more likely to get callbacks than lower-income job seekers. We raise new questions around demographics and technology and discuss the need for practitioners to design for a wider variety of job seekers. (*The two authors contributed equally to this research)"
@@ -266,7 +275,7 @@ Transportation innovations such as ride-hailing and autonomous vehicles are tran
     - name: "Community Collectives: Low-tech Social Support for Digitally-Engaged Entrepreneurship"
       pic: Hui_CHI20_thumb
       abstract: "With the rise of social media, entrepreneurs are feeling the pressure to adopt digital tools for their work. However, the upfront effort and resources needed to participate on these platforms is ever more complex, particularly in underresourced contexts. Through participatory action research over two years in Detroit’s Eastside, we found that local entrepreneurs preferred to become engaged digitally through a community collective, which involved (a) resource-connecting organizations, (b) regular in-person meetings, (c) paper planning tools, and (d) practice and validation. Together, these elements combined to provide (1) awareness and willingness to use digital tools, (2) regular opportunities to build internet self-efficacy, and (3) ways to collectively overcome digital obstacles. We discuss our findings in the context of digital engagement and entrepreneurship, and outline recommendations for digital platforms seeking to better support economic mobility more broadly."
-      authors: "Hui, J., Barber, N. R., Casey, W., Cleage, S., Dolley, D. C., Worthy, F., Toyama, K., and Dillahunt T. R. (2020, To Appear in CHI'20)"
+      authors: "Hui, J., Barber, N. R., Casey, W., Cleage, S., Dolley, D. C., Worthy, F., Toyama, K., and Dillahunt T. R. (2020)"
       mainlink: Hui_CHI20
       resources:
       - type: pdf
