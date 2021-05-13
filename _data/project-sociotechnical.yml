@@ -23,6 +23,18 @@
       - type: pdf
         link: Dillahunt_CHI21
 
+    - name: "Uncovering the Promises and Challenges of Social Media Use in the Low-Wage Labor Market: Insights from Employers"
+      pic: Dillahunt_CHI21_thumb
+      abstract: "Online employment resources are now as important as offline per- sonal and professional networks, which have been pivotal in finding employment. However, it is unclear, which specific online resources are key to employment and how job seekers take advantage of them. Therefore, in an online survey of 768 job seekers, we investigated which online platforms, specific job search phases, behaviors, and job search strategies job seekers used in their job search, and which of these were associated with positive outcomes. We examined whether these results correlated with demographic factors and found differences in online platform use among income, gender, years of education, and race. Our results suggest that higher-income job seekers were more likely to use different strategies and more likely to get callbacks than lower-income job seekers. We raise new questions around demographics and technology and discuss the need for practitioners to design for a wider variety of job seekers. (*The two authors contributed equally to this research)"
+      authors: "Dillahunt, T. R., Israni, A.*, Lu, A.*, Cai, M., and Hsiao, J. C.-Y. (2021, To Appear)"
+      mainlink: Dillahunt_CHI21
+      resources: 
+      - type: pdf
+        link: Dillahunt_CHI21
+
+
+
+
     - name: "SkillsIdentifier: A Tool to Promote Career Identity and Self-efficacy Among Underrepresented Job Seekers"
       pic: Dillahunt_HICSS21_thumb
       abstract: "Today’s employment applications enable job seekers to improve their skill sets and build social networks with potential employers and colleagues. However, many of these tools cater to higher-educated and relatively affluent job seekers. Research suggests that underrepresented job seekers face challenges associated with articulating their skill sets and understanding those skills’ transferability across jobs and might prefer employment tools to address these types of challenges over others. Because such articulation is vital in today’s job market, we designed, developed, and evaluated SkillsIdentifier, a tool to assist job seekers in identifying their current skill set. We evaluated the tool with 20 U.S. job seekers and found that it helped to enhance their career identity and self-efficacy. We contribute the empirical results of our evaluation and design implications for supporting these constructs among underrepresented job seekers."
