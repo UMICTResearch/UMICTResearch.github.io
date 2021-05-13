@@ -10,6 +10,16 @@
 #    - title: stack-overflow
 #      url: #
 
+
+- name: Anandita Aggarwal
+  pic: aanandit
+  position: UMSI Master Student
+  social: 
+    - title: globe
+      url: https://www.aaggarwa.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/anandita-aggarwal/
+
 - name: Alexis Ashby
   pic: ashbya
   position: UM MSI Alum
@@ -76,6 +86,13 @@
       - title: linkedin
         url: https://www.linkedin.com/profile/view?id=181522342
 
+- name: Mingzhi Cai
+  pic: mingzhic
+  position: UM CS Alum
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/mingzhi-cai/
+
 - name: Asha Chen-Phang
   pic: asha
   position: NSF REU, Northeastern University Student
@@ -87,7 +104,7 @@
 
 - name: David Cui
   pic: david
-  position: UM Undergrad
+  position: UM Alum
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/david-cui-168376a6
@@ -121,6 +138,15 @@
   social:
       - title: linkedin
         url: https://www.linkedin.com/in/indulekha-ghandikota-b269aa92
+
+- name: Anna Gilhool
+  pic: annakgil
+  position: UMSI MSI Student
+  social: 
+    - title: globe
+      url: https://www.annagilhool.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/anna-gilhool-5bb137160/
 
 - name: Samarth Gulati
   pic: samarth
@@ -226,6 +252,13 @@
       - title: globe
         url: http://www.pquinones.com/
 
+- name: Sadhana Ramaseshadri
+  pic: sadhanar
+  position: UMSI MSI Student
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/sadhana-ramaseshadri/
+
 - name: Jessica Salvador
   pic: je
   position: UMSI REMS, University of Washington 
@@ -274,6 +307,13 @@
       - title: linkedin
         url: https://www.linkedin.com/in/brian1wang
 
+- name: Alice Wang
+  pic: aliceinw
+  position: UMSI MSI Student
+  social: 
+    - title: globe
+      url: https:https://www.notion.so/Welcome-to-Alice-s-Wonderland-8f4356cb80b241cea166e21cb9f3701f
+
 - name: Earnest Wheeler
   pic: earnest
   position: UMSI Alum
@@ -291,4 +331,14 @@
   social:
     - title: linkedin
       url: http://linkedin.com/in/yongweiyuan 
+
+- name: Muhan Zhao
+  pic: muhanz
+  position: UM CS Alum
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/muhan-zhao-05b769196/
+
+
+
  
