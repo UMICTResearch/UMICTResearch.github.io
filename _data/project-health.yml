@@ -1,5 +1,15 @@
 #  Project Details for Health
 
+
+- name: "Examining Mobility among People Living with HIV in Rural Areas"
+  pic: Maestre_CHI21_thumb
+  abstract: "The rise of ridesharing platforms has transformed traditional transportation, making it more accessible for getting to work and accessing grocery stores and healthcare providers, which are essential to physical and mental well-being. However, such technologies are not available everywhere. Additionally, there is a scarcity of HCI work that investigates how vulnerable populations such as rural-dwelling people with HIV face and overcome transportation barriers. To extend past research, we conducted 31 surveys and 18 interviews with people living with HIV (22 surveys, 14 interviews) and their case coordinators (9 surveys, 4 interviews) in rural areas. Contrary to past research, we found that the use of alternative vehicles, extensive support networks, and nonproft health organizations facilitated transportation. However, distance, the lack of trust and infrastructure, stigma, and other cultural underpinnings made popular forms of urban transportation unappealing. We contextualize our fndings with prior research and contribute implications for future research and design."
+  authors: "Maestre, J. F., Dillahunt, T. R., Theisz, A. A., Furness, M., Kameswaran, V., Veinot, T., and Shih, P. C. (2021)"
+  mainlink: Maestre_CHI21
+  resources: 
+      - type: pdf
+        link: Maestre_CHI21
+
 - name: "Online Grocery Delivery Services: An Opportunity to Address Food Disparities in Transportation-scarce Areas"
   pic: Dillahunt_CHI19a_thumb
   abstract: "

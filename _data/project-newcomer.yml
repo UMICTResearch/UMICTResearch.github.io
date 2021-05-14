@@ -2,7 +2,7 @@
   description: "Immigrants face challenges that all newcomers face. Indeed, immigrants additionally face cultural and language differences, which further increase difficulties in adaptation. Research suggests that information and communication technologies (ICTs) foster immigrants’ social capital and facilitate their adaptation. This project aims to understand how immigrants use ICTs to develop their social capital and access resources to address their adaptation needs."
   papers: 
 
-    - name: "Fostering Immigrants' Trust in Online Local Social Exchange"
+    - name: "More than Shared Ethnicity: Shared Identity’s Role in Transnational Newcomers’ Trust in Local Consumer-to-Consumer E-commerce"
       pic: Hsiao_CHIEA21_thumb
       abstract: "Transnational newcomers, i.e., foreign-born populations who move to a new country, rely on consumer-to-consumer electronic commerce (C2C e-commerce) to access local resources for adaptation. However, with low trust among transnational newcomers who en- ter a new country, they often face difculties in the adaptation process, and little is known about which determinants afect their trust in C2C e-commerce. Because social identity is often compli- cated in transnational newcomers’ adaptation process, our work focuses on unpacking shared identity, a key trust antecedent in C2C e-commerce. We interviewed 12 transnational newcomers in the United States to identify the determinants of their shared identity in C2C e-commerce. Our preliminary results suggest that shared identity determinants include geographic proximity, ethnic back- ground, life stage, and socio-economic status. We also uncovered ways that shared identity determinants infuence transnational new- comers’ trust in local C2C e-commerce. Our work contributes two research implications to future studies on transnational newcomers’ technology use."
       authors: "Hsiao, J. C.-Y. and Dillahunt T. R. (2021)" 
@@ -24,7 +24,7 @@
       pic: Hsiao_PACMHCI18_thumb 
       abstract: "The key to successful adaptation for immigrants in a new country is their social capital, or those resources embedded in their social networks. Research suggests that information and communication technologies (ICTs) foster immigrants’ social capital and facilitate their adaptation. However, it is unclear how recent immigrants use ICTs to develop social capital and how this supports their adaptation needs. We performed semi-structured interviews with thirteen recent immigrants and five long-term immigrants. We found that ICTs and technology-mediated connections: (1) easily addressed immigrants’ settlement needs, (2) minimally addressed their financial and cultural needs, and (3) were not used to address their emotional needs. To support recent immigrants’ adaptation, we suggest ways for ICTs to (1) reduce uncertainty about meeting local-born populations, (2) foster reciprocity among immigrant communities, and (3) facilitate safe resource exchanges."
 
-      authors: "Hsiao, J. C.-Y. and Dillahunt, T.R. (2018)" 
+      authors: "Hsiao, J. C.-Y. and Dillahunt, T. R. (2018)" 
       mainlink: Hsiao_PACMHCI18
       resources: 
         - type: pdf
@@ -38,16 +38,16 @@
     - name: "Detecting Life Changes: Increasing Opportunities to Benefit from People-Nearby Applications"
       pic: Hsiao_CHIEA17_thumb 
       abstract: "Prior research suggests that individuals are motivated to use People-Nearby Applications (PNAs) to meet new people offline and that these individuals receive benefits such as social and cultural capital from their offline connections. It is unclear, however, what the impetus behind these motivations are and whether individuals are motivated to use PNAs for other reasons. To explore these questions, we analyzed a dataset of 14 active PNA users' semi-structured interviews and found that participants' first experiences using PNAs were associated with significant life events such as moving to a new area or ending a relationship. We conducted an online survey (N = 142) to explore these findings further and investigate whether they generalized across a broader set of active PNA users. We confirm our past findings and contribute ways in which future technologies can detect specific life changes to increase the opportunities for individuals to benefit from PNAs"
-      authors: "Hsiao, J. C.-Y. and Dillahunt, T.R. (2017)" 
+      authors: "Hsiao, J. C.-Y. and Dillahunt, T. R. (2017)" 
       mainlink: Hsiao_CHIEA17
       resources: 
         - type: pdf
           link: Hsiao_CHIEA17
 
-    - name: "People-Nearby Applications: How Newcomers Move Their Relationships Offline and Develop Social and Cultural Capital."
+    - name: "People-Nearby Applications: How Newcomers Move Their Relationships Offline and Develop Social and Cultural Capital"
       pic: Hsiao_CSCW17_thumb 
       abstract: "People-nearby applications (PNAs), such as Tinder and Badoo, help millions of users to make new social connections everyday. However, little is known about how PNAs support offline interactions or what application features are associated with offline encounters. Research suggests that these applications support the development of social capital, but the forms of social capital are unclear. We conducted interviews with 14 active PNA users to address these questions. Our results suggest that while existing PNA features such as filters, profile photos, and chat support online connections, most participants used non-PNA platforms to build mutual trust before meeting offline. In addition, PNA users developed two forms of social (informal and formal) and cultural capital (incorporated and symbolic). We offer insights into how PNAs and non-PNAs intersect to foster feelings of safety and trust prior to offline meetings, and we propose ways for PNAs to support the exchange of cultural and social capital." 
-      authors: "Hsiao, J. C.-Y. and Dillahunt, T.R. (2017)" 
+      authors: "Hsiao, J. C.-Y. and Dillahunt, T. R. (2017)" 
       mainlink: Hsiao_CSCW17
       resources: 
         - type: pdf
