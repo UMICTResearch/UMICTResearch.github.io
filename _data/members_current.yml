@@ -62,46 +62,20 @@
   position: UMSI Ph.D. Student
   social: 
     - title: linkedin
-      url: https://www.linkedin.com/in/lujiahong 
-
-- name: Anandita Aggarwal
-  pic: aanandit
-  position: UMSI Master Student
-  social: 
-    - title: globe
-      url: https://www.aaggarwa.com/
-    - title: linkedin
-      url: https://www.linkedin.com/in/anandita-aggarwal/
-
-- name: Mingzhi Cai
-  pic: mingzhic
-  position: UM CS Undergrad
+      url: https://www.linkedin.com/in/lujiahong
+ 
+- name: Soyoung Lee
+  pic: soyolee
+  position: UMSI MSI Student
   social: 
     - title: linkedin
-      url: https://www.linkedin.com/in/mingzhi-cai/
+      url: https://www.linkedin.com/in/soyoung-lee-64434710a/
 
-- name: Anna Gilhool
-  pic: annakgil
-  position: UMSI Undergrad
-  social: 
-    - title: globe
-      url: https://www.annagilhool.com/
-    - title: linkedin
-      url: https://www.linkedin.com/in/anna-gilhool-5bb137160/
-
-- name: Sadhana Ramaseshadri
-  pic: sadhanar
-  position: UMSI Undergrad
+- name: James Lisowski
+  pic: jlisowsk
+  position: UM Undergrad
   social: 
     - title: linkedin
-      url: https://www.linkedin.com/in/sadhana-ramaseshadri/
-
-- name: Muhan Zhao
-  pic: muhanz
-  position: UM CS Undergrad
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/muhan-zhao-05b769196/
-
+      url: https://www.linkedin.com/in/james-watkins-lisowski-247144199/
 
 
