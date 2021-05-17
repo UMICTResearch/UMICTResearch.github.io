@@ -62,5 +62,20 @@
   position: UMSI Ph.D. Student
   social: 
     - title: linkedin
-      url: https://www.linkedin.com/in/lujiahong 
+      url: https://www.linkedin.com/in/lujiahong
+ 
+- name: Soyoung Lee
+  pic: soyolee
+  position: UMSI MSI Student
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/soyoung-lee-64434710a/
+
+- name: James Lisowski
+  pic: jlisowsk
+  position: UM Undergrad
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/james-watkins-lisowski-247144199/
+
 
