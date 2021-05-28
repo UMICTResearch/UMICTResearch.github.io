@@ -33,3 +33,6 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# To fix Github timezone difference issue
+future: true
