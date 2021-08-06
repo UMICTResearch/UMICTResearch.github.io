@@ -1,0 +1,42 @@
+<!-- Services Section -->
+
+<section id="media" style="background-color:#FFD371;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Media</h2>
+            </div>
+        </div>
+        <div class="row text-center">
+            <div class="col-md-8 col-centered" style="text-align: center;">
+              <h3 class="service-heading"><b>SIG Employment Tool Research - Researcher Summary</b></h3>	
+              <iframe width="640" height="385" src="https://www.youtube.com/embed/videoseries?list=PL8yn1Q6xwcgUsR0F0sUZphO73L7HyyiCm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>		 
+            </div>
+
+            <div class="col-xs-12 col-sm-10 col-centered">
+
+              <h3 class="service-heading" style="text-align: center;"><b>Infographics</b></h3>	
+              <ul class="papers-container">
+                  {% for document in site.data.documents %}
+                    <li class="paper custom-resp">
+                        <div class="first">
+                            {% if document.pic %}<a href="/assets/documents/{{ document.link }}.pdf" target="_blank"><img class="img-responsive" src="/assets/documents/{{ document.pic }}.jpg" alt=""></a>{% else %}<div class="no-image text-center"></div>{% endif %}
+                        </div>
+                        <div class="second">
+                            <div class="timeline-heading">
+                                <h4>{% if document.link %}<a class="post-link" href="/assets/documents/{{ document.link }}.pdf" target="_blank">{{ document.name }}</a>{% else %}{{ document.name }}{% endif %}</h4>
+                            </div>
+                            <div class="timeline-body">
+                                <div class="paper-desc">{{ document.abstract}}</div>
+                                <div class="paper-links"><a class="post-link" href="/assets/documents/{{ document.link }}.pdf" target="_blank">PDF</a></div>
+                            </div>
+                        </div>
+                    </li>
+                    {% endfor %}
+                </ul>
+
+              </div>
+
+        </div>
+    </div>
+</section>
