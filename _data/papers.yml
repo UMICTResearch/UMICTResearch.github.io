@@ -1,11 +1,16 @@
 # Papers
 
-
 - name: "Elucidating Skills for Job Seekers: Insights and Critical Concerns from a Field Deployment in Switzerland"
   pic: Cherubini_DIS21_thumb
   abstract: "In Proc. of DIS'21"
   authors: "Cherubini, M., Lu, A., Hsiao, J. C.-Y., Zhao, M., Aggarwal, A., and Dillahunt, T. R."
-  link: Cherubini_DIS21_preprint
+  link: Cherubini_DIS21
+
+- name: "Coding Bias in the Use of Behavior Management Technologies: Uncovering Socio-technical Consequences of Data-driven Surveillance in Classrooms"
+  pic: Lu_DIS21_thumb
+  abstract: "*Honorable Mention* | In Proc. of DIS'21"
+  authors: "Lu, A. J., Marcu, G., Ackerman, M. S., and Dillahunt, T. R."
+  link: Lu_DIS21
 
 - name: "Examining the Use of Online Platforms for Employment: A Survey of U.S. Job Seekers"
   pic: Dillahunt_CHI21_thumb
