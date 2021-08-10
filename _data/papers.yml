@@ -1,5 +1,11 @@
 # Papers
 
+- name: "Implications for Supporting Marginalized Job Seekers: Lessons from Employment Centers" 
+  pic: Dillahunt_PACMHCI21_thumb
+  abstract: "To appear in Proc. ACM Hum.-Comput. Interact. 5, CSCW 2"
+  authors: "Dillahunt, T. R., Garvin, M., Held, M., and Hui, J."
+  link: Dillahunt_PACMHCI21
+
 - name: "Elucidating Skills for Job Seekers: Insights and Critical Concerns from a Field Deployment in Switzerland"
   pic: Cherubini_DIS21_thumb
   abstract: "In Proc. of DIS'21"
@@ -48,6 +54,12 @@
   authors: "Israni, A., Ellison, N. B., Dillahunt, T. R."
   link: Israni_PACMHCI21
 
+- name: "Delivery Work and the Experience of Social Isolation"
+  pic: Seetharaman_PACMHCI21_thumb
+  abstract: "In Proc. ACM Hum.-Comput. Interact. 5, CSCW 1"
+  authors: "Seetharaman, B., Pal, J., and Hui., J."
+  link: Seetharaman_PACMHCI21
+
 - name: "Mobility-on-demand versus fixed-route transit systems: an evaluation of traveler preferences in low-income communities"
   pic: Yan_TRPA21_thumb
   abstract: "In Transportation Research Part A, Vol 148"
@@ -60,10 +72,16 @@
   authors: "Dillahunt, T. R. and Hsiao, J. C.-Y."
   link: Dillahunt_HICSS21
 
+- name: "Watched, but Moving: Platformization of Beauty Work and Its Gendered Mechanisms of Control"
+  pic: Anwar_PACMHCI20_thumb
+  abstract: "In Proc. ACM Hum.-Comput. Interact. 4, CSCW 3"
+  authors: "Anwar, I. A., Pal, J., and Hui, J."
+  link: Anwar_PACMHCI20
+
 - name: "'Learning for the Rise of China': Exploring Uses and Gratifications of State-Owned Online Platform"
   pic: Lu_PACMHCI20_thumb
   abstract: "In Proc. ACM Hum.-Comput. Interact. 4, CSCW 1"
-  authors: "Lu, A. and X. Xu"
+  authors: "Lu, A. and Xu, X."
   link: Lu_PACMHCI20
 
 - name: "Engaging Offline Communities Online Amid COVID-19: A Case Study of Independent Theaters"
@@ -86,13 +104,13 @@
 
 - name: "Additional Labors of the Entrepreneurial Self"
   pic: Avle_PACMHCI19_thumb
-  abstract: "Proc. ACM Hum.-Comput. Interact. 3, CSCW, Article 218"
+  abstract: "In Proc. ACM Hum.-Comput. Interact. 3, CSCW"
   authors: "Avle, S., Hui, J., Lindtner, S., and Dillahunt, T. R."
   link: Avle_PACMHCI19
 
 - name: "Does Driving as a Form of “Gig Work” Mitigate Low-Skilled Job Seekers’ Negative Long-Term Unemployment Effects?"
   pic: Li_PACMHCI19_thumb
-  abstract: "Proc. ACM Hum.-Comput. Interact. 3, CSCW, Article 156"
+  abstract: "In Proc. ACM Hum.-Comput. Interact. 3, CSCW"
   authors: "Li, L., Dillahunt, T. R., and Rosenblat, T."
   link: Li_PACMHCI19 
 
