@@ -5,14 +5,24 @@
   description: "The ubiquity of technologies such as robotics, artificial intelligence, and the Internet of Things have changed the nature of work. Despite the many benefits created by these technologies, these transformations in the employment landscape have posed challenges for job seekers, especially those with limited education and low resources. This research investigates how digital tools should be designed and implemented to support employment among low-resource job seekers."
   papers:
 
+    - name: "Implications for Supporting Marginalized Job Seekers: Lessons from Employment Centers"
+      pic: Dillahunt_PACMHCI21_thumb
+      abstract: "Rapid changes in technology are expected to limit the availability of decent work for millions of people worldwide. This particularly disadvantages socially and economically marginalized job seekers who are already being pushed into lower-wage precarious work with increasing levels of job insecurity. While the number of employment support tools that match job seekers to employers has been growing, marginalized job seekers still significantly rely on physical employment centers that have a track record of supporting the specific needs associated with marginalization and economic constraints. We drew from prior HCI and CSCW literature uncovering the employment and technology-related challenges that marginalized job seekers face and from the Psychology of Working Theory to frame our research questions and results. To complement this prior work, we investigated how employment center staff work with marginalized job seekers and moderate factors to securing decent work. We found in an interview of 21 employment center staff—career advisors and business services coordinators—that they performed significant work to prepare and encourage marginalized job seekers in applying to positions, while also training employers to be more inclusive and open-minded. Career advisors worked directly with job seekers to connect them with external resources, provide encouragement, strategize long-term goals, and mitigate feelings of stigma. Business services coordinators worked directly with employers to prepare job positions and employee support programs. Drawing from the expertise of employment centers, we contribute a framework for designing employment support tools that better serve the needs of marginalized job seekers, and outline tangible design implications that complement the support these organizations provide."
+      authors: "Dillahunt, T. R., Garvin, M., Held, M., and Hui, J. (2021)"
+      mainlink: Dillahunt_PACMHCI21
+      resources: 
+      - type: pdf
+        link: Dillahunt_PACMHCI21
+
+
     - name: "Elucidating Skills for Job Seekers: Insights and Critical Concerns from a Field Deployment in Switzerland"
       pic: Cherubini_DIS21_thumb
       abstract: "This article contributes results of a longitudinal field study of SkillsIdentifier, an employment tool originally designed and assessed in the United States (U.S.), to support 'underrepresented' job seekers in identifying and articulating their employment skills. To understand whether the tool could support the needs of job seekers outside the U.S., we assessed it among 16 job seekers with limited education and language resources in Switzerland. While many of our results mirrored those of the U.S., we found that the tool was especially beneficial for non-French speaking immigrants who needed support describing their skills outside of their native language. We also found that listing skills like 'active listening' without important context was insufficient and risked hiding key skills and meaning behind those skills to employers. Taking these factors into account, we illustrate the design implications of our findings and directions for practitioners who wish to design employment tools in support of job seekers, especially those who have traditionally been excluded from the labor market. We then provide insight into the potential for unintended consequences as a result of focusing solely on skills in a post-COVID labor market and contribute ways to mitigate them."
       authors: "Cherubini, M., Lu, A., Hsiao, J. C.-Y., Zhao, M., Aggarwal, A., and Dillahunt, T. R. (2021)"
-      mainlink: Cherubini_DIS21_preprint
+      mainlink: Cherubini_DIS21
       resources: 
       - type: pdf
-        link: Cherubini_DIS21_preprint
+        link: Cherubini_DIS21
 
     - name: "Examining the Use of Online Platforms for Employment: A Survey of U.S. Job Seekers"
       pic: Dillahunt_CHI21_thumb
@@ -174,6 +184,17 @@
       - type: pdf
         link: Israni_PACMHCI21
 
+    - name: "Delivery Work and the Experience of Social Isolation"
+      pic: Seetharaman_PACMHCI21_thumb
+      abstract: "The isolating nature of platform-based work, particularly gig work involving deliveries, has created unintended consequences over how workers engage with peers, friends, family, and society in general. We performed a qualitative study involving interviews with 21 delivery workers in Bangalore, India to understand how workers experienced and responded to social isolation perpetuated by the nature and daily function of their work. We found that the stigma and individual nature of app-based delivery work restricts access to inter-relational and instrumental support. As a response, workers organized peer networks for both companionship and emergency assistance. We analyze how the cultural context of India heightens these experiences, and offer ideas for mitigating the risks of isolation as a result of gig work." 
+      authors: "Seetharaman, B., Pal, J., and Hui., J. (2021)"
+      mainlink: Seetharaman_PACMHCI21
+      resources: 
+      - type: pdf
+        link: Seetharaman_PACMHCI21
+
+
+
     - name: "Mobility-on-demand versus fixed-route transit systems: an evaluation of traveler preferences in low-income communities"
       pic: Yan_TRPA21_thumb
       abstract: "Emerging transportation technologies such as ridesourcing services (i.e. Uber, Lyft, and Via) are disrupting the transportation sector and transforming public transit. Some transit observers envision future public transit to be integrated systems with fixed-route services running along major corridors and ridesourcing servicing lower-density areas. A switch from a conventional fixed-route service model to this kind of integrated Mobility-on-Demand (MOD) transit system, however, may elicit varied responses from residents. This paper evaluates traveler preferences for a proposed integrated MOD transit system versus the existing fixed-route system, with a particular focus on disadvantaged travelers. We conducted a survey in two low-income localities, namely, Detroit and Ypsilanti, Michigan. A majority of survey respondents preferred a MOD transit system over a fixed-route one. Results of ordered logit models revealed a stronger preference for MOD transit among males, college graduates, and individuals who currently receive inferior transit services and have used Uber/Lyft before. By contrast, preferences varied little by age, income, race, or disability status. Survey results further imply that low technology self-efficacy can be a more serious barrier for many people to adopt MOD transit than lacking access to bank accounts, smartphones, or the internet. The most important benefit of MOD transit perceived by re- spondents is enhanced accessibility to destinations, whereas their major concerns include the need to actively request rides, possible transit-fare increases, and potential technological failures. Addressing the concerns of female riders and accommodating the needs of less technology- proficient individuals should be priorities for transit agencies that are considering MOD initiatives."
@@ -182,6 +203,18 @@
       resources:
       - type: pdf
         link: Yan_TRPA21
+
+
+
+    - name: "Watched, but Moving: Platformization of Beauty Work and Its Gendered Mechanisms of Control"
+      pic: Anwar_PACMHCI20_thumb
+      abstract: "Women gig workers face unique challenges in on-demand platforms as gendered aspects of class, caste, and labor participation intersect with moments of control experienced on the job. Through in-depth interviews with 19 beauty workers on on-demand home service platforms, we explore how the platformization of informal beauty work in India has ruptured dominant socio-cultural structures of control that have traditionally shaped women’s mobility and access to work. This paper maps the ways in which women beauty gig workers experience and are impacted by algorithmic and bureaucratic management practices prevalent in the gig economy, in the context of home service platforms in Bangalore. We find that platform control impacts lives in myriad ways, beyond the conditions of work. Women workers negotiate their identities and sense of agency through the visibility afforded by platform control mechanisms. Yet, despite these subversions, being on a platform does not fundamentally change the socio-cultural logic that restricts women’s lives in India. These mechanisms work to entrench power asymmetries between customers and workers, as well as maintain them between the platform and the worker."
+      authors: "Anwar, I. A., Pal, J., and Hui, J. (2020)"
+      mainlink: Anwar_PACMHCI20
+      resources:
+      - type: pdf
+        link: Anwar_PACMHCI20
+
 
 
     - name: "Does Driving as a Form of “Gig Work” Mitigate Low-Skilled Job Seekers’ Negative Long-Term Unemployment Effects?"
@@ -298,7 +331,6 @@ Transportation innovations such as ride-hailing and autonomous vehicles are tran
 - subproject: "Entrepreneurship in Lean Economies"
   description: "Online technologies are increasingly hailed as enablers of entrepreneurship and income generation. Recent evidence suggests, however, that even the best such tools disproportionately favor those with pre-existing entrepreneurial advantages. Our research explores the use of these tools among those with limited prior entrepreneurial advantages."
   papers:
-
 
     - name: "Community Collectives: Low-tech Social Support for Digitally-Engaged Entrepreneurship"
       pic: Hui_CHI20_thumb
