@@ -226,7 +226,6 @@
       url: https://www.linkedin.com/in/ruchitalodha/
 
 
-
 - name: Amy Malone
   pic: amy
   position: NSF REU Alum, University of Maryland Undergrad
@@ -338,6 +337,15 @@
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/muhan-zhao-05b769196/
+
+- name: Joey Chiao-Yin Hsiao
+  pic: joey
+  position: UMSI Ph.D. Student
+  social:
+    - title: globe
+      url: https://www.joeyhsiao.info/
+    - title: linkedin
+      url: https://www.linkedin.com/in/joeycyhsiao
 
 
 
