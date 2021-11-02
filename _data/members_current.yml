@@ -18,14 +18,6 @@
     - title: linkedin
       url: https://www.linkedin.com/in/juliehui/ 
 
-- name: Joey Chiao-Yin Hsiao
-  pic: joey
-  position: UMSI Ph.D. Student
-  social:
-    - title: globe
-      url: https://www.joeyhsiao.info/
-    - title: linkedin
-      url: https://www.linkedin.com/in/joeycyhsiao
 
 - name: Vaishnav Kameswaran
   pic: vaishnav
@@ -78,6 +70,12 @@
     - title: linkedin
       url: https://www.linkedin.com/in/amelia-duffy-38657a190/
 
+- name: Cindy Zhao
+  pic: cindy
+  position: UM Undergrad
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/xinrui-cindy-zhao/
 
 
 - name: James Lisowski
