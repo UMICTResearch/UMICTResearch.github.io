@@ -9,12 +9,6 @@
     - title: linkedin
       url: https://www.linkedin.com/pub/tawanna-dillahunt/82/866/a77
 
-- name: Amelia Duffy
-  pic: ameliadu
-  position: UM Undergrad
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/amelia-duffy-38657a190/
 
 - name: Julie Hui
   pic: julie
@@ -24,6 +18,13 @@
       url: http://www.juliehui.com/
     - title: linkedin
       url: https://www.linkedin.com/in/juliehui/ 
+
+  - name: Amelia Duffy
+  pic: ameliadu
+  position: UM Undergrad
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/amelia-duffy-38657a190/
 
 
 - name: Vaishnav Kameswaran
