@@ -164,6 +164,16 @@
     - title: linkedin
       url: https://www.linkedin.com/in/marcy-held-837917b0/ 
 
+- name: Joey Chiao-Yin Hsiao
+  pic: joey
+  position: UMSI Ph.D. Student
+  social:
+    - title: globe
+      url: https://www.joeyhsiao.info/
+    - title: linkedin
+      url: https://www.linkedin.com/in/joeycyhsiao
+
+
 - name: Benjamin Jen
   pic: benjamin
   position: UROP Student, LSA
@@ -338,14 +348,6 @@
     - title: linkedin
       url: https://www.linkedin.com/in/muhan-zhao-05b769196/
 
-- name: Joey Chiao-Yin Hsiao
-  pic: joey
-  position: UMSI Ph.D. Student
-  social:
-    - title: globe
-      url: https://www.joeyhsiao.info/
-    - title: linkedin
-      url: https://www.linkedin.com/in/joeycyhsiao
 
 
 
