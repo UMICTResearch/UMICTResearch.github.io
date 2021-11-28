@@ -9,6 +9,7 @@
     - title: linkedin
       url: https://www.linkedin.com/pub/tawanna-dillahunt/82/866/a77
 
+
 - name: Julie Hui
   pic: julie
   position: UMSI Assistant Professor
@@ -17,6 +18,13 @@
       url: http://www.juliehui.com/
     - title: linkedin
       url: https://www.linkedin.com/in/juliehui/ 
+
+  - name: Amelia Duffy
+  pic: ameliadu
+  position: UM Undergrad
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/amelia-duffy-38657a190/
 
 
 - name: Vaishnav Kameswaran
@@ -71,12 +79,12 @@
       url: https://www.linkedin.com/in/saxenanshika/
 
 
-- name: Amelia Duffy
-  pic: ameliadu
+- name: James Lisowski
+  pic: jlisowsk
   position: UM Undergrad
   social: 
     - title: linkedin
-      url: https://www.linkedin.com/in/amelia-duffy-38657a190/
+      url: https://www.linkedin.com/in/james-watkins-lisowski-247144199/
 
 - name: Cindy Zhao
   pic: cindy
@@ -84,13 +92,5 @@
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/xinrui-cindy-zhao/
-
-
-- name: James Lisowski
-  pic: jlisowsk
-  position: UM Undergrad
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/james-watkins-lisowski-247144199/
 
 
