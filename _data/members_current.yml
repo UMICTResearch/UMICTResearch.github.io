@@ -19,13 +19,22 @@
     - title: linkedin
       url: https://www.linkedin.com/in/juliehui/ 
 
+- name: Shruti Sannon
+  pic: shruti
+  position: Postdoctoral Computing Innovation Fellow
+  social:
+    - title: globe
+      url: http://shrutisannon.com 
+    - title: linkedin
+      url: http://linkedin.com/in/sannon/ 
+
 
 - name: Amelia Duffy
   pic: ameliadu
   position: UM Undergrad
   social: 
     - title: linkedin
-      url: https://www.linkedin.com/in/amelia-duffy-38657a190/
+      url: https://www.linkedin.com/in/amelia-d-38657a190
 
 
 - name: Vaishnav Kameswaran
