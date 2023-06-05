@@ -10,14 +10,31 @@
       url: https://www.linkedin.com/pub/tawanna-dillahunt/82/866/a77
 
 
+- name: Julie Hui
+  pic: julie
+  position: UMSI Assistant Professor
+  social:
+    - title: globe
+      url: http://www.juliehui.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/juliehui/ 
+
 - name: Shruti Sannon
   pic: shruti
   position: Postdoctoral Computing Innovation Fellow
   social:
     - title: globe
-      url: http://shrutisannon.com
+      url: http://shrutisannon.com 
     - title: linkedin
-      url: http://linkedin.com/in/sannon/
+      url: http://linkedin.com/in/sannon/ 
+
+
+- name: Amelia Duffy
+  pic: ameliadu
+  position: UM Undergrad
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/amelia-d-38657a190
 
 
 - name: Vaishnav Kameswaran
@@ -46,20 +63,51 @@
 - name: Sylvia Simioni
   pic: sylvia
   position: UMSI Ph.D. Student
-  social:
+  social: 
     - title: linkedin
       url: https://www.linkedin.com/in/sylvia-simioni/
 
 - name: Alex Lu
   pic: alexlu
   position: UMSI Ph.D. Student
-  social:
+  social: 
     - title: linkedin
       url: https://www.linkedin.com/in/lujiahong
-
+ 
 - name: Soyoung Lee
   pic: soyolee
   position: UMSI MSI Student
-  social:
+  social: 
     - title: linkedin
       url: https://www.linkedin.com/in/soyoung-lee-64434710a/
+
+- name: Anshika Saxena
+  pic: anshika
+  position: UMSI MSI Student
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/saxenanshika/
+
+
+- name: James Lisowski
+  pic: jlisowsk
+  position: UM Undergrad
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/james-watkins-lisowski-247144199/
+
+- name: Pratik Mangtani
+  pic: pratik
+  position: UMSI MSI Student
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/pratikmangtani/
+
+- name: Cindy Zhao
+  pic: cindy
+  position: UM Undergrad
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/xinrui-cindy-zhao/
+
+

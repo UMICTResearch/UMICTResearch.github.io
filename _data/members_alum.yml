@@ -11,46 +11,10 @@
 #      url: #
 
 
-
-
-- name: James Lisowski
-  pic: jlisowsk
-  position: UM Undergrad
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/james-watkins-lisowski-247144199/
-
-- name: Pratik Mangtani
-  pic: pratik
-  position: UMSI MSI Student
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/pratikmangtani/
-
-- name: Cindy Zhao
-  pic: cindy
-  position: UM Undergrad
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/xinrui-cindy-zhao/
-- name: Amelia Duffy
-  pic: ameliadu
-  position: UM Undergrad
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/amelia-d-38657a190
-
-- name: Anshika Saxena
-  pic: anshika
-  position: UMSI MSI Student
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/saxenanshika/
-      
 - name: Anandita Aggarwal
   pic: aanandit
   position: UMSI Master Student
-  social:
+  social: 
     - title: globe
       url: https://www.aaggarwa.com/
     - title: linkedin
@@ -84,7 +48,7 @@
 - name: Seungjoo Baek
   pic: seungjoo
   position: UM MSI Alum
-  social:
+  social: 
     - title: globe
       url: http://www.davidsjbaek.com/
     - title: linkedin
@@ -113,7 +77,7 @@
     - title: globe
       url: http://www-personal.umich.edu/~jlbrill/
     - title: linkedin
-      url: https://www.linkedin.com/in/jlbrill/
+      url: https://www.linkedin.com/in/jlbrill/ 
 
 - name: Thaddeus Brown
   pic: thaddeus
@@ -125,7 +89,7 @@
 - name: Mingzhi Cai
   pic: mingzhic
   position: UM CS Alum
-  social:
+  social: 
     - title: linkedin
       url: https://www.linkedin.com/in/mingzhi-cai/
 
@@ -178,7 +142,7 @@
 - name: Anna Gilhool
   pic: annakgil
   position: UMSI MSI Student
-  social:
+  social: 
     - title: globe
       url: https://www.annagilhool.com/
     - title: linkedin
@@ -196,9 +160,9 @@
   position: UM MSI Alum
   social:
     - title: globe
-      url: http://www.marcyheld.com
+      url: http://www.marcyheld.com 
     - title: linkedin
-      url: https://www.linkedin.com/in/marcy-held-837917b0/
+      url: https://www.linkedin.com/in/marcy-held-837917b0/ 
 
 - name: Joey Chiao-Yin Hsiao
   pic: joey
@@ -237,13 +201,13 @@
 
 - name: Malavika Krishnamachari
   pic: malakchari
-  position: High School Student/Visiting Research Assistant
+  position: High School Student/Visiting Research Assistant 
 
 - name: Saebom April Kwon
   pic: april
   position: UM MSI Alum
   social:
-    - title: globe
+    - title: globe  
       url: http://saebomkwon.com
     - title: linkedin
       url: https://www.linkedin.com/in/saebomkwon/
@@ -253,7 +217,7 @@
   position: UM MSI Alum
   social:
     - title: globe
-      url: http://jasonclam.com
+      url: http://jasonclam.com 
     - title: linkedin
       url: https://www.linkedin.com/in/jasonclam/
 
@@ -265,7 +229,7 @@
 - name: Ruchita Lodha
   pic: ruchital
   position: UMSI Master Student
-  social:
+  social: 
     - title: globe
       url: http://www.ruchitalodha.com/
     - title: linkedin
@@ -300,19 +264,19 @@
 - name: Sadhana Ramaseshadri
   pic: sadhanar
   position: UMSI MSI Student
-  social:
+  social: 
     - title: linkedin
       url: https://www.linkedin.com/in/sadhana-ramaseshadri/
 
 - name: Jessica Salvador
   pic: je
-  position: UMSI REMS, University of Washington
+  position: UMSI REMS, University of Washington 
 
 
 - name: Kaushal Solanki
   pic: ksolanki
   position: UMSI Master Student
-  social:
+  social: 
     - title: globe
       url: https://kaushalpsolanki.com/
     - title: linkedin
@@ -323,16 +287,16 @@
 - name: Mingda Tang
   pic: mingda
   position: UM Alum
-  social:
+  social: 
     - title: linkedin
-      url: https://www.linkedin.com/in/mingda-tang-84546998
+      url: https://www.linkedin.com/in/mingda-tang-84546998 
 
 - name: Raden Tonev
   pic: raden
   position: UM MSI Alum
-  social:
+  social: 
     - title: globe
-      url: http://www.radentonev.com
+      url: http://www.radentonev.com 
     - title: linkedin
       url: https://www.linkedin.com/in/raden-tonev-3929b227/
 
@@ -355,7 +319,7 @@
 - name: Alice Wang
   pic: aliceinw
   position: UMSI MSI Student
-  social:
+  social: 
     - title: globe
       url: https:https://www.notion.so/Welcome-to-Alice-s-Wonderland-8f4356cb80b241cea166e21cb9f3701f
 
@@ -366,7 +330,7 @@
 - name: Xuecong (Esme) Xu
   pic: esme
   position: UM Alum
-  social:
+  social: 
     - title: linkedin
       url: https://www.linkedin.com/in/esme-xuecong-xu-59a08712b/
 
@@ -375,11 +339,16 @@
   position: UM CS Alum
   social:
     - title: linkedin
-      url: http://linkedin.com/in/yongweiyuan
+      url: http://linkedin.com/in/yongweiyuan 
 
 - name: Muhan Zhao
   pic: muhanz
   position: UM CS Alum
-  social:
+  social: 
     - title: linkedin
       url: https://www.linkedin.com/in/muhan-zhao-05b769196/
+
+
+
+
+ 
