@@ -1,0 +1,44 @@
+- name: Julie Hui
+  pic: julie
+  position: UMSI Assistant Professor
+  social:
+    - title: globe
+      url: http://www.juliehui.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/juliehui/
+
+- name: Mustafa Naseem
+  pic: mustafa
+  position: UMSI Clinical Assistant Professor
+  social:
+    - title: globe
+      url: https://mustafanaseem.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/mustafanaseem/
+
+- name: Kentaro Toyama
+  pic: kentaro
+  position: UMSI W K Kellogg Professor of Community Information
+  social:
+    - title: globe
+      url: http://www.kentarotoyama.org/profile/default.htm
+    - title: linkedin
+      url: https://www.linkedin.com/in/kentarotoyama/
+
+- name: Matthew Bui
+  pic: mattew
+  position: UMSI Assistant Professor
+  social:
+    - title: globe
+      url: http://matthewbui.com/about
+    - title: linkedin
+      url: https://www.linkedin.com/in/matthew-bui-phd-4aa62445/
+
+- name: Mark Ackerman
+  pic: mark
+  position: UMSI Professor
+  social:
+    - title: globe
+      url: https://www.socialworldsresearch.org/si/ackerm
+    - title: linkedin
+      url: https://www.linkedin.com/in/ackerm/
