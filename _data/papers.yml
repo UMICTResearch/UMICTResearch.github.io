@@ -1,8 +1,92 @@
 # Papers
 
-- name: "Implications for Supporting Marginalized Job Seekers: Lessons from Employment Centers" 
+- name: "How Recent Migrants Develop Trust Through Community Commerce: The Emergence of Sociotechnical Adaptation"
+  pic: Joey_ACM23_thumb
+  abstract: "in Proc. ACM Hum.-Comput. Interact. 7, CSCW 1"
+  authors: "Hsiao, J.C.Y., Darling, S., Dillahunt, T.R."
+  link: Joey_ACM23
+
+- name: "Shifting from Surveillance-as-Safety to Safety-through-Noticing: A Photovoice Study with Eastside Detroit Residents"
+  pic: Alex_CHI23_thumb
+  abstract: "in Proc. CHI'23. Hum. Factors. Computing. Systems."
+  authors: "Lu, A.J., Sannon, S., Moy, C., Brewer, S., Green, J., Jackson, K.N., Reeder, D., Wafer, C., Ackerman, M.S, Dillahunt, T.R."
+  link: Alex_CHI23
+
+- name: "Understanding Food Planning Strategies of Food Insecure Populations: Implications for Food-Agentic Technologies"
+  pic: dillahunt_CHI23_thumb
+  abstract: "in Proc. CHI'23. Hum. Factors. Computing. Systems."
+  authors: "Dillahunt, T.R., Sawwan, M., Wood, D., Wimer, B.L., Conrado, A.M., Miller, H.E., Gura, A.Z., Metoyer, R."
+  link: dillahunt_CHI23
+
+- name: "A Collective Approach to Providing Digital Skills Training Among US Public Housing Residents"
+  pic: Soyoung_CHI23_thumb
+  abstract: "in Proc. CHI'23. Hum. Factors. Computing. Systems."
+  authors: "Lee, S., Hui, J., Rowe, Z., Dillahunt, T.R."
+  link: Soyoung_CHI23
+
+- name: "Organizing Community-based Events in Participatory Action Research: Lessons Learned from a Photovoice Exhibition"
+  pic: Alex_participatory_CHI23_thumb
+  abstract: "in Proc. CHI'23. Hum. Factors. Computing. Systems."
+  authors: "Lu, A.J., Sannon, S., Brewer, S., Jackson, K.N., Green, J., Reeder, D., Wafer, C., Dillahunt, T.R."
+  link: Alex_participatory_CHI23
+
+- name: "Opportunities for Social Media to Support Aspiring Entrepreneurs with Financial Constraints"
+  pic: Aarti_ACM23_thumb
+  abstract: "in Proc. ACM Hum.-Comput. Interact. 7, CSCW 1"
+  authors: "Israni, A., Hui, J., Dillahunt, T.R."
+  link: Aarti_ACM23
+
+- name: "Targeting Patients’ Cognitive Load for Telehealth Video Visits Through Student-Delivered Helping Sessions at a United States Federally Qualified Health Center: Equity-Focused"
+  pic: Marcy_JMIR23_thumb
+  abstract: "in Journal. Medical. Internet. Reserach.Publication., 25"
+  authors: "Antonio M.G., Williamson, A., Kameswaran, V., Beals, A., Ankrah, E., Goulet, S., Wang, Y., Macias, G., Gist, J.J., Brown, L.K., Davis, S., Pillai, S., Buis, Dillahunt, T.R., Veinot, T.C."
+  link: Marcy_JMIR23
+
+- name: "Emotional Labor in Everyday Resilience: Class-based Experiences of Navigating Unemployment Amid the COVID-19 Pandemic in the US"
+  pic: Alex_ACM22_thumb
+  abstract: "in Proc. ACM Hum.-Comput. Interact. 6, CSCW 2"
+  authors: "Lu, A.J., Gilhool, A., Hsiao, J.C.Y., Dillahunt, T.R."
+  link: Alex_ACM22
+
+- name: "Equitable Research PRAXIS: A Framework for Health Informatics Methods"
+  pic: medical_info22_thumb
+  abstract: "in Yearbook. Medical. Informatics., Georg. Thieme. Verlag. KG., 31, 1"
+  authors: "Veinot, T.C., Clarke, P.J., Romero, D.M., Buis, L.R., Dillahunt, T.R., Vydiswaran, V.V., Beals, A., Brown, L., Richards, O., Williamson, A., Antonio, M.G."
+  link: medical_info22
+
+- name: "Citational Justice and the Politics of Knowledge Production"
+  pic: Citational_ACM21_thumb
+  abstract: "in Proc. ACM'22. Intercation."
+  authors: "Citational Justice Collective, Ahmed,S., Amrute, S., Bardzell, J., Bardzell, S., Bidwell, N., Dillahunt, T.R., Karusala, N., Kumar, N., Mustafa, M., Nardi, B., Nathan, L., Parvin, N., Patin, B., Cuellar, P.R., Rouse, R., Spiel, K., Prietch, S., Wang, D."
+  link: Citational_ACM21
+
+- name: "The Village: Infrastructuring Community-based Mentoring to Support Adults Experiencing Poverty"
+  pic: dillahunt_CHI22_thumb
+  abstract: "in Proc. CHI'22. Hum. Factors. Computing. Systems."
+  authors: "Dillahunt, T.R., Lu, J.A., Israni, A., Lodha, R. Brewer, S., Robinson, T.S., Wilson A.B., Wheeler, E."
+  link: dillahunt_CHI22
+
+- name: "Trust, reciprocity, and the role of timebanks as intermediaries: Design implications for addressing healthcare transportation barriers"
+  pic: dillahunt_trust_CHI22_thumb
+  abstract: "in Proc. CHI'22. Hum. Factors. Computing. Systems."
+  authors: "Dillahunt, T.R., Maestre, J.F., Kameswaran, V., Poon, E., Torres, J.O., Gallardo, M., Rasmussen, S.E., Shih, P.C., Bagle, A., Young, S.L.A., Veinot, T.C."
+  link: dillahunt_trust_CHI22
+
+- name: "Data work in education: Enacting and negotiating care and control in teachers' use of data-driven classroom surveillance technology"
+  pic: Alex_ACM21_thumb
+  abstract: "in Proc. ACM Hum.-Comput. Interact. 5, CSCW 2"
+  authors: "Lu, A.J., Dillahunt, T.R.,  Marcu, G., Ackerman, M.S."
+  link: Alex_ACM21
+
+- name: "The Promises and Perils of Technology for Marginalized Job Seekers"
+  pic: dillahunt_umich_pov21_thumb
+  abstract: "__________________"
+  authors: "Dillahunt, T.R., Lu, J.A., Wilson, B.A."
+  link: dillahunt_umich_pov21
+
+- name: "Implications for Supporting Marginalized Job Seekers: Lessons from Employment Centers"
   pic: Dillahunt_PACMHCI21_thumb
-  abstract: "To appear in Proc. ACM Hum.-Comput. Interact. 5, CSCW 2"
+  abstract: "in Proc. ACM Hum.-Comput. Interact. 5, CSCW 2"
   authors: "Dillahunt, T. R., Garvin, M., Held, M., and Hui, J."
   link: Dillahunt_PACMHCI21
 
@@ -112,49 +196,49 @@
   pic: Li_PACMHCI19_thumb
   abstract: "In Proc. ACM Hum.-Comput. Interact. 3, CSCW"
   authors: "Li, L., Dillahunt, T. R., and Rosenblat, T."
-  link: Li_PACMHCI19 
+  link: Li_PACMHCI19
 
 - name: "Life Transitions and Social Technologies: Research and Design for Times of Life Change"
   pic: Haimson_CSCWws19_thumb
   abstract: "Workshop Proposal | In ACM CSCW'19 Companion"
   authors: "Haimson, O. L., Semaan, B., Dym, B., Hsiao, J. C.-Y., Herron, D., and Moncur, W."
-  link: Haimson_CSCWws19 
+  link: Haimson_CSCWws19
 
 - name: "The Future of Work(places): Creating a Sense of Place for On-demand Work"
   pic: Hui_CSCWws19_thumb
   abstract: "Workshop Proposal | In ACM CSCW'19 Companion"
   authors: "Hui, J., Cranshaw, J., Kotturi, Y., and Kulkarni, C."
-  link: Hui_CSCWws19 
+  link: Hui_CSCWws19
 
 - name: "Fostering Immigrants' Trust in Online Local Social Exchange"
   pic: Hsiao_CSCWdc19_thumb
   abstract: "Doctoral Consortium | In ACM CSCW'19 Companion"
   authors: "Hsiao, J. C.-Y."
-  link: Hsiao_CSCWdc19 
+  link: Hsiao_CSCWdc19
 
 - name: "Reaching Hard-To-Reach Populations: An Analysis of Survey Recruitment Methods"
   pic: Xu_CSCWposter19_thumb
   abstract: "Poster Abstract | In ACM CSCW'19 Companion"
   authors: "Xu, X., Yan, X., and Dillahunt., T. R. "
-  link: Xu_CSCWposter19 
+  link: Xu_CSCWposter19
 
 - name: "An alternative to slow transit, drunk driving, and walking in bad weather: An exploratory study of resourcing mode choice and demand"
   pic: Goodspeed_JTG19_thumb
   abstract: "Journal of Transport Geography, Vol. 79, July 2019"
   authors: "Goodspeed, R., Xie, T., Dillahunt, T.R., Lustig, J."
-  link: Goodspeed_JTG19 
+  link: Goodspeed_JTG19
 
 - name: "Online Grocery Delivery Services: An Opportunity to Address Food Disparities in Transportation-scarce Areas"
   pic: Dillahunt_CHI19a_thumb
   abstract: "*Best Paper* | In Proc. of CHI 2019"
   authors: "Dillahunt, T. R., Simioni, S., and Xu, X."
-  link: Dillahunt_CHI19a 
+  link: Dillahunt_CHI19a
 
 - name: "DreamGigs: Designing a Tool to Empower Low-resource Job Seekers"
   pic: Dillahunt_CHI19b_thumb
   abstract: "In Proc. of CHI 2019"
   authors: "Dillahunt, T. R. and Lu, A."
-  link: Dillahunt_CHI19b 
+  link: Dillahunt_CHI19b
 
 - name: "Towards an Effective Digital Literacy Intervention to Assist Returning Citizens with Job Search"
   pic: OgbonnayaOgburu_CHI19_thumb
@@ -219,7 +303,7 @@
 - name: "Entrepreneurship and the Socio-Technical Chasm in a Lean Economy"
   pic: Dillahunt_CHI18_thumb
   abstract: "*Honorable Mention* | In Proc. of CHI 2018"
-  authors: "Dillahunt, T. R., Kameswaran, V., McLain, D., Lester, M., Orr, D., and Toyama, K." 
+  authors: "Dillahunt, T. R., Kameswaran, V., McLain, D., Lester, M., Orr, D., and Toyama, K."
   link: Dillahunt_CHI18
 
 - name: "Support for Social and Cultural Capital Development in Real-time Ridesharing Services"
@@ -240,7 +324,7 @@
   authors: "Dillahunt, T. R., Wang, X., Wheeler, E., Cheng, H. F., Hecht, B., and Zhu, H."
   link: Dillahunt_CSCW18
 
-- name: "Everyday Resilience: Supporting Resilient Strategies among Low-socioeconomic-status Communities" 
+- name: "Everyday Resilience: Supporting Resilient Strategies among Low-socioeconomic-status Communities"
   pic: Vyas_CSCW18_thumb
   abstract: "Proc. ACM Hum.-Comput. Interact. 1, CSCW, Article 105 (December 2017)"
   authors: "Vyas, D. and Dillahunt, T."
@@ -258,14 +342,14 @@
   authors: "Dillahunt, T."
   link: Dillahunt_RFP17
 
-- name: "Uncovering the Values and Constraints of Real-time Ridesharing for Low-resource Populations" 
-  pic: Dillahunt_CHI17_thumb 
+- name: "Uncovering the Values and Constraints of Real-time Ridesharing for Low-resource Populations"
+  pic: Dillahunt_CHI17_thumb
   abstract: "In Proc. of CHI 2017."
-  authors: "Dillahunt, T.R., Kameswaran, V., Li, L., and Rosenblat, T." 
+  authors: "Dillahunt, T.R., Kameswaran, V., Li, L., and Rosenblat, T."
   link: Dillahunt_CHI17
 
-- name: "Detecting Life Changes: Increasing Opportunities to Benefit from People-Nearby Applications" 
-  pic: Hsiao_CHIEA17_thumb 
+- name: "Detecting Life Changes: Increasing Opportunities to Benefit from People-Nearby Applications"
+  pic: Hsiao_CHIEA17_thumb
   abstract: "In CHI Extended Abstract 2017."
   authors: "Hsiao, J. C.-Y. and Dillahunt, T.R."
   link: Hsiao_CHIEA17
@@ -277,15 +361,15 @@
   link: Wheeler_CHIEA17
 
 - name: "Reflections on Design Methods for Underserved Communities"
-  pic: Dillahunt_CSCW17WS_thumb 
+  pic: Dillahunt_CSCW17WS_thumb
   abstract: "CSCW 2017 Workshop"
   authors: "Dillahunt, T.R., Erete, S., Galusca, R., Israni, A., Nacu, D., and Sengers, P."
   link: Dillahunt_CSCW17WS
 
 - name: "People-Nearby Applications: How Newcomers Move Their Relationships Offline and Develop Social and Cultural Capital."
-  pic: Hsiao_CSCW17_thumb 
+  pic: Hsiao_CSCW17_thumb
   abstract: "In Proc. of CSCW 2017."
-  authors: "Hsiao, J. C.-Y. and Dillahunt, T.R." 
+  authors: "Hsiao, J. C.-Y. and Dillahunt, T.R."
   link: Hsiao_CSCW17
 
 - name: "Designing for Disadvantaged Job Seekers: Insights from Early Investigations"
@@ -413,4 +497,3 @@
   abstract: "In Proc. of CHI 2009"
   authors: Froehlich, J., Dillahunt, T., Klansja, P., Mankoff, J., Consolvo, S., Harrison, B., Landay, J.
   link: UbiGreen
-
