@@ -20,6 +20,14 @@ guidelines to help researchers facilitate community-based events when conducting
       - type: pdf
         link: Alex_participatory_CHI23
 
+- name: "Toward Everyday Negotiation and Resistance Under Data-Driven Surveillance"
+  pic: lu_ACM22_thumb
+  authors: "in Proc. ACM'22"
+  mainlink: lu_ACM22
+  resources:
+      - type: pdf
+        link: lu_ACM22
+
 - name: Opportunities to Address Information Poverty with Social Search
   pic: Wheeler_CHIEA17_thumb
   abstract: "Information seeking is a central part of human life, and search engines are the dominant method of information seeking on the Internet. Although recent years have seen the rise of social search systems as a promising alternative, their application for populations across the digital divide that are starved for information has been overlooked. Drawing on research on social search, information search, and information poverty, we identify three dimensions of information poverty in web search, and hypothesize affordances of social search platforms that could address the details of each issue. Finally, we propose research questions and two as- sociated studies to investigate these hypotheses."
