@@ -1,8 +1,14 @@
 # Papers
 
+- name: "Eliciting Alternative Economic Futures with Working-Class Detroiters: Centering Afrofuturism in Speculative Design"
+  pic: dilhaunt_ACMDIS23_thumb
+  abstract: "To appear in Proc. ACM DIS'23"
+  authors: "Dillahunt, T.R., Lu, A.J., Velazquez, V."
+  link: dilhaunt_ACMDIS23
+
 - name: "How Recent Migrants Develop Trust Through Community Commerce: The Emergence of Sociotechnical Adaptation"
   pic: Joey_ACM23_thumb
-  abstract: "in Proc. ACM Hum.-Comput. Interact. 7, CSCW 1"
+  abstract: "in Proc. ACM'23 Hum.-Comput. Interact. 7, CSCW 1"
   authors: "Hsiao, J.C.Y., Darling, S., and Dillahunt, T.R."
   link: Joey_ACM23
 
@@ -32,7 +38,7 @@
 
 - name: "Opportunities for Social Media to Support Aspiring Entrepreneurs with Financial Constraints"
   pic: Aarti_ACM23_thumb
-  abstract: "in Proc. ACM Hum.-Comput. Interact. 7, CSCW 1"
+  abstract: "in Proc. ACM'23 Hum.-Comput. Interact. 7, CSCW 1"
   authors: "Israni, A., Hui, J., and Dillahunt, T.R."
   link: Aarti_ACM23
 
@@ -44,13 +50,13 @@
 
 - name: "Emotional Labor in Everyday Resilience: Class-based Experiences of Navigating Unemployment Amid the COVID-19 Pandemic in the US"
   pic: Alex_ACM22_thumb
-  abstract: "in Proc. ACM Hum.-Comput. Interact. 6, CSCW 2"
+  abstract: "in Proc. ACM'23 Hum.-Comput. Interact. 6, CSCW 2"
   authors: "Lu, A.J., Gilhool, A., Hsiao, J.C.Y., and Dillahunt, T.R."
   link: Alex_ACM22
 
 - name: "Equitable Research PRAXIS: A Framework for Health Informatics Methods"
   pic: medical_info22_thumb
-  abstract: "in Yearbook. Medical. Informatics., Georg. Thieme. Verlag. KG., 31, 1"
+  abstract: "in Yearbook. Medical. Informatics., Georg. Thieme. Verlag. KG.'22', 31, 1"
   authors: "Veinot, T.C., Clarke, P.J., Romero, D.M., Buis, L.R., Dillahunt, T.R., Vydiswaran, V.V., Beals, A., Brown, L., Richards, O., Williamson, A., and Antonio, M.G."
   link: medical_info22
 
@@ -74,7 +80,7 @@
 
 - name: "Data work in education: Enacting and negotiating care and control in teachers' use of data-driven classroom surveillance technology"
   pic: Alex_ACM21_thumb
-  abstract: "in Proc. ACM Hum.-Comput. Interact. 5, CSCW 2"
+  abstract: "in Proc. ACM'21 Hum.-Comput. Interact. 5, CSCW 2"
   authors: "Lu, A.J., Dillahunt, T.R.,  Marcu, G., and Ackerman, M.S."
   link: Alex_ACM21
 
@@ -86,7 +92,7 @@
 
 - name: "Implications for Supporting Marginalized Job Seekers: Lessons from Employment Centers"
   pic: Dillahunt_PACMHCI21_thumb
-  abstract: "in Proc. ACM Hum.-Comput. Interact. 5, CSCW 2"
+  abstract: "in Proc. ACM'21 Hum.-Comput. Interact. 5, CSCW 2"
   authors: "Dillahunt, T. R., Garvin, M., Held, M., and Hui, J."
   link: Dillahunt_PACMHCI21
 
@@ -128,25 +134,25 @@
 
 - name: "More than Shared Ethnicity: Shared Identity’s Role in Transnational Newcomers’ Trust in Local Consumer-to-Consumer E-commerce"
   pic: Hsiao_CHIEA21_thumb
-  abstract: "In ACM CHI Extended Abstract 2021"
+  abstract: "In ACM CHI'21 Extended Abstract 2021"
   authors: "Hsiao, J. C.-Y. and Dillahunt, T."
   link: Hsiao_CHIEA21
 
 - name: "`A Library of People’: Online Resource-Seeking in Low-Income Communities"
   pic: Israni_PACMHCI21_thumb
-  abstract: "In Proc. ACM Hum.-Comput. Interact. 5, CSCW 1"
+  abstract: "In Proc. ACM'21 Hum.-Comput. Interact. 5, CSCW 1"
   authors: "Israni, A., Ellison, N. B., Dillahunt, T. R."
   link: Israni_PACMHCI21
 
 - name: "Delivery Work and the Experience of Social Isolation"
   pic: Seetharaman_PACMHCI21_thumb
-  abstract: "In Proc. ACM Hum.-Comput. Interact. 5, CSCW 1"
+  abstract: "In Proc. ACM'21 Hum.-Comput. Interact. 5, CSCW 1"
   authors: "Seetharaman, B., Pal, J., and Hui., J."
   link: Seetharaman_PACMHCI21
 
 - name: "Mobility-on-demand versus fixed-route transit systems: an evaluation of traveler preferences in low-income communities"
   pic: Yan_TRPA21_thumb
-  abstract: "In Transportation Research Part A, Vol 148"
+  abstract: "In Transportation Research Part A'21, Vol 148"
   authors: "Yan, X., Zhao, X., Han, Y., Van Hentenryck, P., and Dillahunt, T. R."
   link: Yan_TRPA21
 
@@ -158,13 +164,13 @@
 
 - name: "Watched, but Moving: Platformization of Beauty Work and Its Gendered Mechanisms of Control"
   pic: Anwar_PACMHCI20_thumb
-  abstract: "In Proc. ACM Hum.-Comput. Interact. 4, CSCW 3"
+  abstract: "In Proc. ACM'20 Hum.-Comput. Interact. 4, CSCW 3"
   authors: "Anwar, I. A., Pal, J., and Hui, J."
   link: Anwar_PACMHCI20
 
 - name: "'Learning for the Rise of China': Exploring Uses and Gratifications of State-Owned Online Platform"
   pic: Lu_PACMHCI20_thumb
-  abstract: "In Proc. ACM Hum.-Comput. Interact. 4, CSCW 1"
+  abstract: "In Proc. ACM'20 Hum.-Comput. Interact. 4, CSCW 1"
   authors: "Lu, A. and Xu, X."
   link: Lu_PACMHCI20
 
@@ -188,13 +194,13 @@
 
 - name: "Additional Labors of the Entrepreneurial Self"
   pic: Avle_PACMHCI19_thumb
-  abstract: "In Proc. ACM Hum.-Comput. Interact. 3, CSCW"
+  abstract: "In Proc. ACM'19 Hum.-Comput. Interact. 3, CSCW"
   authors: "Avle, S., Hui, J., Lindtner, S., and Dillahunt, T. R."
   link: Avle_PACMHCI19
 
 - name: "Does Driving as a Form of “Gig Work” Mitigate Low-Skilled Job Seekers’ Negative Long-Term Unemployment Effects?"
   pic: Li_PACMHCI19_thumb
-  abstract: "In Proc. ACM Hum.-Comput. Interact. 3, CSCW"
+  abstract: "In Proc. ACM'19 Hum.-Comput. Interact. 3, CSCW"
   authors: "Li, L., Dillahunt, T. R., and Rosenblat, T."
   link: Li_PACMHCI19
 
@@ -254,25 +260,25 @@
 
 - name: "Getting There: Barriers and Facilitators to Transportation Access in Underserved Communities"
   pic: Dillahunt_TOCHI18_thumb
-  abstract: "ACM Transactions on Comput.-Hum Interact., Vol. 25, No. 5, Article 29"
+  abstract: "ACM'18 Transactions on Comput.-Hum Interact., Vol. 25, No. 5, Article 29"
   authors: "Dillahunt, T.R. and Veinot, T.C."
   link: Dillahunt_TOCHI18
 
 - name: "Mobility-on-Demand Versus Fixed-Route Transit Systems: An Evaluation of Traveler Preferences in Low-income Communities"
   pic: Dillahunt_PovSol19_thumb
-  abstract: "Poverty Solutions, University of Michigan"
+  abstract: "Poverty Solutions, University of Michigan | 2019"
   authors: "Dillahunt, T. R. and Yan, X."
   link: Dillahunt_PovSol19
 
 - name: "Technology to Support Immigrant Access to Social Capital and Adaptation to a New Country"
   pic: Hsiao_PACMHCI18_thumb
-  abstract: "Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 70"
+  abstract: "Proc. ACM'18 Hum.-Comput. Interact. 2, CSCW, Article 70"
   authors: "Hsiao, J. C.-Y. and Dillahunt, T. R."
   link: Hsiao_PACMHCI18
 
 - name: "Making a Living My Way: Necessity-driven Entrepreneurship in Resource-Constrained Communities"
   pic: Hui_PACMHCI18_thumb
-  abstract: "Proc. ACM Hum.-Comput. Interact. 2, CSCW, Article 71"
+  abstract: "Proc. ACM'18 Hum.-Comput. Interact. 2, CSCW, Article 71"
   authors: "Hui, J., Toyama, K., Pal, J., and Dillahunt, T. R."
   link: Hui_PACMHCI18
 
@@ -320,13 +326,13 @@
 
 - name: "The Sharing Economy in Computing: A Systematic Literature Review"
   pic: Dillahunt_CSCW18_thumb
-  abstract: "Proc. ACM Hum.-Comput. Interact. 1, CSCW, Article 38 (December 2017)"
+  abstract: "Proc. ACM'18 Hum.-Comput. Interact. 1, CSCW, Article 38 (December 2017)"
   authors: "Dillahunt, T. R., Wang, X., Wheeler, E., Cheng, H. F., Hecht, B., and Zhu, H."
   link: Dillahunt_CSCW18
 
 - name: "Everyday Resilience: Supporting Resilient Strategies among Low-socioeconomic-status Communities"
   pic: Vyas_CSCW18_thumb
-  abstract: "Proc. ACM Hum.-Comput. Interact. 1, CSCW, Article 105 (December 2017)"
+  abstract: "Proc. ACM'18 Hum.-Comput. Interact. 1, CSCW, Article 105 (December 2017)"
   authors: "Vyas, D. and Dillahunt, T."
   link: Vyas_CSCW18
 
@@ -338,7 +344,7 @@
 
 - name: "Technology for Underserved Communities"
   pic: Dillahunt_RFP17_thumb
-  abstract: "acmqueue Research for Practice: Expert-curated guides to the best of CS research."
+  abstract: "acmqueue Research for Practice: Expert-curated guides to the best of CS research. | 2017"
   authors: "Dillahunt, T."
   link: Dillahunt_RFP17
 

@@ -1,3 +1,14 @@
+- name: "Organizing Community-based Events in Participatory Action Research: Lessons Learned from a Photovoice Exhibition"
+  pic: Alex_participatory_CHI23_thumb
+  abstract: "Participatory action research (PAR) approaches center community members’ lived experiences and can spur positive change around pressing challenges faced by communities. Even though PAR and similar approaches have been increasingly adopted in HCI research
+that focuses on social justice and community empowerment, publicfacing events that are based on this research and center community members’ voices are less common. This case study sheds light on how to initiate and organize events that build on existing PAR efforts, and what practical challenges might exist in this process. Building on a photovoice research project, we—a collaborative team of university researchers and staff members of a community organization in Eastside Detroit—co-organized community-based publicfacing exhibition that featured community members’ photographic narratives of personal and communal safety and surveillance. In
+this case study, we reflect on the challenges we experienced in planning and holding the exhibition. We contribute a set of practical
+guidelines to help researchers facilitate community-based events when conducting participatory action research in HCI."
+  authors: "Lu, A.J., Sannon, S., Brewer, S., Jackson, K.N., Green, J., Reeder, D., Wafer, C., and Dillahunt, T.R."
+  mainlink: Alex_participatory_CHI23
+  resources:
+      - type: pdf
+        link: Alex_participatory_CHI23
 
 - name: Opportunities to Address Information Poverty with Social Search
   pic: Wheeler_CHIEA17_thumb
