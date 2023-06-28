@@ -1,4 +1,13 @@
 # Project Details for Education
+
+
+
+- name: "A Collective Approach to Providing Digital Skills Training Among US Public Housing Residents"
+  pic: Soyoung_CHI23_thumb
+  abstract: "Addressing the digital divide would support access to essential activities such as healthcare, employment, and education among under-resourced communities in the United States (U.S.). However, half of the adults in the U.S. lack confidence and preparedness to use digital tools for learning. We developed and piloted an intervention to train public housing residents as intermediaries to provide digital support to their community members to address this gap. Collaborating with community partners, we developed a cohort-based basic digital skills training program consisting of online courses and offline social learning support. We trained nine public housing residents and present best practices of collective training and the challenges the trainees faced. Preliminary results suggest an increase in trainees’ self-efficacy in basic digital skills. Our approach aims to increase digital literacy and minimize barriers to online learning among traditionally-excluded populations. Our work extends prior interventions that only provide device and Internet access."
+  authors: "Lee, S., Hui, J.,Rowe, Z.,Dillahunt, T.R."
+  mainlink: Soyoung_CHI23
+
 - name: "Data work in education: Enacting and negotiating care and control in teachers' use of data-driven classroom surveillance technology"
   pic: Alex_ACM21_thumb
   abstract: "Today, teachers have been increasingly relying on data-driven technologies to track and monitor student behavior data for classroom management. Drawing insights from interviews with 20 K–8 teachers, in this paper we unpack how teachers enacted both care and control through their data work in collecting, interpreting, and using student behavior data. In this process, teachers found themselves subject to surveilling gazes from parents, school administrators, and students. As a result, teachers had to manipulate the student behavior data to navigate the balance between presenting a professional image to surveillants and enacting care/control that they deemed appropriate. In this paper we locate two nuanced forms of teachers’ data work that have been under-studied in CSCW: (1) data work as recontextualizing meanings and (2) data work as resisting surveillance. We discuss teachers’ struggle over (in)visibility and their negotiation of autonomy and subjectivity in these two forms of data work. We highlight the importance of foregrounding and making space for informal data workers’ (in our case, teachers’) resistance and negotiation of autonomy in light of datafication."
