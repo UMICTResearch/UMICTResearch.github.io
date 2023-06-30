@@ -1,12 +1,12 @@
 ---
 layout: project
 title: Good Health and Well-being
-subtitle: "The Affordable Care Act (ACA) provides comprehensive and affordable health insurance for many uninsured individuals and families in the United States. To take advantage of the new law, individuals will need to investigate and select insurance plans and enroll into the online Federal Health Insurance Exchange. For many vulnerable populations, this will be challenging as they may have never had insurance before, and may lack expertise in selecting the appropriate insurance provider."
+subtitle: "The project goal is to promote safety, health and well-being among individuals and local communities."
 date: 2015-04-14
 thumbnail: health.jpg
 alt: image-alt
 categories: present
 weight: 3
-description: "The Affordable Care Act (ACA) provides comprehensive and affordable health insurance for many uninsured individuals and families in the United States. To take advantage of the new law, individuals will need to investigate and select insurance plans and enroll into the online Federal Health Insurance Exchange. For many vulnerable populations, this will be challenging as they may have never had insurance before, and may lack expertise in selecting the appropriate insurance provider."
+description: "The project goal is to promote safety, health and well-being among individuals and local communities"
 datafile: project-health
 ---

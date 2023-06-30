@@ -63,6 +63,7 @@ collection; and data analysis. We encourage others to use these insights from mu
 
 - name: "Toward Everyday Negotiation and Resistance Under Data-Driven Surveillance"
   pic: lu_ACM22_thumb
+  abstract: "This work asks, How do individuals organize and navigate everyday encounters with data-driven surveillance? Where do the possibilities for negotiation and resistance lie? This article is a call to action for us to denaturalize the tendency to see data-driven surveillance technologies as omnipotent and totalitarian with little to no opportunity for the surveilled to fight for control (or where the surveilled remain docile and disciplined)."
   authors: "in Proc. ACM'22"
   mainlink: lu_ACM22
   resources:
