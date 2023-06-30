@@ -1,12 +1,12 @@
 
 - name: "Participatory Noticing through Photovoice: Engaging Arts- and Community-Based Approaches in Design Research"
-  pic: dilhaunt_ACMDIS23_thumb
+  pic: lu_ACMDIS23_thumb
   abstract: "Noticing differently commits to stepping out of familiar reference frameworks while attending to oft-neglected actors, relations, and ways of knowing for design. Photovoice is an arts- and communitybased participatory approach allowing individuals to communicate their lives and stories about pressing community concerns through photography. This paper bridges photovoice and the commitment to noticing in HCI and design through a photovoice project with Detroit residents on safety and surveillance. The photovoice process—alongside the production, reflection, and dissemination of photographs—makes residents’ everyday situations legible and sensible, allowing both community members and researchers to orient to and engage with multiple viewpoints, sensibilities, and temporal trajectories. This process confronts the invisibility of both the sociotechnical infrastructures (in our case, surveillance infrastructures) and minoritized communities’ relational ontologies. By advocating participatory noticing in design research, we show the opportunities for adopting arts- and community-based participatory approaches in decentering dominant ways of knowing and seeing, while at the same time fostering community capacity and relations for future potentialities."
   authors: "Lu, A.J., Sannon, S., Moy, C., Brewer, S., Green, J., Jackson, K.N., Reeder, D., Wafer,C., Ackerman,M.S., Dillahunt, T.R."
-  mainlink: dilhaunt_ACMDIS23
+  mainlink: lu_ACMDIS23
   resources:
       - type: pdf
-        link: dilhaunt_ACMDIS23
+        link: lu_ACMDIS23
 
 - name: "Organizing Community-based Events in Participatory Action Research: Lessons Learned from a Photovoice Exhibition"
   pic: Alex_participatory_CHI23_thumb
@@ -19,14 +19,6 @@ guidelines to help researchers facilitate community-based events when conducting
   resources:
       - type: pdf
         link: Alex_participatory_CHI23
-
-- name: "Toward Everyday Negotiation and Resistance Under Data-Driven Surveillance"
-  pic: lu_ACM22_thumb
-  authors: "in Proc. ACM'22"
-  mainlink: lu_ACM22
-  resources:
-      - type: pdf
-        link: lu_ACM22
 
 - name: Opportunities to Address Information Poverty with Social Search
   pic: Wheeler_CHIEA17_thumb

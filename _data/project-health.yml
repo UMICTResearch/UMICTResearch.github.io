@@ -61,6 +61,14 @@ collection; and data analysis. We encourage others to use these insights from mu
       - type: pdf
         link: medical_info22
 
+- name: "Toward Everyday Negotiation and Resistance Under Data-Driven Surveillance"
+  pic: lu_ACM22_thumb
+  authors: "in Proc. ACM'22"
+  mainlink: lu_ACM22
+  resources:
+      - type: pdf
+        link: lu_ACM22
+
 - name: "The Village: Infrastructuring Community-based Mentoring to Support Adults Experiencing Poverty"
   pic: dillahunt_CHI22_thumb
   abstract: "Mentorship and other social and relational support have been vital to poverty alleviation and transformative change. It is crucial to understand the underlying factors in the success of mentoring models and subsequent programs to support them. Thus, we conducted a mixed-methods study consisting of longitudinal surveys of community participants followed by semi-structured interviews with 28 community members, eight mentors, and two coaches participating in a community-based mentorship program. Drawing from community-based participatory research in partnership with a nonproft located in a Midwestern United States (U.S.) city, we unpack how the program supported self-sufciency and economic mobility among adults experiencing fnancial hardships. Through an infrastructural lens, we attend to individuals’ infrastructuring work in social support, fexibility, and trust to support a “village” model of community-based mentorship. Our results show how the village model difers from traditional mentorship models that assume dyadic, one-to-one, often didactic, and hierarchical relationships (e.g., expert and protégé, adult and child) and are used primarily in the workplace and educational settings. The village mentorship model advocates for less hierarchical and more balanced relationships in non-institutional settings and fexible communication and technological needs. We discuss new research opportunities and design strategies for rethinking technology-mediated mentorship to support poverty-stricken adults in the U.S."

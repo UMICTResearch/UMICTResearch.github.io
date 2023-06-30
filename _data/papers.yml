@@ -1,10 +1,16 @@
 # Papers
 
-- name: "Participatory Noticing through Photovoice: Engaging Arts- and Community-Based Approaches in Design Research"
+- name: "Eliciting Alternative Economic Futures with Working-Class Detroiters: Centering Afrofuturism in Speculative Design"
   pic: dilhaunt_ACMDIS23_thumb
   abstract: "To appear in Proc. ACM DIS'23"
-  authors: "Lu, A.J., Sannon, S., Moy, C., Brewer, S., Green, J., Jackson, K.N., Reeder, D., Wafer,C., Ackerman,M.S., Dillahunt, T.R."
+  authors: "Dillahunt, T.R., Lu, A.J.,Velazquez, J."
   link: dilhaunt_ACMDIS23
+
+- name: "Participatory Noticing through Photovoice: Engaging Arts- and Community-Based Approaches in Design Research"
+  pic: lu_ACMDIS23_thumb
+  abstract: "To appear in Proc. ACM DIS'23"
+  authors: "Lu, A.J., Sannon, S., Moy, C., Brewer, S., Green, J., Jackson, K.N., Reeder, D., Wafer,C., Ackerman,M.S., Dillahunt, T.R."
+  link: lu_ACMDIS23
 
 - name: "How Recent Migrants Develop Trust Through Community Commerce: The Emergence of Sociotechnical Adaptation"
   pic: Joey_ACM23_thumb
