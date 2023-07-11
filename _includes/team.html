@@ -13,7 +13,7 @@
             {% for member in site.data.members_current %}
             <div class="col-sm-4">
                 <div class="team-member">
-                    <div class="img-circle img-team" style="background-image: url('img/team/{{ member.pic }}.jpg')"></div>
+                    <div class="img-circle img-team" style="background-image: url('img/team/{{ member.pic }}.jpg');background-size:cover; background-repeat:no-repeat;"></div>
                     <h4>{{ member.name }}</h4>
                     <p>{{ member.position }}</p>
                     {% if member.social %}

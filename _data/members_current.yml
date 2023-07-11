@@ -45,18 +45,18 @@
     - title: global
       url: http://www.aartiisrani.com/
 
-- name: Sylvia Darling (MSI Alum)
+- name: Sylvia Darling 
   pic: sylvia
-  position: UMSI Ph.D. Student
+  position: UMSI Ph.D. Student (MSI Alum)
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/sylvia-simioni/
-    - title: global
+    - title: globe
       url: https://sylviadarli.ng/
 
 - name: Alex Lu (MSI Alum)
   pic: alexlu
-  position: UMSI Ph.D. Student
+  position: UMSI Ph.D. Student (MSI Alum)
   social:
     - title: globe
       url: https://www.alexlu.me/
@@ -69,3 +69,35 @@
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/soyoung-lee-64434710a/
+
+- name: Denny L. Starks
+  pic: denny
+  position: UMSI undergrad,  Minor in Art & Design
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/dennylstarks/
+    - title: globe
+      url: https://www.dennystarks.com/
+
+- name: Cameron Moy
+  pic: moy
+  position: UMSI undergrad,Minor in Social Class and Inequality and Music
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/cameronmoy/
+
+- name: Bridgit Jung
+  pic: bridgit
+  position: UMSI undergrad,  Minor in Art & Design
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/bridgit-jung/
+    - title: globe
+      url: https://www.bridgitjung.com/
+
+- name: Mila Filipof
+  pic: mila
+  position: MSI
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/milafilipof591/
