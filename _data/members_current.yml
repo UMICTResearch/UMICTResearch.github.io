@@ -22,7 +22,7 @@
 
 - name: Vaishnav Kameswaran
   pic: vaishnav
-  position: UMSI Ph.D. Student
+  position: UMSI Ph.D. Student (MSI Alum)
   social:
     - title: globe
       url: http://www.vaishnavk.com
@@ -42,27 +42,19 @@
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/aartiisrani
-<<<<<<< Updated upstream
-
-- name: Sylvia Simioni
-=======
-    - title: globe
+    - title: global
       url: http://www.aartiisrani.com/
 
-- name: Sylvia Darling
->>>>>>> Stashed changes
+- name: Sylvia Darling 
   pic: sylvia
   position: UMSI Ph.D. Student (MSI Alum)
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/sylvia-simioni/
-<<<<<<< Updated upstream
-=======
     - title: globe
       url: https://sylviadarli.ng/
->>>>>>> Stashed changes
 
-- name: Alex Lu
+- name: Alex Lu (MSI Alum)
   pic: alexlu
   position: UMSI Ph.D. Student (MSI Alum)
   social:
@@ -73,7 +65,7 @@
 
 - name: Soyoung Lee
   pic: soyolee
-  position: UMSI MSI Student
+  position: UMSI Ph.D. Student (MSI Alum)
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/soyoung-lee-64434710a/
