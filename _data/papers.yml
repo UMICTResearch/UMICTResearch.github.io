@@ -216,6 +216,12 @@
   authors: "Li, L., Dillahunt, T. R., and Rosenblat, T."
   link: Li_PACMHCI19
 
+- name: "Designing Technology to Support Safety for Transgender Women & NonBinary People of Color"
+  pic: dennyDIS19_thumb
+  abstract: "In Proc. (DIS) ’19 Companion, 2019, pp. 289-294"
+  authors: "Starks, D.L.,Dillahunt, T. R., Haimson, O.L."
+  link: dennyDIS19
+
 - name: "Life Transitions and Social Technologies: Research and Design for Times of Life Change"
   pic: Haimson_CSCWws19_thumb
   abstract: "Workshop Proposal | In ACM CSCW'19 Companion"
