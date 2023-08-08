@@ -411,13 +411,14 @@ section h3.section-subheading {
     margin:40px 0;
     padding: 30px;
     right: 0;
+    height: 450px;
 }
 
 .projects .portfolio-item .portfolio-link {
     display: inline-block;
     position: relative;
     margin: 0;
-    max-width: 400px;
+    max-width: 200px;
     vertical-align: top;
 }
 
@@ -459,8 +460,8 @@ section h3.section-subheading {
 .projects .portfolio-item .portfolio-caption {
     display: inline-block;
     margin: 0;
+    padding-top: 25px;
     max-width: 500px;
-    padding: 0 0 0 25px;
     vertical-align: top;
 }
 

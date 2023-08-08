@@ -1,0 +1,33 @@
+##Projects for no poverty
+
+- name: "Making a Living My Way: Necessity-driven Entrepreneurship in Resource-Constrained Communities"
+  pic: Hui_PACMHCI18_thumb
+  abstract: "Entrepreneurship has long been used to create self-employment opportunities to guard against career uncertainty. Yet, little is known about how social technologies impact the day-to-day work of entrepreneurs in resource-constrained contexts. We performed a qualitative study involving interviews with 26 microentrepreneurs in Detroit and observations of entrepreneurship events. We found that micro-entrepreneurs in Detroit are often pushed into entrepreneurship in response to unexpected life disruptions, barriers to employment, and desire to benefit the community. Their resource-constrained contexts shape how they use social technologies, such as sharing economy tools and social media groups, particularly with respect to privacy, safety, and professional agency. We expand the discussion in CSCW around what it means to be an entrepreneur and provide implications for how social technologies can be designed to better meet the employment needs of people in resource-constrained communities."
+  authors: "Hui, J., Toyama, K., Pal, J., and Dillahunt, T. R. (2018)"
+  mainlink: Hui_PACMHCI18
+  resources:
+    - type: pdf
+      link: Hui_PACMHCI18
+
+
+- name: Fostering Social Capital in Economically Distressed Communities
+  pic: Dillahunt_905_thumb
+  abstract: "Past Information and Communication Technology (ICT) literature suggests that engaging in meaningful activities with ICTs may be related to socio-economic security, social inclusion, empowerment, and increased social capital. However, we identify a pervasive lack of understanding in existing literature, which raises an important research question: how can we build social capital where little social capital exists? We conducted a preliminary study to explore whether and if so, how, individuals in an economically distressed population with limited social capital use technologies to increase social capital and achieve socioeconomic security. We contribute details about barriers affecting social capital (e.g., difficulties finding and making the right connections and an overall lack of trust within communities). We also suggest ways in which ICTs can assist populations that could benefit most from increased social capital and economic security."
+  authors: Dillahunt, T.R.
+  mainlink: Dillahunt_905
+  resources:
+    - type: pdf
+      link: Dillahunt_905
+    - type: video
+      link: https://www.youtube.com/watch?v=Sul8liZtBqc
+    - type: #images
+      link: #http://flickr.com
+
+- name: "Navigating the Job Search as a Low-Resourced Job Seeker"
+  pic: Wheeler_CHI18_thumb
+  abstract: "The Internet is providing increasing access to information about employment opportunities, but not everyone can lever- age it effectively. Research suggests that job seekers with limited access to Internet technologies are being left behind, while those with limited social resources are expected to rely on the Internet even more. In this work, we conducted in- depth semi-structured interviews with 11 low-resourced job seekers in a metropolitan area in the Midwestern United States to understand how social and digital resources support their efforts to find work. We find that online resources support job seekers in finding relevant jobs via search, but do not help them identify opportunities to improve their job search pro- cess or increase their chances of securing employment. We recommend that systems aiming to support low-resourced job seekers design for deeper engagement with their users across the job search process, to help users recognize ways to improve on their existing practices."
+  authors: "Wheeler, E., and Dillahunt, T. R. (2018)"
+  mainlink: Wheeler_CHI18
+  resources:
+      - type: pdf
+        link: Wheeler_CHI18
