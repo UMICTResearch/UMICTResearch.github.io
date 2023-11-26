@@ -11,30 +11,39 @@
 #      url: #
 
 
-- name: Shruti Sannon
+- name: Shruti Sannon, Ph.D.
   pic: shruti
-  position: Postdoctoral Computing Innovation Fellow
+  position: Former Postdoctoral Computing Innovation Fellow
   social:
     - title: globe
       url: http://shrutisannon.com
     - title: linkedin
       url: http://linkedin.com/in/sannon/
 
-- name: Vaishnav Kameswaran
+- name: Vaishnav Kameswaran, Ph.D.
   pic: vaishnav
-  position: UMSI Ph.D. Student (MSI Alum)
+  position: UMSI Alum
   social:
     - title: globe
       url: http://www.vaishnavk.com
 
-- name: Ihudiya Finda Ogbonnaya-Ogburu
+- name: Ihudiya Finda Ogbonnaya-Ogburu, Ph.D.
   pic: finda
-  position: UMSI Ph.D. Student
+  position: UMSI Alum
   social:
     - title: globe
       url:  http://www.ihudiyaogburu.com
     - title: linkedin
       url: https://www.linkedin.com/in/ihudiyaogburu/
+
+ name: Joey Chiao-Yin Hsiao, Ph.D.
+  pic: joey
+  position: UMSI Alum
+  social:
+    - title: globe
+      url: https://www.joeyhsiao.info/
+    - title: linkedin
+      url: https://www.linkedin.com/in/joeycyhsiao
 
 - name: James Lisowski
   pic: jlisowsk
@@ -45,7 +54,7 @@
 
 - name: Pratik Mangtani
   pic: pratik
-  position: UMSI MSI Student
+  position: UMSI MSI Alum
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/pratikmangtani/
@@ -66,14 +75,14 @@
 
 - name: Anshika Saxena
   pic: anshika
-  position: UMSI MSI Student
+  position: UMSI MSI Alum
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/saxenanshika/
 
 - name: Anandita Aggarwal
   pic: aanandit
-  position: UMSI Master Student
+  position: UMSI Master Alum
   social:
     - title: globe
       url: https://www.aaggarwa.com/
@@ -91,7 +100,7 @@
 
 - name: Brittney Atkinson-McFarlane
   pic: brittney
-  position: NSF REU, Cornell University Student
+  position: Former NSF REU, Cornell University Student
   social:
       - title: globe
         url: http://branded.me/brittneymc
@@ -100,7 +109,7 @@
 
 - name: Ameera Ayodeji
   pic: ameera
-  position: NSF REU and Bowie State Alum
+  position: Former NSF REU and Bowie State Alum
   social:
       - title: linkedin
         url: https://www.linkedin.com/in/ameeraayodeji
@@ -141,7 +150,7 @@
 
 - name: Thaddeus Brown
   pic: thaddeus
-  position: NSF REU and Bowie State Alum
+  position: Former NSF REU and Bowie State Alum
   social:
       - title: linkedin
         url: https://www.linkedin.com/profile/view?id=181522342
@@ -155,7 +164,7 @@
 
 - name: Asha Chen-Phang
   pic: asha
-  position: NSF REU, Northeastern University Student
+  position: Former NSF REU, Northeastern University Student
   social:
       - title: globe
         url: http://www1.coe.neu.edu/~achenpha
@@ -201,7 +210,7 @@
 
 - name: Anna Gilhool
   pic: annakgil
-  position: UMSI MSI Student
+  position: UMSI MSI Alum
   social:
     - title: globe
       url: https://www.annagilhool.com/
@@ -223,16 +232,6 @@
       url: http://www.marcyheld.com
     - title: linkedin
       url: https://www.linkedin.com/in/marcy-held-837917b0/
-
-- name: Joey Chiao-Yin Hsiao
-  pic: joey
-  position: UMSI Ph.D. Student
-  social:
-    - title: globe
-      url: https://www.joeyhsiao.info/
-    - title: linkedin
-      url: https://www.linkedin.com/in/joeycyhsiao
-
 
 - name: Benjamin Jen
   pic: benjamin
@@ -261,7 +260,7 @@
 
 - name: Malavika Krishnamachari
   pic: malakchari
-  position: High School Student/Visiting Research Assistant
+  position: Former High School Student/Visiting Research Assistant
 
 - name: Saebom April Kwon
   pic: april
@@ -323,7 +322,7 @@
 
 - name: Sadhana Ramaseshadri
   pic: sadhanar
-  position: UMSI MSI Student
+  position: UMSI MSI Alum
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/sadhana-ramaseshadri/
@@ -335,7 +334,7 @@
 
 - name: Kaushal Solanki
   pic: ksolanki
-  position: UMSI Master Student
+  position: UMSI MSI Alum
   social:
     - title: globe
       url: https://kaushalpsolanki.com/
@@ -362,7 +361,7 @@
 
 - name: Jaleesa Rosario Turner
   pic: jaleesa
-  position: UM MSI Student/REMS
+  position: UM MSI Alum/REMS
   social:
     - title: globe
       url: http://www.jaleesarosario.com
@@ -378,7 +377,7 @@
 
 - name: Alice Wang
   pic: aliceinw
-  position: UMSI MSI Student
+  position: UMSI MSI Alum
   social:
     - title: globe
       url: https:https://www.notion.so/Welcome-to-Alice-s-Wonderland-8f4356cb80b241cea166e21cb9f3701f
