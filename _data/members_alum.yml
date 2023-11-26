@@ -11,7 +11,30 @@
 #      url: #
 
 
+- name: Shruti Sannon
+  pic: shruti
+  position: Postdoctoral Computing Innovation Fellow
+  social:
+    - title: globe
+      url: http://shrutisannon.com
+    - title: linkedin
+      url: http://linkedin.com/in/sannon/
 
+- name: Vaishnav Kameswaran
+  pic: vaishnav
+  position: UMSI Ph.D. Student (MSI Alum)
+  social:
+    - title: globe
+      url: http://www.vaishnavk.com
+
+- name: Ihudiya Finda Ogbonnaya-Ogburu
+  pic: finda
+  position: UMSI Ph.D. Student
+  social:
+    - title: globe
+      url:  http://www.ihudiyaogburu.com
+    - title: linkedin
+      url: https://www.linkedin.com/in/ihudiyaogburu/
 
 - name: James Lisowski
   pic: jlisowsk
@@ -33,6 +56,7 @@
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/xinrui-cindy-zhao/
+      
 - name: Amelia Duffy
   pic: ameliadu
   position: UM Undergrad
