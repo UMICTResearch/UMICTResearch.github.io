@@ -9,32 +9,13 @@
     - title: linkedin
       url: https://www.linkedin.com/pub/tawanna-dillahunt/82/866/a77
 
-
-- name: Shruti Sannon
-  pic: shruti
-  position: Postdoctoral Computing Innovation Fellow
-  social:
-    - title: globe
-      url: http://shrutisannon.com
-    - title: linkedin
-      url: http://linkedin.com/in/sannon/
-
-
-- name: Vaishnav Kameswaran
-  pic: vaishnav
-  position: UMSI Ph.D. Student (MSI Alum)
-  social:
-    - title: globe
-      url: http://www.vaishnavk.com
-
-
 - name: Aarti Israni
   pic: aarti
   position: UMSI Ph.D. Student
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/aartiisrani
-    - title: global
+    - title: globe
       url: http://www.aartiisrani.com/
 
 - name: Sylvia Darling
@@ -46,37 +27,12 @@
     - title: globe
       url: https://sylviadarli.ng/
 
-- name: Alex Lu (MSI Alum)
-  pic: alexlu
-  position: UMSI Ph.D. Student (MSI Alum)
-  social:
-    - title: globe
-      url: https://www.alexlu.me/
-    - title: linkedin
-      url: https://www.linkedin.com/in/lujiahong
-
-- name: Soyoung Lee
-  pic: soyolee
-  position: UMSI Ph.D. Student (MSI Alum)
+- name: Mila Filipof
+  pic: mila
+  position: MSI
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/soyoung-lee-64434710a/
-
-- name: Denny L. Starks
-  pic: denny
-  position: UMSI undergrad,  Minor in Art & Design
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/dennylstarks/
-    - title: globe
-      url: https://www.dennystarks.com/
-
-- name: Cameron Moy
-  pic: moy
-  position: UMSI undergrad,Minor in Social Class and Inequality and Music
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/cameronmoy/
+      url: https://www.linkedin.com/in/milafilipof591/
 
 - name: Bridgit Jung
   pic: bridgit
@@ -87,9 +43,34 @@
     - title: globe
       url: https://www.bridgitjung.com/
 
-- name: Mila Filipof
-  pic: mila
-  position: MSI
+- name: Soyoung Lee
+  pic: soyolee
+  position: UMSI Ph.D. Student (MSI Alum)
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/milafilipof591/
+      url: https://www.linkedin.com/in/soyoung-lee-64434710a/
+
+- name: Alex Lu 
+  pic: alexlu
+  position: UMSI Ph.D. Student (MSI Alum)
+  social:
+    - title: globe
+      url: https://www.alexlu.me/
+    - title: linkedin
+      url: https://www.linkedin.com/in/lujiahong
+
+- name: Cameron Moy
+  pic: moy
+  position: UMSI undergrad,Minor in Social Class and Inequality and Music
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/cameronmoy/
+
+- name: Denny L. Starks
+  pic: denny
+  position: UMSI Ph.D. Student (UM Alum)
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/dennylstarks/
+    - title: globe
+      url: https://www.dennystarks.com/
