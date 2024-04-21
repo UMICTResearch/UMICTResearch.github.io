@@ -1,58 +1,58 @@
 ##Projects for quality education
 
-- name: "Data work in education: Enacting and negotiating care and control in teachers' use of data-driven classroom surveillance technology"
-  pic: Alex_ACM21_thumb
-  abstract: "Today, teachers have been increasingly relying on data-driven technologies to track and monitor student behavior data for classroom management. Drawing insights from interviews with 20 K–8 teachers, in this paper we unpack how teachers enacted both care and control through their data work in collecting, interpreting, and using student behavior data. In this process, teachers found themselves subject to surveilling gazes from parents, school administrators, and students. As a result, teachers had to manipulate the student behavior data to navigate the balance between presenting a professional image to surveillants and enacting care/control that they deemed appropriate. In this paper we locate two nuanced forms of teachers’ data work that have been under-studied in CSCW: (1) data work as recontextualizing meanings and (2) data work as resisting surveillance. We discuss teachers’ struggle over (in)visibility and their negotiation of autonomy and subjectivity in these two forms of data work. We highlight the importance of foregrounding and making space for informal data workers’ (in our case, teachers’) resistance and negotiation of autonomy in light of datafication."
-  authors: "Lu, A.J., Dillahunt, T.R.,  Marcu, G., and Ackerman, M.S."
-  mainlink: Alex_ACM21
-
 - name: "A Collective Approach to Providing Digital Skills Training Among US Public Housing Residents"
   pic: Soyoung_CHI23_thumb
   abstract: "Addressing the digital divide would support access to essential activities such as healthcare, employment, and education among under-resourced communities in the United States (U.S.). However, half of the adults in the U.S. lack confidence and preparedness to use digital tools for learning. We developed and piloted an intervention to train public housing residents as intermediaries to provide digital support to their community members to address this gap. Collaborating with community partners, we developed a cohort-based basic digital skills training program consisting of online courses and offline social learning support. We trained nine public housing residents and present best practices of collective training and the challenges the trainees faced. Preliminary results suggest an increase in trainees’ self-efficacy in basic digital skills. Our approach aims to increase digital literacy and minimize barriers to online learning among traditionally-excluded populations. Our work extends prior interventions that only provide device and Internet access."
-  authors: "Lee, S., Hui, J.,Rowe, Z.,Dillahunt, T.R."
+  authors: "Lee, S., Hui, J.,Rowe, Z.,Dillahunt, T.R. (2023)"
+  impact: "| Extended Abstracts of the CHI EA '23 Conference on Human Factors in Computing Systems |"
   mainlink: Soyoung_CHI23
+
+- name: "Data work in education: Enacting and negotiating care and control in teachers' use of data-driven classroom surveillance technology"
+  pic: Alex_ACM21_thumb
+  abstract: "Today, teachers have been increasingly relying on data-driven technologies to track and monitor student behavior data for classroom management. Drawing insights from interviews with 20 K–8 teachers, in this paper we unpack how teachers enacted both care and control through their data work in collecting, interpreting, and using student behavior data. In this process, teachers found themselves subject to surveilling gazes from parents, school administrators, and students. As a result, teachers had to manipulate the student behavior data to navigate the balance between presenting a professional image to surveillants and enacting care/control that they deemed appropriate. In this paper we locate two nuanced forms of teachers’ data work that have been under-studied in CSCW: (1) data work as recontextualizing meanings and (2) data work as resisting surveillance. We discuss teachers’ struggle over (in)visibility and their negotiation of autonomy and subjectivity in these two forms of data work. We highlight the importance of foregrounding and making space for informal data workers’ (in our case, teachers’) resistance and negotiation of autonomy in light of datafication."
+  authors: "Lu, A.J., Dillahunt, T.R.,  Marcu, G., and Ackerman, M.S.(2021)"
+  impact: "| In Proc. of the ACM'21 Conference on Human Computer Interaction, CSCW 2 |"
+  mainlink: Alex_ACM21
+
 
 - name: "Positive Feedback and Self-reflection: Features to Support Self-efficacy among Underrepresented Job Seekers"
   pic: Dillahunt_CHI20_thumb
   abstract: "Technologies play a key role in finding employment in today's job market. However, the majority of those who are unemployed, e.g., individuals who have limited education or who are racial and ethnic minorities, are not well supported by existing digital employment tools. Therefore, we conducted an 8-month randomized field experiment to evaluate two tools — Review-Me and Interview4 — designed to address these job seekers' key employment needs. We used the Theory of Planned Behavior to examine the tools effects on three fac- tors influencing job seekers' job search intention: job search self-efficacy, subjective norms, and job search attitudes. Our interview data suggested that the tools positively affected all factors, but our survey results were mixed. Interview results suggest that these trends were caused by positive feedback and self-reflection. We contribute ways to integrate these two features into future tools for, and techniques to increase study retention among, underrepresented job seekers."
   authors: "Dillahunt., T. R. and Hsiao, J. C.-Y. (2020)"
   mainlink: Dillahunt_CHI20
+  impact: "| In Proc. of the CHI'20 Conference on Human Factors in Computing Systems |"
   resources:
     - type: pdf
       link: Dillahunt_CHI20
 
-- name: "Model Thinking: Demographics and Performance of MOOC Students Unable to Afford a Formal Education"
-  pic: Dillahunt-WIP2_thumb
-  abstract: "Massive Open Online Courses (MOOCs) are seen as an opportunity for individuals to gain access to education, develop new skills to prepare for high-paying jobs, and achieve upward mobility without incurring the increasingly high debt that comes with a university degree. Despite this perception, few studies have examined whether populations with the most to gain do leverage these resources. We analyzed student demographic information from course surveys and performance data of MOOC participation in a single course. We targeted students who stated that they were motivated to take the course because they “cannot afford to pursue a formal education,” and compared them to the group of all other students. Our three key findings are that 1) a higher percentage of non-traditional enrolled students are in this population than the comparison population, 2) in an independent t-test, a statistically significant portion (28%) of this group has less than a 4- year college degree versus 15% of the comparison group, and 3) the completion rate between both groups are relatively equal."
-  authors: "Tawanna Dillahunt, Bin Chen, Stephanie Teasley"
-  mainlink: Dillahunt-WIP2
+
+- name: "Towards an Effective Digital Literacy Intervention to Assist Returning Citizens with Job Search"
+  pic: OgbonnayaOgburu_CHI19_thumb
+  abstract: "Returning citizens (formerly incarcerated individuals) face great challenges fnding employment, and these are exacerbated by the need for digital literacy in modern job search. Through 23 semi-structured interviews and a pilot digital literacy course with returning citizens in the Greater Detroit area, we explore tactics and needs with respect to job search and digital technology. Returning citizens exhibit great diversity, but overall, we fnd our participants to have striking gaps in digital literacy upon release, even as they are quickly introduced to smartphones by friends and family. They tend to have employable skills and ability to use ofine social networks to fnd opportunities, but have little understanding of formal job search processes, online or ofine. They mostly mirror mainstream use of mobile technology, but they have various reasons to avoid social media. These and other fndings lead to recommendations for digital literacy programs for returning citizens"
+  authors: "Ogbonnaya-Ogburu, I.F., Toyama, K., and Dillahunt, T.R. (2019)"
+  impact: "|  In Proc. of the CHI'19 Conference on Human Factors in Computing Systems |"
+  mainlink: OgbonnayaOgburu_CHI19
   resources:
     - type: pdf
-      link: Dillahunt-WIP2
+      link: OgbonnayaOgburu_CHI19
 
-- name: "Democratizing Higher Education: Exploring MOOC Use Among Those Who Cannot Afford a Formal Education"
-  pic: Dillahunt-IRRODL-final_thumb
-  abstract: "This paper presents the results of the analysis of data from six Coursera courses offered by the University of Michigan from fall 2012 through winter 2013. In this analysis learners who self-identified as being unable to afford to pursue a formal education (the target group) were contrasted to other learners (the comparison group) in terms of demographics, motivations, course enrollment, engagement and performance. Learners in the target group were primarily male and over 25 years old. A statistically significant portion of the target group held less than a 4-year college degree than the comparison group. Target learners were also significantly underrepresented in the enrollment of the courses examined here. Although the comparison group had a significantly higher completion rate overall than the target group, the target group had a statistically significant higher rate of completing courses with certificates of distinction. This article provides a discussion of these results and suggests how MOOCs could be adapted to better address the needs of learners who feel financially unable to pursue a more traditional path to a post-secondary education. "
-  authors: "Tawanna Dillahunt, Brian (Zengguang) Wang, Stephanie Teasley"
-  mainlink: Dillahunt-IRRODL-final
+- name: "Returning Citizens' Job Search and Technology Use: Preliminary Findings"
+  pic: OgbonnayaOgburu_CSCWEA18_thumb
+  abstract: "In this work, we seek to understand how returning citizens (formerly incarcerated individuals) interact with digital technologies, both in general and for job search. Using semi-structured interviews we interviewed fifteen returning citizens who were released within the past year. We find that returning citizens depend heavily on family and close friends for purchasing, using, and learning about digital technology, but that this help rarely extends to support job-search tasks. We also find that many recent re-entrants do not use social media."
+  # abstract: "In ACM CSCW'18 Companion"
+  impact: "| Companion of the ACM'18 Conference on Computer Supported Cooperative Work and Social Computing  |"
+  authors: "Ogbonnaya-Ogburu, I. F., Toyama, K., and Dillahunt, T. R. (2018)"
+  mainlink: OgbonnayaOgburu_CSCWEA18
   resources:
     - type: pdf
-      link: Dillahunt-IRRODL-final
-
-    - name: 'Towards an Effective Digital Literacy Intervention to Assist Returning Citizens with Job Search'
-      pic: OgbonnayaOgburu_CHI19_thumb
-      abstract: "Returning citizens (formerly incarcerated individuals) face great challenges fnding employment, and these are exacer- bated by the need for digital literacy in modern job search. Through 23 semi-structured interviews and a pilot digital literacy course with returning citizens in the Greater Detroit area, we explore tactics and needs with respect to job search and digital technology. Returning citizens exhibit great diversity, but overall, we fnd our participants to have striking gaps in digital liter- acy upon release, even as they are quickly introduced to smartphones by friends and family. They tend to have em- ployable skills and ability to use ofine social networks to fnd opportunities, but have little understanding of formal job search processes, online or ofine. They mostly mirror mainstream use of mobile technology, but they have various reasons to avoid social media. These and other fndings lead to recommendations for digital literacy programs for returning citizens."
-      authors: "Ogbonnaya-Ogburu, I. F., Toyaman, K., and Dillahunt, T. R. (2019)"
-      mainlink: OgbonnayaOgburu_CHI19
-      resources:
-      - type: pdf
-        link: OgbonnayaOgburu_CHI19
+      link: OgbonnayaOgburu_CSCWEA18
 
 - name: Opportunities to Address Information Poverty with Social Search
   pic: Wheeler_CHIEA17_thumb
   abstract: "Information seeking is a central part of human life, and search engines are the dominant method of information seeking on the Internet. Although recent years have seen the rise of social search systems as a promising alternative, their application for populations across the digital divide that are starved for information has been overlooked. Drawing on research on social search, information search, and information poverty, we identify three dimensions of information poverty in web search, and hypothesize affordances of social search platforms that could address the details of each issue. Finally, we propose research questions and two as- sociated studies to investigate these hypotheses."
   authors: "Wheeler, E., Dillahunt, T. R., and Rieh, S. Y. (2017)"
   mainlink: Wheeler_CHIEA17
+  impact: "| In Proc. of the CHI'17 Conference Extended Abstracts on Human Factors in Computing Systems |"
   resources:
     - type: pdf
       link: Wheeler_CHIEA17
@@ -60,8 +60,9 @@
 - name: "Do Massive Open Online Course Platforms Support Employability?"
   pic: pn133dillahunt-thumb
   abstract: "Past research suggests that many individuals take Massive Open Online Courses (MOOCs) for employment-related reasons. It is unclear, however, how learners leverage MOOCs for employment and how effectively these platforms support employability. To explore this further, we surveyed 441 learners and interviewed 22 learners motivated to take MOOCs for reasons related to financial limitations and/or reasons related to employment. Using the three dimensions of employability as a framework—human and social capital, career identity, and personal adaptability—we find that while most of our participants were optimistic about the potential for MOOCs to improve their employability, there was very limited tangible evidence of employment mobility from taking MOOCs. Though MOOCs support human capital, there are opportunities to further support social capital, career identity, and personal adaptability. We contribute a deeper understanding of learners who use MOOCs for employment and provide concrete design implications for MOOC platforms to better support employability in the future. We found very few low SES learners using MOOCs for reasons of employment and identify opportunities for MOOCs to reach and support these learners."
-  authors: "Tawanna Dillahunt, Sandy Ng, Michelle Fiesta, Brian (Zengguang) Wang"
+  authors: "Dillahunt, T., Ng, S., Fiesta,M., Wang, Z. (2016)"
   mainlink: pn133dillahunt
+  impact: "| In Proc. of ACM'19 Conference on Computer-Supported Cooperative Work & Social Computing |"
   resources:
       - type: pdf
         link: pn133dillahunt
@@ -70,34 +71,38 @@
   pic: Dillahunt_CHI16WS_thumb
   abstract: "“Sharing economy” ventures such as Uber and Airbnb use rhetoric that claims to provide income-earning opportunities for those seeking them. Research to-date, however, suggests that the people who most benefit from these services are those with significant advantages to begin with. In other words, even effective, widely accessible technology isn’t enough to address socio-economic divides on its own. We propose Project Boost, which seeks to document all of the non- technological elements required for citizens of Detroit to benefit from online income opportunities. In particular, we seek to understand what residents who wish to earn income by giving local tours require beyond a website. We have already begun on the project, and at the workshop, we would like to continue planning with our geographically scattered team, and invite others to work with us or attempt similar programs in other cities. <br><br> This project was presented at the CHI 2016 Workshop - Development Consortium 2016: HCI Across Borders"
   authors: "Kameswaran, V. Marathe, M., Dillahunt, T., Pal, Joyojeet, Reinecke, K., and Toyama, K. (2016)"
+  impact: "| In Proc. of ACM'16 Conference |"
   mainlink: Dillahunt_CHI16WS
   resources:
     - type: pdf
       link: Dillahunt_CHI16WS
 
-- name: "Towards an Effective Digital Literacy Intervention to Assist Returning Citizens with Job Search"
-  pic: OgbonnayaOgburu_CHI19_thumb
-  abstract: "In Proc. of CHI 2019"
-  authors: "Ogbonnaya-Ogburu, I.F., Toyama, K., and Dillahunt, T.R."
-  mainlink: OgbonnayaOgburu_CHI19
-  resources:
-    - type: pdf
-      link: OgbonnayaOgburu_CHI19
-
-- name: "Returning Citizens' Job Search and Technology Use: Preliminary Findings"
-  pic: OgbonnayaOgburu_CSCWEA18_thumb
-  abstract: "In ACM CSCW'18 Companion"
-  authors: "Ogbonnaya-Ogburu, I. F., Toyama, K., and Dillahunt, T. R."
-  mainlink: OgbonnayaOgburu_CSCWEA18
-  resources:
-    - type: pdf
-      link: OgbonnayaOgburu_CSCWEA18
-
 - name: "Learn with Friends: The Effects of Student Face-to-Face Collaborations on Massive Open Online Course Activities"
   pic: p241-brooks_thumb
-  abstract: "In Proc. of Learning at Scale 2015"
-  authors: "Brooks, C., Stalburg, C., Dillahunt, T., Robert, L"
+  abstract: "This work investigates whether enrolling in a Massive Open Online Course (MOOC) with friends or colleagues can improve a learner’s performance and social interaction during the course. Our results suggest that signing up for a MOOC with peers correlates positively with the rate of course completion, level of achievement, and discussion forum usage. Further analysis seems to suggest that a learner’s interaction with their friends compliments a MOOC by acting as a form of self-blended learning. "
+  impact: "| In Proc. of Learning at Scale 2015 |"
+  authors: "Brooks, C., Stalburg, C., Dillahunt, T., Robert, L (2015)"
   mainlink: p241-brooks
   resources:
     - type: pdf
       link: p241-brooks
+
+- name: "Model Thinking: Demographics and Performance of MOOC Students Unable to Afford a Formal Education"
+  pic: Dillahunt-WIP2_thumb
+  abstract: "Massive Open Online Courses (MOOCs) are seen as an opportunity for individuals to gain access to education, develop new skills to prepare for high-paying jobs, and achieve upward mobility without incurring the increasingly high debt that comes with a university degree. Despite this perception, few studies have examined whether populations with the most to gain do leverage these resources. We analyzed student demographic information from course surveys and performance data of MOOC participation in a single course. We targeted students who stated that they were motivated to take the course because they “cannot afford to pursue a formal education,” and compared them to the group of all other students. Our three key findings are that 1) a higher percentage of non-traditional enrolled students are in this population than the comparison population, 2) in an independent t-test, a statistically significant portion (28%) of this group has less than a 4- year college degree versus 15% of the comparison group, and 3) the completion rate between both groups are relatively equal."
+  authors: "Dillahunt, T. R., Chen, B.,Teasley,S. (2014)"
+  impact: "| In Proc. of the Second ACM'15 Conference on Learning @ Scale |"
+  mainlink: Dillahunt-WIP2
+  resources:
+    - type: pdf
+      link: Dillahunt-WIP2
+
+- name: "Democratizing Higher Education: Exploring MOOC Use Among Those Who Cannot Afford a Formal Education"
+  pic: Dillahunt-IRRODL-final_thumb
+  abstract: "This paper presents the results of the analysis of data from six Coursera courses offered by the University of Michigan from fall 2012 through winter 2013. In this analysis learners who self-identified as being unable to afford to pursue a formal education (the target group) were contrasted to other learners (the comparison group) in terms of demographics, motivations, course enrollment, engagement and performance. Learners in the target group were primarily male and over 25 years old. A statistically significant portion of the target group held less than a 4-year college degree than the comparison group. Target learners were also significantly underrepresented in the enrollment of the courses examined here. Although the comparison group had a significantly higher completion rate overall than the target group, the target group had a statistically significant higher rate of completing courses with certificates of distinction. This article provides a discussion of these results and suggests how MOOCs could be adapted to better address the needs of learners who feel financially unable to pursue a more traditional path to a post-secondary education. "
+  authors: "Dillahunt,T., Wang,Z., Teasley, S. (2014)"
+  mainlink: Dillahunt-IRRODL-final
+  impact: "| In Proc. of The International Review of Research in Open and Distributed Learning 15(5) |"
+  resources:
+    - type: pdf
+      link: Dillahunt-IRRODL-final

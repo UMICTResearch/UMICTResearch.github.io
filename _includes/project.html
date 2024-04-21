@@ -23,7 +23,7 @@
     <div class="container project-subs">
         <div class="row row-centered heading">
             <div class="col-xs-12 col-sm-10 col-centered">
-                <h4 class="section-heading">Realted work</h4>
+                <h4 class="section-heading">Related work</h4>
                 <hr>
             </div>
         </div>
@@ -39,6 +39,7 @@
                             <div class="timeline-heading">
                                 <h4>{% if sub.mainlink %}<a class="post-link" href="/assets/{{namespace}}/{{ sub.mainlink }}.pdf" target="_blank">{{ sub.name }}</a>{% else %}{{ sub.name }}{% endif %}</h4>
                                 <h5 class="subheading">{{ sub.authors }}</h5>
+                                <h7 class="subheading">{{ sub.impact }}</h7>
                             </div>
                             <div class="timeline-body">
                                 <div class="paper-desc">{{ sub.abstract}}</div>

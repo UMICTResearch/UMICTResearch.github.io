@@ -1,27 +1,30 @@
 ##Projects for reduced inequalities
 
-    - name: "Emotional Labor in Everyday Resilience: Class-based Experiences of Navigating Unemployment Amid the COVID-19 Pandemic in the US"
-      pic: Alex_ACM22_thumb
-      abstract: "During the COVID-19 global health crisis, institutions, policymakers, and academics alike have called for practicing resilience to overcome its ongoing disruptions. This paper contributes a comparative study of the job search experiences of working-class and upper-middle-class job seekers, particularly in relation to their resilience practices during the pandemic. Drawing from in-depth interviews with 12 working-class and 11 upper-middle-class job seekers in the U.S., we unpack challenges resulting from both the pandemic and unemployment and job seekers’ novel practices of navigating these challenges in their everyday disrupted life. Job seekers’ ongoing negotiation with their resources, situations, and surroundings gives practical meanings to building everyday resilience, which we theorize as an ongoing process of becoming resilient. While job seekers across classes experienced similar challenges, working-class job seekers took on additional emotional labor in their everyday resilience due to their limited experience in the digital job search space, competition with higher-degree holding job seekers applying for the same jobs, limited social support networks, and at times, isolation. By foregrounding the uneven distribution of emotional labor in realizing the promise of resilience along class lines, this work cautions against the romanticization of resilience and calls for a more critical and nuanced understanding of resilience in CSCW"
-      authors: "Lu, A.J., Gilhool, A., Hsiao, J.C.Y., and Dillahunt, T.R. (2022)"
-      mainlink: Alex_ACM22
-      resources:
-      - type: pdf
-        link: Alex_ACM22
-
     - name: "How Recent Migrants Develop Trust Through Community Commerce: The Emergence of Sociotechnical Adaptation"
       pic: Joey_ACM23_thumb
       abstract: "Trust is key to community commerce or peer-to-peer e-commerce where transactions happen within local communities. Trust is especially vital among migrants who move to new countries and need time to develop trust after arrival. To understand migrants’ trust development in community commerce and its potential and challenges for supporting their transition to the United States, we conducted 24 semi-structured interviews with migrants who had lived there for three years or less. We highlight practices embedded in difficulties engaging with technologies in a new place. We identify four forms of migrants’ trust and show how their offline experiences with local communities reflect their online trust development in community commerce and vice versa, thereby creating unique challenges in their adaptation to new technologies. We coin the term sociotechnical adaptation to frame migrants’ distinctive adjustments to social media technologies in a new country. We conclude with implications for creating community commerce platforms that foster migrants’ trust and a reflection on how sociotechnical adaptation may vary among diverse migrant populations."
       authors: "Hsiao, J.C.Y., Darling, S., and Dillahunt, T.R. (2023)"
+      impact: "| In Proc. of ACM'23 Conference on Human Computer Interaction, CSCW 1 |"
       mainlink: Joey_ACM23
       resources:
         - type: pdf
           link: Joey_ACM23
 
+    - name: "Emotional Labor in Everyday Resilience: Class-based Experiences of Navigating Unemployment Amid the COVID-19 Pandemic in the US"
+      pic: Alex_ACM22_thumb
+      abstract: "During the COVID-19 global health crisis, institutions, policymakers, and academics alike have called for practicing resilience to overcome its ongoing disruptions. This paper contributes a comparative study of the job search experiences of working-class and upper-middle-class job seekers, particularly in relation to their resilience practices during the pandemic. Drawing from in-depth interviews with 12 working-class and 11 upper-middle-class job seekers in the U.S., we unpack challenges resulting from both the pandemic and unemployment and job seekers’ novel practices of navigating these challenges in their everyday disrupted life. Job seekers’ ongoing negotiation with their resources, situations, and surroundings gives practical meanings to building everyday resilience, which we theorize as an ongoing process of becoming resilient. While job seekers across classes experienced similar challenges, working-class job seekers took on additional emotional labor in their everyday resilience due to their limited experience in the digital job search space, competition with higher-degree holding job seekers applying for the same jobs, limited social support networks, and at times, isolation. By foregrounding the uneven distribution of emotional labor in realizing the promise of resilience along class lines, this work cautions against the romanticization of resilience and calls for a more critical and nuanced understanding of resilience in CSCW"
+      authors: "Lu, A.J., Gilhool, A., Hsiao, J.C.Y., and Dillahunt, T.R. (2022)"
+      impact: "| In Proc. of the ACM'22 Conference on Human Computer Interaction |"
+      mainlink: Alex_ACM22
+      resources:
+      - type: pdf
+        link: Alex_ACM22
+
     - name: "Uncovering the Promises and Challenges of Social Media Use in the Low-Wage Labor Market: Insights from Employers"
       pic: Lu_CHI21_thumb
       abstract: "Online employment resources are now as important as offline personal and professional networks, which have been pivotal in finding employment. However, it is unclear, which specific online resources are key to employment and how job seekers take advantage of them. Therefore, in an online survey of 768 job seekers, we investigated which online platforms, specific job search phases, behaviors, and job search strategies job seekers used in their job search, and which of these were associated with positive outcomes. We examined whether these results correlated with demographic factors and found differences in online platform use among income, gender, years of education, and race. Our results suggest that higher-income job seekers were more likely to use different strategies and more likely to get callbacks than lower-income job seekers. We raise new questions around demographics and technology and discuss the need for practitioners to design for a wider variety of job seekers. (*The two authors contributed equally to this research)"
       authors: "Lu, A. and Dillahunt, T. R. (2021)"
+      impact: "| In Proc. of CHI'21 Conference on Human Factors in Computing Systems |"
       mainlink: Lu_CHI21
       resources:
       - type: pdf
@@ -31,6 +34,7 @@
       pic: Hsiao_CHIEA21_thumb
       abstract: "Transnational newcomers, i.e., foreign-born populations who move to a new country, rely on consumer-to-consumer electronic commerce (C2C e-commerce) to access local resources for adaptation. However, with low trust among transnational newcomers who en- ter a new country, they often face difculties in the adaptation process, and little is known about which determinants afect their trust in C2C e-commerce. Because social identity is often compli- cated in transnational newcomers’ adaptation process, our work focuses on unpacking shared identity, a key trust antecedent in C2C e-commerce. We interviewed 12 transnational newcomers in the United States to identify the determinants of their shared identity in C2C e-commerce. Our preliminary results suggest that shared identity determinants include geographic proximity, ethnic back- ground, life stage, and socio-economic status. We also uncovered ways that shared identity determinants infuence transnational new- comers’ trust in local C2C e-commerce. Our work contributes two research implications to future studies on transnational newcomers’ technology use."
       authors: "Hsiao, J. C.-Y. and Dillahunt T. R. (2021)"
+      impact: "| In Proc. of CHI EA '21 Conference on Human Factors in Computing Systems |"
       mainlink: Hsiao_CHIEA21_preprint
       resources:
         - type: pdf
@@ -40,6 +44,7 @@
       pic: Hsiao_CSCWdc19_thumb
       abstract: "Immigrants use technologies for socialization in new countries, but HCI scholars have not explored this research space. In my dissertation, I am adopting the social exchange theory to explore this research space. My first study suggested that trust is the key to addressing immigrants’ concerns about social exchange through technologies. Following this finding, my ongoing work will be focused on designing interventions to address these trust-related concerns. My dissertation should shed light on inclusive design supporting immigrants’ socialization, and inform research on other newcomers (e.g., domestic migrants and refugees) and specific forms of resource exchange (e.g., ridesharing and language exchange)."
       authors: "Hsiao, J. C.-Y. (2019)"
+      impact: " | In Proc. of CSCW '19 Companion Conference on Computer Supported Cooperative Work and Social Computing |"
       mainlink: Hsiao_CSCWdc19
       resources:
         - type: pdf
@@ -48,8 +53,8 @@
     - name: "Technology to Support Immigrant Access to Social Capital and Adaptation to a New Country"
       pic: Hsiao_PACMHCI18_thumb
       abstract: "The key to successful adaptation for immigrants in a new country is their social capital, or those resources embedded in their social networks. Research suggests that information and communication technologies (ICTs) foster immigrants’ social capital and facilitate their adaptation. However, it is unclear how recent immigrants use ICTs to develop social capital and how this supports their adaptation needs. We performed semi-structured interviews with thirteen recent immigrants and five long-term immigrants. We found that ICTs and technology-mediated connections: (1) easily addressed immigrants’ settlement needs, (2) minimally addressed their financial and cultural needs, and (3) were not used to address their emotional needs. To support recent immigrants’ adaptation, we suggest ways for ICTs to (1) reduce uncertainty about meeting local-born populations, (2) foster reciprocity among immigrant communities, and (3) facilitate safe resource exchanges."
-
       authors: "Hsiao, J. C.-Y. and Dillahunt, T. R. (2018)"
+      impact: "| In proc. of CSCW '19 Companion Conference on Computer Supported Cooperative Work and Social Computing |"
       mainlink: Hsiao_PACMHCI18
       resources:
         - type: pdf
@@ -59,24 +64,17 @@
       pic: Hsiao_CHIEA17_thumb
       abstract: "Prior research suggests that individuals are motivated to use People-Nearby Applications (PNAs) to meet new people offline and that these individuals receive benefits such as social and cultural capital from their offline connections. It is unclear, however, what the impetus behind these motivations are and whether individuals are motivated to use PNAs for other reasons. To explore these questions, we analyzed a dataset of 14 active PNA users' semi-structured interviews and found that participants' first experiences using PNAs were associated with significant life events such as moving to a new area or ending a relationship. We conducted an online survey (N = 142) to explore these findings further and investigate whether they generalized across a broader set of active PNA users. We confirm our past findings and contribute ways in which future technologies can detect specific life changes to increase the opportunities for individuals to benefit from PNAs"
       authors: "Hsiao, J. C.-Y. and Dillahunt, T. R. (2017)"
+      impact: "|In Proc. of CHI EA '17 Conference on Human Factors in Computing Systems |"
       mainlink: Hsiao_CHIEA17
       resources:
         - type: pdf
           link: Hsiao_CHIEA17
 
-    - name: "Additional Labors of the Entrepreneurial Self"
-      pic: Avle_PACMHCI19_thumb
-      abstract: "In Proc. ACM'19 Hum.-Comput. Interact. 3, CSCW"
-      authors: "Avle, S., Hui, J., Lindtner, S., and Dillahunt, T. R."
-      mainlink: Avle_PACMHCI19
-      resources:
-        - type: pdf
-          link:  Avle_PACMHCI19
-
     - name: "People-Nearby Applications: How Newcomers Move Their Relationships Offline and Develop Social and Cultural Capital."
       pic: Hsiao_CSCW17_thumb
-      abstract: "In Proc. of CSCW 2017."
-      authors: "Hsiao, J. C.-Y. and Dillahunt, T.R."
+      abstract: "People-nearby applications (PNAs), such as Tinder and Badoo, help millions of users to make new social connections everyday. However, little is known about how PNAs support offline interactions or what application features are associated with offline encounters. Research suggests that these applications support the development of social capital, but the forms of social capital are unclear. We conducted interviews with 14 active PNA users to address these questions. Our results suggest that while existing PNA features such as filters, profile photos, and chat support online connections, most participants used non-PNA platforms to build mutual trust before meeting offline. In addition, PNA users developed two forms of social (informal and formal) and cultural capital (incorporated and symbolic). We offer insights into how PNAs and nonPNAs intersect to foster feelings of safety and trust prior to offline meetings, and we propose ways for PNAs to support the exchange of cultural and social capital"
+      authors: "Hsiao, J. C.-Y. and Dillahunt, T.R. (2017)"
+      impact: "| In Proc. of ACM CSCW '17 Conference on Computer Supported Cooperative Work and Social Computing  |"
       mainlink: Hsiao_CSCW17
       resources:
         - type: pdf

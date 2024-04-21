@@ -1,0 +1,117 @@
+#  Project Details for Health
+
+
+- name: "Organizing Community-based Events in Participatory Action Research: Lessons Learned from a Photovoice Exhibition"
+  pic: Alex_participatory_CHI23_thumb
+  abstract: "Participatory action research (PAR) approaches center community members’ lived experiences and can spur positive change around pressing challenges faced by communities. Even though PAR and similar approaches have been increasingly adopted in HCI research
+that focuses on social justice and community empowerment, publicfacing events that are based on this research and center community members’ voices are less common. This case study sheds light on how to initiate and organize events that build on existing PAR efforts, and what practical challenges might exist in this process. Building on a photovoice research project, we—a collaborative team of university researchers and staff members of a community organization in Eastside Detroit—co-organized community-based publicfacing exhibition that featured community members’ photographic narratives of personal and communal safety and surveillance. In
+this case study, we reflect on the challenges we experienced in planning and holding the exhibition. We contribute a set of practical
+guidelines to help researchers facilitate community-based events when conducting participatory action research in HCI."
+  authors: "Lu, A.J., Sannon, S., Brewer, S., Jackson, K.N., Green, J., Reeder, D., Wafer, C., and Dillahunt, T.R."
+  mainlink: Alex_participatory_CHI23
+  resources:
+      - type: pdf
+        link: Alex_participatory_CHI23
+
+- name: "Shifting from Surveillance-as-Safety to Safety-through-Noticing: A Photovoice Study with Eastside Detroit Residents"
+  pic: Alex_CHI23_thumb
+  abstract: "Safety has been used to justify the expansion of today’s large-scale surveillance infrastructures in American cities. Our work ofers empirical and theoretical groundings on why and how the safetysurveillance confation that reproduces harm toward communities of color must be denaturalized. In a photovoice study conducted in collaboration with a Detroit community organization and a university team, we invited 11 Black mid-aged and senior Detroiters to use photography to capture their lived experiences of navigating personal and community safety. Their photographic narratives unveil acts of “everyday noticing” in negotiating and maintaining their intricate and interdependent relations with human, non-human animals, plants, spaces, and material things, through which a multiplicity of meaning and senses of safety are produced and achieved. Everyday noticing, as simultaneously a survival skill and a morethan-human care act, is situated in residents’ lived materialities, while also serving as a site for critiquing the reductive and exclusionary vision embedded in large-scale surveillance infrastructures. By proposing an epistemological shift from surveillance-as-safety to safety-through-noticing, we invite future HCI work to attend to the fuid and relational forms of safety that emerge from local entanglement and sensibilities."
+  authors: "Lu, A.J., Sannon, S., Moy, C., Brewer, S., Green, J., Jackson, K.N., Reeder, D., Wafer, C., Ackerman, M.S, and Dillahunt, T.R."
+  mainlink: Alex_CHI23
+  resources:
+      - type: pdf
+        link: Alex_CHI23
+
+- name: "Understanding Food Planning Strategies of Food Insecure Populations: Implications for Food-Agentic Technologies"
+  pic: dillahunt_CHI23_thumb
+  abstract: "To identify technological opportunities to better support nutrition security and equality among those living in low-socioeconomic situations, we conducted 33 semi-structured interviews and seven in-home visits of lower- to middle-income households from a midsized city in northern Indiana. Inspired by assets-based approaches to public health, we investigated technology’s role in supporting how participants selected and purchased food, planned meals, and worked through logistical barriers to obtain food. Technology helped and health-related insights to address diet and health concerns, and share information. We contribute design implications (e.g., amplifying optimization behaviors and social engagement, leveraging substitutions) in support of food agency. We further contribute three emergent archetypes to convey central shopping tendencies (i.e.,inventory shoppers, menu planners, and adaptive shoppers) and identify corresponding design implications. We situate our results into nutrition decision-making and education, social psychology, food consumer studies, and HCI literature."
+  authors: "Dillahunt, T.R., Sawwan, M., Wood, D., Wimer, B.L., Conrado, A.M., Miller, H.E., Gura, A.Z., and Metoyer, R."
+  mainlink: dillahunt_CHI23
+  resources:
+      - type: pdf
+        link: dillahunt_CHI23
+
+- name: "Targeting Patients’ Cognitive Load for Telehealth Video Visits Through Student-Delivered Helping Sessions at a United States Federally Qualified Health Center: Equity-Focused"
+  pic: Marcy_JMIR23_thumb
+  abstract: "Background: The task complexity involved in connecting to telehealth video visits may disproportionately impact health care access in populations already experiencing inequities. Human intermediaries can be a strategy for addressing health care access disparities by acting as technology helpersto reduce the cognitive load demands required to learn and use patient-facing telehealth
+technologies.
+Objective: We conducted a cognitive load theory–informed pilot intervention involving warm accompanimenttelehealth helping sessions with patients at a Federally Qualified Health Center (FQHC). We demonstrate how to design and report recruitment methods, reach, delivery process, and the preliminary impact of a novel equity-focused intervention.
+Methods: Early into the COVID-19 pandemic a telehealth helping session was offered to patients at FQHC via phone. Graduate students led the sessions on conducting a telehealth video test run or helping with patient portal log-in. They systematically recorded their recruitment efforts, intervention observations, and daily reflection notes. Following the intervention, we asked the intervention participants to participate in an interview and all patients who had telehealth visits during and 4 weeks before and after the intervention period to complete a survey. Electronic health records were reviewed to assess telehealth visit format changes. Descriptive and inferential statistical analyses of the recruitment records, electronic health record data, and surveys were performed. Through integrative analysis, we developed process-related themes and recommendations for future equity-focused telehealth interventions.
+Results: Of the 239 eligible patients, 34 (14.2%) completed the intervention and 3 (1.2%) completed subsequent interviews. The intervention participants who completed the survey (n=15) had lower education and less technological experience than the nonintervention survey participants (n=113). We identified 3 helping strategies for cognitive load reduction: providing step-by-step guidance for configuring and learning, building rapport to create confidence while problem-solving, and being on the same page to counter informational distractions. Intervention participants reported increased understanding but found that learning the video visit software was more difficult than nonintervention participants. A comparison of visit experiences did not find differences in difficulty (cognitive load measure) using telehealth-related technologies, changes to visit modality, or reported technical problems during the visit. However, the intervention participants were significantly less satisfied with the video visits.
+Conclusions: Although a limited number of people participated in the intervention, it may have reached individuals more likely to need technology assistance. We postulate that significant differences between intervention and nonintervention participants were rooted in baseline differences between the groups’ education level, technology experience, and technology use frequency; however, small sample sizes limit conclusions. The barriers encountered during the intervention suggest that patients at FQHC may require both improved access to web-based technologies and human intermediary support to make telehealth video visits feasible. Future large, randomized, equity-focused studies should investigate blended strategies to facilitate video visit access."
+  authors: "Antonio M.G., Williamson, A., Kameswaran, V., Beals, A., Ankrah, E., Goulet, S., Wang, Y., Macias, G., Gist, J.J., Brown, L.K., Davis, S., Pillai, S., Buis, Dillahunt, T.R., and Veinot, T.C."
+  mainlink: Marcy_JMIR23
+  resources:
+      - type: pdf
+        link: Marcy_JMIR23
+
+- name: "Equitable Research PRAXIS: A Framework for Health Informatics Methods"
+  pic: medical_info22_thumb
+  abstract: "Objectives: There is growing attention to health equity in health informatics research. However, the literature lacks a comprehensive framework outlining critical considerations for health informatics research with marginalized groups.
+Methods: Literature review and experiences from nine equity-focused health informatics conducted in the United States and Canada. Studies focus on disparities related to age, disability or chronic illness, gender/sex, place of residence (rural/urban), race/ethnicity, sexual orientation, and socioeconomic status.
+Results: We found four key equity-related methodological considerations. To assist informaticists in addressing equity, we contribute a novel framework to synthesize these four considerations: PRAXIS (Participation and Representation, Appropriate methods and interventions, conteXtualization and structural competence, Investigation
+of Systematic differences). Participation and representation refers to the necessity for meaningful participation of marginalized groups in research, to elevate the voices of marginalized people, and to represent marginalized people as they are comfortable (e.g., asset-based versus deficit-based). Appropriate methods and interventions
+mean targeting methods, instruments, and interventions to reach and engage marginalized people. Contextualization and structural competence mean avoiding individualization of systematic disparities and targeting social conditions that (re-)produce inequities. Investigation of systematic differences highlights that experiences of people marginalized according to specific traits differ from those not so marginalized, and thus encourages studying the specificity of these differences and investigating and preventing intervention-generated inequality. We outline guidance for operationalizing these considerations at four research stages.
+Conclusions: This framework can assist informaticists in systematically addressing these considerations in their research in four
+research stages: project initiation; sampling and recruitment; data
+collection; and data analysis. We encourage others to use these insights from multiple studies to advance health equity in informatics."
+  authors: "Veinot, T.C., Clarke, P.J., Romero, D.M., Buis, L.R., Dillahunt, T.R., Vydiswaran, V.V., Beals, A., Brown, L., Richards, O., Williamson, A., and Antonio, M.G."
+  mainlink: medical_info22
+  resources:
+      - type: pdf
+        link: medical_info22
+
+- name: "Toward Everyday Negotiation and Resistance Under Data-Driven Surveillance"
+  pic: lu_ACM22_thumb
+  abstract: "This work asks, How do individuals organize and navigate everyday encounters with data-driven surveillance? Where do the possibilities for negotiation and resistance lie? This article is a call to action for us to denaturalize the tendency to see data-driven surveillance technologies as omnipotent and totalitarian with little to no opportunity for the surveilled to fight for control (or where the surveilled remain docile and disciplined)."
+  authors: "in Proc. ACM'22"
+  mainlink: lu_ACM22
+  resources:
+      - type: pdf
+        link: lu_ACM22
+
+- name: "The Village: Infrastructuring Community-based Mentoring to Support Adults Experiencing Poverty"
+  pic: dillahunt_CHI22_thumb
+  abstract: "Mentorship and other social and relational support have been vital to poverty alleviation and transformative change. It is crucial to understand the underlying factors in the success of mentoring models and subsequent programs to support them. Thus, we conducted a mixed-methods study consisting of longitudinal surveys of community participants followed by semi-structured interviews with 28 community members, eight mentors, and two coaches participating in a community-based mentorship program. Drawing from community-based participatory research in partnership with a nonproft located in a Midwestern United States (U.S.) city, we unpack how the program supported self-sufciency and economic mobility among adults experiencing fnancial hardships. Through an infrastructural lens, we attend to individuals’ infrastructuring work in social support, fexibility, and trust to support a “village” model of community-based mentorship. Our results show how the village model difers from traditional mentorship models that assume dyadic, one-to-one, often didactic, and hierarchical relationships (e.g., expert and protégé, adult and child) and are used primarily in the workplace and educational settings. The village mentorship model advocates for less hierarchical and more balanced relationships in non-institutional settings and fexible communication and technological needs. We discuss new research opportunities and design strategies for rethinking technology-mediated mentorship to support poverty-stricken adults in the U.S."
+  authors: "Dillahunt, T.R., Lu, J.A., Israni, A., Lodha, R. Brewer, S., Robinson, T.S., Wilson A.B., and Wheeler, E. (2022)"
+  mainlink: dillahunt_CHI22
+  resources:
+      - type: pdf
+        link: dillahunt_CHI22
+
+- name: "Trust, reciprocity, and the role of timebanks as intermediaries: Design implications for addressing healthcare transportation barriers"
+  pic: dillahunt_CHI22_thumb
+  abstract: "Millions of Americans forego medical care due to a lack of nonemergency transportation, particularly minorities, older adults, and those who have disabilities or chronic conditions. Our study investigates the potential for using timebanks—community-based voluntary services that encourage exchanges of services for “time dollars” rather than money—in interventions to address healthcare transportation barriers to seed design implications for a future affordable ridesharing platform. In partnership with a timebank and a federally qualifed healthcare center (FQHC), 30 participants completed activity packets and 29 of them attended online workshop sessions. Our fndings suggest that promoting trust between drivers and riders requires systems that prioritize safety and reliability; yet, there were discrepancies in the ability of the timebank and FQHC to moderate trust. We also found that timebank supports reciprocity,but healthcare transportation requires additional support to ensure balanced reciprocity. We explain these fndings drawing from network closure and trust literature. Finally, we contribute design implications for systems that promote trust and facilitate relational over transactional interactions, which help to promote reciprocity and refect participants’ values."
+  authors: "Dillahunt, T.R., Maestre, J.F., Kameswaran, V., Poon, E., Torres, J.O., Gallardo, M., Rasmussen, S.E., Shih, P.C., Bagle, A., Young, S.L.A., and Veinot, T.C. (2022)"
+  mainlink: dillahunt_trust_CHI22
+  resources:
+      - type: pdf
+        link: dillahunt_trust_CHI22
+
+- name: "Examining Mobility among People Living with HIV in Rural Areas"
+  pic: Maestre_CHI21_thumb
+  abstract: "The rise of ridesharing platforms has transformed traditional transportation, making it more accessible for getting to work and accessing grocery stores and healthcare providers, which are essential to physical and mental well-being. However, such technologies are not available everywhere. Additionally, there is a scarcity of HCI work that investigates how vulnerable populations such as rural-dwelling people with HIV face and overcome transportation barriers. To extend past research, we conducted 31 surveys and 18 interviews with people living with HIV (22 surveys, 14 interviews) and their case coordinators (9 surveys, 4 interviews) in rural areas. Contrary to past research, we found that the use of alternative vehicles, extensive support networks, and nonproft health organizations facilitated transportation. However, distance, the lack of trust and infrastructure, stigma, and other cultural underpinnings made popular forms of urban transportation unappealing. We contextualize our fndings with prior research and contribute implications for future research and design."
+  authors: "Maestre, J. F., Dillahunt, T. R., Theisz, A. A., Furness, M., Kameswaran, V., Veinot, T., and Shih, P. C. (2021)"
+  mainlink: Maestre_CHI21
+  resources:
+      - type: pdf
+        link: Maestre_CHI21
+
+- name: "Online Grocery Delivery Services: An Opportunity to Address Food Disparities in Transportation-scarce Areas"
+  pic: Dillahunt_CHI19a_thumb
+  abstract: "
+Online grocery delivery services present new opportunities to address food disparities, especially in underserved areas. However, such services have not been systematically evaluated. This study evaluates such services’ potential to provide healthy-food access and infuence healthy-food purchases among individuals living in transportation-scarce and low-resource areas. We conducted a pilot experiment with 20 participants consisting of a randomly assigned group’s 1-month use of an online grocery delivery service, and a control group’s 1-month collection of grocery receipts, and a set of semi-structured interviews. We found that online grocery delivery services (a) serve as a feasible model to healthy-food access if they are afordable and amenable to multiple payment forms and (b) could lead to healthier selections. We contribute policy recommendations to bolster afordability of healthy-food access and design opportunities to promote healthy foods to support the adoption and use of these services among low-resource and transportation-scarce groups. Health insurance shoppers attempting to find the best health insurance plan for their needs may benefit from reviews of plans left by other consumers; however, these reviews must be fairly detailed in order to be valuable. We posit that an appeal to empathy may motivate consumers to leave more detailed, and thus more valuable, reviews about health insurance plans for future insurance purchasers."
+  authors: "*Best Paper* | Dillahunt, T. R., Simioni, S., and Xu, X. (2019)"
+  mainlink: Dillahunt_CHI19a
+  resources:
+      - type: pdf
+        link: Dillahunt_CHI19a
+
+- name: Using empathy to promote health insurance reviews
+  pic: using_empathy_health_insurance_reviews_thumb
+  abstract: "Health insurance shoppers attempting to find the best health insurance plan for their needs may benefit from reviews of plans left by other consumers; however, these reviews must be fairly detailed in order to be valuable. We posit that an appeal to empathy may motivate consumers to leave more detailed, and thus more valuable, reviews about health insurance plans for future insurance purchasers."
+  authors: "Mishra, S., Ng., S., Dillahunt, T."
+  mainlink: using_empathy_health_insurance_reviews
+  resources:
+      - type: pdf
+        link: using_empathy_health_insurance_reviews

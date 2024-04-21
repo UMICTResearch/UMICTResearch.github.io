@@ -1,10 +1,33 @@
 ##Projects for good health and well being
 
+
+- name: "Targeting Patients’ Cognitive Load for Telehealth Video Visits Through Student-Delivered Helping Sessions at a United States Federally Qualified Health Center: Equity-Focused"
+  pic: Marcy_JMIR23_thumb
+  abstract: "A pilot intervention at a Federally Qualified Health Center (FQHC) used warm accompaniment telehealth sessions to aid patients during the COVID-19 pandemic. Graduate students led sessions to assist with telehealth setup. Results showed that while only a small percentage participated, those who did had lower education and less tech experience. Strategies to reduce cognitive load included step-by-step guidance and building rapport. While no significant differences were found in visit experiences, intervention participants were less satisfied with video visits. The study suggests that patients at FQHC may need better access to technology and human support for telehealth. Future studies should explore blended strategies for equitable telehealth access."
+  authors: "Antonio M.G., Williamson, A., Kameswaran, V., Beals, A., Ankrah, E., Goulet, S., Wang, Y., Macias, G., Gist, J.J., Brown, L.K., Davis, S., Pillai, S., Buis, Dillahunt, T.R., and Veinot, T.C. (2023)"
+  mainlink: Marcy_JMIR23
+  impact: "| In Proc. of the CHI'23 Conference on Human Factors in Computing Systems |"
+  resources:
+      - type: pdf
+        link: Marcy_JMIR23
+
+
+- name: "Understanding Food Planning Strategies of Food Insecure Populations: Implications for Food-Agentic Technologies"
+  pic: dillahunt_CHI23_thumb
+  abstract: "To identify technological opportunities to better support nutrition security and equality among those living in low-socioeconomic situations, we conducted 33 semi-structured interviews and seven in-home visits of lower- to middle-income households from a midsized city in northern Indiana. Inspired by assets-based approaches to public health, we investigated technology’s role in supporting how participants selected and purchased food, planned meals, and worked through logistical barriers to obtain food. Technology helped and health-related insights to address diet and health concerns, and share information. We contribute design implications (e.g., amplifying optimization behaviors and social engagement, leveraging substitutions) in support of food agency. We further contribute three emergent archetypes to convey central shopping tendencies (i.e.,inventory shoppers, menu planners, and adaptive shoppers) and identify corresponding design implications. We situate our results into nutrition decision-making and education, social psychology, food consumer studies, and HCI literature."
+  authors: "Dillahunt, T.R., Sawwan, M., Wood, D., Wimer, B.L., Conrado, A.M., Miller, H.E., Gura, A.Z., and Metoyer, R. (2023)"
+  mainlink: dillahunt_CHI23
+  impact: "| Published in National Library of Medicine, Vol 25 |"
+  resources:
+      - type: pdf
+        link: dillahunt_CHI23
+
 - name: "Trust, reciprocity, and the role of timebanks as intermediaries: Design implications for addressing healthcare transportation barriers"
   pic: dillahunt_trust_CHI22_thumb
   abstract: "Millions of Americans forego medical care due to a lack of nonemergency transportation, particularly minorities, older adults, and those who have disabilities or chronic conditions. Our study investigates the potential for using timebanks—community-based voluntary services that encourage exchanges of services for “time dollars” rather than money—in interventions to address healthcare transportation barriers to seed design implications for a future affordable ridesharing platform. In partnership with a timebank and a federally qualifed healthcare center (FQHC), 30 participants completed activity packets and 29 of them attended online workshop sessions. Our fndings suggest that promoting trust between drivers and riders requires systems that prioritize safety and reliability; yet, there were discrepancies in the ability of the timebank and FQHC to moderate trust. We also found that timebank supports reciprocity,but healthcare transportation requires additional support to ensure balanced reciprocity. We explain these fndings drawing from network closure and trust literature. Finally, we contribute design implications for systems that promote trust and facilitate relational over transactional interactions, which help to promote reciprocity and refect participants’ values."
   authors: "Dillahunt, T.R., Maestre, J.F., Kameswaran, V., Poon, E., Torres, J.O., Gallardo, M., Rasmussen, S.E., Shih, P.C., Bagle, A., Young, S.L.A., and Veinot, T.C. (2022)"
   mainlink: dillahunt_trust_CHI22
+  impact: "| In Proc. of the CHI'22 Conference on Human Factors in Computing Systems |"
   resources:
       - type: pdf
         link: dillahunt_trust_CHI22
@@ -19,59 +42,40 @@ mean targeting methods, instruments, and interventions to reach and engage margi
 Conclusions: This framework can assist informaticists in systematically addressing these considerations in their research in four
 research stages: project initiation; sampling and recruitment; data
 collection; and data analysis. We encourage others to use these insights from multiple studies to advance health equity in informatics."
-  authors: "Veinot, T.C., Clarke, P.J., Romero, D.M., Buis, L.R., Dillahunt, T.R., Vydiswaran, V.V., Beals, A., Brown, L., Richards, O., Williamson, A., and Antonio, M.G."
+  authors: "Veinot, T.C., Clarke, P.J., Romero, D.M., Buis, L.R., Dillahunt, T.R., Vydiswaran, V.V., Beals, A., Brown, L., Richards, O., Williamson, A., and Antonio, M.G. (2022)"
   mainlink: medical_info22
+  impact: "| Published in National Library of Medicine 2023 |"
   resources:
       - type: pdf
         link: medical_info22
-
-- name: "Targeting Patients’ Cognitive Load for Telehealth Video Visits Through Student-Delivered Helping Sessions at a United States Federally Qualified Health Center: Equity-Focused"
-  pic: Marcy_JMIR23_thumb
-  abstract: "Background: The task complexity involved in connecting to telehealth video visits may disproportionately impact health care access in populations already experiencing inequities. Human intermediaries can be a strategy for addressing health care access disparities by acting as technology helpersto reduce the cognitive load demands required to learn and use patient-facing telehealth
-technologies.
-Objective: We conducted a cognitive load theory–informed pilot intervention involving warm accompanimenttelehealth helping sessions with patients at a Federally Qualified Health Center (FQHC). We demonstrate how to design and report recruitment methods, reach, delivery process, and the preliminary impact of a novel equity-focused intervention.
-Methods: Early into the COVID-19 pandemic a telehealth helping session was offered to patients at FQHC via phone. Graduate students led the sessions on conducting a telehealth video test run or helping with patient portal log-in. They systematically recorded their recruitment efforts, intervention observations, and daily reflection notes. Following the intervention, we asked the intervention participants to participate in an interview and all patients who had telehealth visits during and 4 weeks before and after the intervention period to complete a survey. Electronic health records were reviewed to assess telehealth visit format changes. Descriptive and inferential statistical analyses of the recruitment records, electronic health record data, and surveys were performed. Through integrative analysis, we developed process-related themes and recommendations for future equity-focused telehealth interventions.
-Results: Of the 239 eligible patients, 34 (14.2%) completed the intervention and 3 (1.2%) completed subsequent interviews. The intervention participants who completed the survey (n=15) had lower education and less technological experience than the nonintervention survey participants (n=113). We identified 3 helping strategies for cognitive load reduction: providing step-by-step guidance for configuring and learning, building rapport to create confidence while problem-solving, and being on the same page to counter informational distractions. Intervention participants reported increased understanding but found that learning the video visit software was more difficult than nonintervention participants. A comparison of visit experiences did not find differences in difficulty (cognitive load measure) using telehealth-related technologies, changes to visit modality, or reported technical problems during the visit. However, the intervention participants were significantly less satisfied with the video visits.
-Conclusions: Although a limited number of people participated in the intervention, it may have reached individuals more likely to need technology assistance. We postulate that significant differences between intervention and nonintervention participants were rooted in baseline differences between the groups’ education level, technology experience, and technology use frequency; however, small sample sizes limit conclusions. The barriers encountered during the intervention suggest that patients at FQHC may require both improved access to web-based technologies and human intermediary support to make telehealth video visits feasible. Future large, randomized, equity-focused studies should investigate blended strategies to facilitate video visit access."
-  authors: "Antonio M.G., Williamson, A., Kameswaran, V., Beals, A., Ankrah, E., Goulet, S., Wang, Y., Macias, G., Gist, J.J., Brown, L.K., Davis, S., Pillai, S., Buis, Dillahunt, T.R., and Veinot, T.C."
-  mainlink: Marcy_JMIR23
-  resources:
-      - type: pdf
-        link: Marcy_JMIR23
-
-
-- name: "Understanding Food Planning Strategies of Food Insecure Populations: Implications for Food-Agentic Technologies"
-  pic: dillahunt_CHI23_thumb
-  abstract: "To identify technological opportunities to better support nutrition security and equality among those living in low-socioeconomic situations, we conducted 33 semi-structured interviews and seven in-home visits of lower- to middle-income households from a midsized city in northern Indiana. Inspired by assets-based approaches to public health, we investigated technology’s role in supporting how participants selected and purchased food, planned meals, and worked through logistical barriers to obtain food. Technology helped and health-related insights to address diet and health concerns, and share information. We contribute design implications (e.g., amplifying optimization behaviors and social engagement, leveraging substitutions) in support of food agency. We further contribute three emergent archetypes to convey central shopping tendencies (i.e.,inventory shoppers, menu planners, and adaptive shoppers) and identify corresponding design implications. We situate our results into nutrition decision-making and education, social psychology, food consumer studies, and HCI literature."
-  authors: "Dillahunt, T.R., Sawwan, M., Wood, D., Wimer, B.L., Conrado, A.M., Miller, H.E., Gura, A.Z., and Metoyer, R."
-  mainlink: dillahunt_CHI23
-  resources:
-      - type: pdf
-        link: dillahunt_CHI23
 
 - name: "Examining Mobility among People Living with HIV in Rural Areas"
   pic: Maestre_CHI21_thumb
   abstract: "The rise of ridesharing platforms has transformed traditional transportation, making it more accessible for getting to work and accessing grocery stores and healthcare providers, which are essential to physical and mental well-being. However, such technologies are not available everywhere. Additionally, there is a scarcity of HCI work that investigates how vulnerable populations such as rural-dwelling people with HIV face and overcome transportation barriers. To extend past research, we conducted 31 surveys and 18 interviews with people living with HIV (22 surveys, 14 interviews) and their case coordinators (9 surveys, 4 interviews) in rural areas. Contrary to past research, we found that the use of alternative vehicles, extensive support networks, and nonproft health organizations facilitated transportation. However, distance, the lack of trust and infrastructure, stigma, and other cultural underpinnings made popular forms of urban transportation unappealing. We contextualize our fndings with prior research and contribute implications for future research and design."
   authors: "Maestre, J. F., Dillahunt, T. R., Theisz, A. A., Furness, M., Kameswaran, V., Veinot, T., and Shih, P. C. (2021)"
   mainlink: Maestre_CHI21
+  impact: "| In Prc. of CHI'21 Conference on Human Factors in Computing Systems |"
   resources:
       - type: pdf
         link: Maestre_CHI21
+
+- name: "Engaging Offline Communities Online Amid COVID-19: A Case Study of Independent Theaters"
+  pic: Ankenbauer_CSCWposter20_thumb
+  abstract: "COVID-19 has been detrimental to small businesses like independent theaters that exist to engage with the public offline. Independent theaters across the US have temporarily closed their doors and turned to various technologies to increase their virtual presence and (re)connect with their communities online. We present an investigation into theaters’ strategies of 1) attracting existing patrons, 2) encouraging commitment, and 3) fostering contribution in an unforeseen public health crisis where face-to-face interactions are no longer possible. Our results suggest that emphasizing shared identity and relying on technologies to facilitate new forms of interactions that were not available offline are critical to the migration of offline community to online settings."
+  # abstract: "In ACM CSCW'20 Companion"
+  authors: "Ankenbauer, S. and Lu, A. (2020)"
+  impact: "| In Proc. of CSCW '20 Companion Conference on Computer Supported Cooperative Work and Social Computing |"
+  mainlink: Ankenbauer_CSCWposter20
+  resources:
+    - type: pdf
+      link: Ankenbauer_CSCWposter20
 
 - name: "Getting There: Barriers and Facilitators to Transportation Access in Underserved Communities"
   pic: Dillahunt_TOCHI18_thumb
   abstract: "Advances in Information and Communication Technologies (ICTs) offer new opportunities for addressing transportation needs; however, past research suggests that opportunities are not equally shared by millions of low-income Americans. We draw from four empirical studies and two case studies to contribute descriptions of the 11 everyday transportation models currently used by residents of low-income and underserved communities to enhance their access to health-enhancing resources. These models fell into personal, private, public, and interpersonal categories. We contribute insights regarding the following barriers and facilitators associated with these models: (1) affordability; (2) individual capabilities; (3) interpersonal trust, care and/or reciprocity; (4) trust in technology; (5) service availability/eligibility; (6) spatial and temporal matches; (7) match between transportation mode and physical needs; (8) service reliability and quality; and (9) infrastructure access. To address these barriers and build on these facilitators, we contribute six supportive policy and design principles. Operationalizing these principles, we propose four new ICT-enhanced models: (1) smart jitneys; (2) generalized, favor-based models; (3) expanded resource pooling; and (4) transportation clubs. The focus of these models on socio-technical integration with current capabilities and resources holds promise for enhancing access to jobs, food, and health care for residents of low-income communities."
   authors: "Dillahunt, T. R. and Veinot, T. C. (2018)"
   mainlink: Dillahunt_TOCHI18
+  impact: " | In Proc. of ACM'18 Transactions on Computer-Human Interaction |"
   resources:
     - type: pdf
       link: Dillahunt_TOCHI18
-
-- name: "Engaging Offline Communities Online Amid COVID-19: A Case Study of Independent Theaters"
-  pic: Ankenbauer_CSCWposter20_thumb
-  abstract: "In ACM CSCW'20 Companion"
-  authors: "Ankenbauer, S. and Lu, A."
-  mainlink: Ankenbauer_CSCWposter20
-  resources:
-    - type: pdf
-      link: Ankenbauer_CSCWposter20

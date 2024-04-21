@@ -2,8 +2,21 @@
 
 - name: "Coding Bias in the Use of Behavior Management Technologies: Uncovering Socio-technical Consequences of Data-driven Surveillance in Classrooms"
   pic: Lu_DIS21_thumb
-  abstract: "*Honorable Mention* | In Proc. of DIS'21"
-  authors: "Lu, A. J., Marcu, G., Ackerman, M. S., and Dillahunt, T. R."
+  abstract: "Digital educational technologies have been employed in classrooms
+to collect students’ behavioral data in the hope of supporting teachers in identifying and correcting undesirable behaviors, which raises
+the concern of heightened surveillance in classrooms. We present a
+qualitative study of 20 K-8 teachers to understand their experiences
+and practices of using ClassDojo, a data-driven classroom behavior
+management intervention. Our analysis reveals a series of unintended socio-technical effects resulting from the use of ClassDojo in
+practice. In particular, the use of ClassDojo runs the risk of measuring, codifying, and simplifying the nuanced psycho-social factors
+that may drive children’s behavior and performance, thereby serving as a “Band-Aid” for deeper issues. We discuss how this process
+could perpetuate existing inequality and bias in education. With the
+goals of spurring future design and mitigating these unintended effects, we take on the reflexive-interventionist approach and propose
+three considerations for designing and using future educational
+technologies: 1) provide context, 2) expose bias, and 3) challenge
+and reimagine what is normal"
+  impact: "*Honorable Mention* | In Proc. of the CHI '21 Conference on Human Factors in Computing Systems |"
+  authors: "Lu, A. J., Marcu, G., Ackerman, M. S., and Dillahunt, T. R. (2021)"
   mainlink: Lu_DIS21
   resources:
     - type: pdf
@@ -11,8 +24,22 @@
 
 - name: "Eliciting Tech Futures Among Black Young Adults: A Case Study of Remote Speculative Co-Design"
   pic: Harrington_CHI21_thumb
-  abstract: "In Proc. of CHI'21"
-  authors: "Harrington, C. N. and Dillahunt, T. R."
+  abstract: "The question of who gets to contribute to design futures and technology innovation has become a topic of conversation across HCI,
+CSCW, and other computing communities. This conversation has
+grave implications for communities that often fnd themselves an
+afterthought in technology design, and who coincidentally could
+beneft most from technological interventions in response to societal oppression. To explore this topic, we examined “futuring”
+through co-designed speculative design fctions as methods to envision utopian and dystopian futures. In a case study, we examined
+technology’s role in the imagined futures of youth participants of a
+Chicago summer design program. We highlight emerging themes
+and contribute an analysis of remote co-design through an Afrofuturism lens. Our analysis shows that concepts of utopian futures
+and technologies to support those futures are still heavily laden
+with dystopian realities of racism and poverty. We discuss ways
+that speculative design fctions and futuring can serve to address
+inclusivity in concept generation for new technologies, and we provide recommendations for conducting design techniques remotely
+with historically excluded populations."
+  impact: "| In Proc. of CHI'21 Conference on Human Factors in Computing Systems |"
+  authors: "Harrington, C. N. and Dillahunt, T. R. (2021)"
   mainlink: Harrington_CHI21
   resources:
     - type: pdf
@@ -20,8 +47,17 @@
 
 - name:  "Learning for the Rise of China': Exploring Uses and Gratifications of State-Owned Online Platform"
   pic: Lu_PACMHCI20_thumb
-  abstract: "In Proc. ACM'20 Hum.-Comput. Interact. 4, CSCW 1"
-  authors: "Lu, A. and Xu, X."
+  abstract: "In January 2019, the Chinese Communist Party launched the online platform XueXi QiangGuo, which translates
+into “Learning for the Rise of China.” Within two months, XueXi became the top-downloaded item of the
+month on Apple’s App Store in China. In response, we conducted an interview study with 28 active XueXi
+users to investigate their uses and gratifications of this state-owned online platform. Our results reveal seven
+key motivations: compliance, self-status seeking, general information seeking, job support, entertainment,
+patriotism, and learning. This state-owned platform introduced a new model for official information dissemination and political communication through direct surveillance and monitoring, leveraging and fostering
+emotional attachment, and offering heterogeneous apolitical content. We discuss the intended and unintended
+ramifications of these components, highlighting the importance of future CSCW research to critically engage
+with pluralist political narratives situated in varied societies, especially non-Western democracies."
+  impact: "| In Proc. of ACM'20 Conference on Human Computer Interaction CSCW 1 |"
+  authors: "Lu, A. and Xu, X. (2020)"
   mainlink: Lu_PACMHCI20
   resources:
     - type: pdf
