@@ -28,13 +28,6 @@
     - title: globe
       url: https://sylviadarli.ng/
 
-- name: Mila Filipof
-  pic: mila
-  position: MSI
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/milafilipof591/
-
 - name: Alex Lu
   pic: alexlu
   position: UMSI Ph.D. Student (MSI Alum)
@@ -77,38 +70,6 @@
     - title: globe
       url: https://www.bridgitjung.com/
 
-- name: Soyoung Lee
-  pic: soyolee
-  position: UMSI Ph.D. Student (MSI Alum)
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/soyoung-lee-64434710a/
-
-- name: Alex Lu 
-  pic: alexlu
-  position: UMSI Ph.D. Student (MSI Alum)
-  social:
-    - title: globe
-      url: https://www.alexlu.me/
-    - title: linkedin
-      url: https://www.linkedin.com/in/lujiahong
-
-- name: Cameron Moy
-  pic: moy
-  position: UMSI undergrad,Minor in Social Class and Inequality and Music
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/cameronmoy/
-
-- name: Denny L. Starks
-  pic: denny
-  position: UMSI Ph.D. Student (UM Alum)
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/dennylstarks/
-    - title: globe
-      url: https://www.dennystarks.com/
-
 - name: Mila Filipof
   pic: mila
   position: UMSI Graduate student
@@ -133,4 +94,3 @@
       url: https://www.linkedin.com/in/srishti-bijjur/
     - title: globe
       url: https://www.sbijjur.com/
-
