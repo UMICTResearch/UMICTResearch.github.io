@@ -3,8 +3,7 @@
 - name: "Watched, but Moving: Platformization of Beauty Work and Its Gendered Mechanisms of Control"
   pic: Anwar_PACMHCI20_thumb
   abstract: "Women gig workers face unique challenges in on-demand platforms as gendered aspects of class, caste, and labor participation intersect with moments of control experienced on the job. Through in-depth interviews with 19 beauty workers on on-demand home service platforms, we explore how the platformization of informal beauty work in India has ruptured dominant socio-cultural structures of control that have traditionally shaped women’s mobility and access to work. This paper maps the ways in which women beauty gig workers experience and are impacted by algorithmic and bureaucratic management practices prevalent in the gig economy, in the context of home service platforms in Bangalore. We find that platform control impacts lives in myriad ways, beyond the conditions of work. Women workers negotiate their identities and sense of agency through the visibility afforded by platform control mechanisms. Yet, despite these subversions, being on a platform does not fundamentally change the socio-cultural logic that restricts women’s lives in India. These mechanisms work to entrench power asymmetries between customers and workers, as well as maintain them between the platform and the worker."
-  authors: "Anwar, I. A., Pal, J., and Hui, J. (2021)"
-  impact: "| In Proc. of the ACM'21 Conference on Human Compurt Interaction, CSCW3 |"
+  authors: "Anwar, I. A., Pal, J., and Hui, J. (2020)"
   mainlink: Anwar_PACMHCI20
   resources:
     - type: pdf
@@ -13,10 +12,8 @@
 - name: "Designing Technology to Support Safety for Transgender Women & NonBinary People of Color"
   pic: Starks_DIS19_thumb
   abstract: "This work provides a preliminary understanding of how transgender women and non-binary people of color experience violence and manage safety, and what opportunities exist for HCI to support the safety needs of this community. We conducted nine interviews to understand how participants practice safety and what role technology played, if any, in these experiences. Interviewees expressed physical and psychological safety concerns, and managed safety by informing friends of their location using digital technologies, making compromises, and avoiding law enforcement. We designed U-Signal, a wearable technology and accompanying smartphone application prototype to increase physical safety and decrease safety concerns,reduce violence, and help build community. "
-  authors: "Dillahunt, T. R., Starks, D.L, Haimison, O.L (2019)"
-  impact: "| In  DIS '19 Companion Conference on Designing Interactive Systems Conference |"
-  mainlink: Anwar_PACMHCI20
+  authors: "Dillahunt, T. R., Starks, D.L, Haimison, O.L"
+  mainlink: Starks_DIS19
   resources:
     - type: pdf
       link: Starks_DIS19
-
