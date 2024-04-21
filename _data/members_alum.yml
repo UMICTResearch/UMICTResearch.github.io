@@ -14,15 +14,13 @@
 
 - name: Ihudiya Finda Ogbonnaya-Ogburu
   pic: finda
-<<<<<<< Updated upstream
   position: UMSI Ph.D. Student
     social:
     - title: globe
       url:  http://www.ihudiyaogburu.com
-=======
+
   position: UMSI Ph.D. Alum
   social:
->>>>>>> Stashed changes
     - title: linkedin
       url: https://www.linkedin.com/in/ihudiyaogburu/
     - title: globe
@@ -81,11 +79,7 @@
 
 - name: Pratik Mangtani
   pic: pratik
-<<<<<<< Updated upstream
-  position: UMSI MSI Alum
-=======
   position: UM MSI Alum
->>>>>>> Stashed changes
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/pratikmangtani/
@@ -96,11 +90,7 @@
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/xinrui-cindy-zhao/
-<<<<<<< Updated upstream
-      
-=======
 
->>>>>>> Stashed changes
 - name: Amelia Duffy
   pic: ameliadu
   position: UM Undergradate Alum
@@ -110,22 +100,14 @@
 
 - name: Anshika Saxena
   pic: anshika
-<<<<<<< Updated upstream
-  position: UMSI MSI Alum
-=======
   position: UM MSI Alum
->>>>>>> Stashed changes
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/saxenanshika/
 
 - name: Anandita Aggarwal
   pic: aanandit
-<<<<<<< Updated upstream
-  position: UMSI Master Alum
-=======
   position: UM MSI Alum
->>>>>>> Stashed changes
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/anandita-aggarwal/
@@ -145,11 +127,8 @@
 
 - name: Brittney Atkinson-McFarlane
   pic: brittney
-<<<<<<< Updated upstream
   position: Former NSF REU, Cornell University Student
-=======
   position: NSF REU Alum, Cornell University Student
->>>>>>> Stashed changes
   social:
       - title: linkedin
         url: https://www.linkedin.com/in/brittneymcfarlane
@@ -217,11 +196,7 @@
 
 - name: Asha Chen-Phang
   pic: asha
-<<<<<<< Updated upstream
-  position: Former NSF REU, Northeastern University Student
-=======
   position: NSF REU Alum, Northeastern University Student
->>>>>>> Stashed changes
   social:
       - title: linkedin
         url: https://www.linkedin.com/in/ashacp
@@ -269,11 +244,7 @@
 
 - name: Anna Gilhool
   pic: annakgil
-<<<<<<< Updated upstream
-  position: UMSI MSI Alum
-=======
   position: UM MSI Alum
->>>>>>> Stashed changes
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/anna-gilhool-5bb137160/
@@ -298,8 +269,6 @@
       url: http://www.marcyheld.com
 
 
-<<<<<<< Updated upstream
-=======
 - name: Joey Chiao-Yin Hsiao
   pic: joey
   position: UMSI Ph.D. Alum
@@ -310,7 +279,6 @@
       url: https://www.joeyhsiao.info/
 
 
->>>>>>> Stashed changes
 - name: Benjamin Jen
   pic: benjamin
   position: UROP Student, LSA Alum
@@ -338,11 +306,7 @@
 
 - name: Malavika Krishnamachari
   pic: malakchari
-<<<<<<< Updated upstream
-  position: Former High School Student/Visiting Research Assistant
-=======
   position: High School Student/Visiting Research Assistant Alum
->>>>>>> Stashed changes
 
 - name: Saebom April Kwon
   pic: april
@@ -407,11 +371,7 @@
 
 - name: Sadhana Ramaseshadri
   pic: sadhanar
-<<<<<<< Updated upstream
-  position: UMSI MSI Alum
-=======
   position: UM MSI Alum
->>>>>>> Stashed changes
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/sadhana-ramaseshadri/
@@ -423,11 +383,7 @@
 
 - name: Kaushal Solanki
   pic: ksolanki
-<<<<<<< Updated upstream
-  position: UMSI MSI Alum
-=======
   position: UM MSI Alum
->>>>>>> Stashed changes
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/kaushalpsolanki/
@@ -453,11 +409,7 @@
 
 - name: Jaleesa Rosario Turner
   pic: jaleesa
-<<<<<<< Updated upstream
   position: UM MSI Alum/REMS
-=======
-  position: UMSI Student/REMS Alum
->>>>>>> Stashed changes
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/jaleesa-rosario-turner-b6b58a5a/
@@ -474,11 +426,7 @@
 
 - name: Alice Wang
   pic: aliceinw
-<<<<<<< Updated upstream
-  position: UMSI MSI Alum
-=======
   position: UM MSI Alum
->>>>>>> Stashed changes
   social:
     - title: globe
       url: https:https://www.notion.so/Welcome-to-Alice-s-Wonderland-8f4356cb80b241cea166e21cb9f3701f
