@@ -4,37 +4,11 @@
   pic: tawanna
   position: "Principal Investigator, Team Lead |<br /> UMSI Associate Professor"
   social:
-    - title: globe
-      url: http://www.tawannadillahunt.com
     - title: linkedin
       url: https://www.linkedin.com/pub/tawanna-dillahunt/82/866/a77
-
-
-- name: Shruti Sannon
-  pic: shruti
-  position: Postdoctoral Computing Innovation Fellow
-  social:
     - title: globe
-      url: http://shrutisannon.com
-    - title: linkedin
-      url: http://linkedin.com/in/sannon/
+      url: http://www.tawannadillahunt.com
 
-
-- name: Vaishnav Kameswaran
-  pic: vaishnav
-  position: UMSI Ph.D. Student (MSI Alum)
-  social:
-    - title: globe
-      url: http://www.vaishnavk.com
-
-- name: Ihudiya Finda Ogbonnaya-Ogburu
-  pic: finda
-  position: UMSI Ph.D. Student
-  social:
-    - title: globe
-      url:  http://www.ihudiyaogburu.com
-    - title: linkedin
-      url: https://www.linkedin.com/in/ihudiyaogburu/
 
 - name: Aarti Israni
   pic: aarti
@@ -42,10 +16,10 @@
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/aartiisrani
-    - title: global
+    - title: globe
       url: http://www.aartiisrani.com/
 
-- name: Sylvia Darling 
+- name: Sylvia Darling
   pic: sylvia
   position: UMSI Ph.D. Student (MSI Alum)
   social:
@@ -54,14 +28,15 @@
     - title: globe
       url: https://sylviadarli.ng/
 
-- name: Alex Lu (MSI Alum)
+- name: Alex Lu
   pic: alexlu
   position: UMSI Ph.D. Student (MSI Alum)
   social:
-    - title: globe
-      url: https://www.alexlu.me/
     - title: linkedin
       url: https://www.linkedin.com/in/lujiahong
+    - title: globe
+      url: https://www.alexlu.me/
+
 
 - name: Soyoung Lee
   pic: soyolee
@@ -72,7 +47,7 @@
 
 - name: Denny L. Starks
   pic: denny
-  position: UMSI undergrad,  Minor in Art & Design
+  position: UM Ph.D. student (MSI Alum)
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/dennylstarks/
@@ -81,14 +56,14 @@
 
 - name: Cameron Moy
   pic: moy
-  position: UMSI undergrad,Minor in Social Class and Inequality and Music
+  position: UMSI undergrad, Minor in Social Class and Inequality and Music
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/cameronmoy/
 
 - name: Bridgit Jung
-  pic: bridgit
-  position: UMSI undergrad,  Minor in Art & Design
+  pic: bridgit 1
+  position: UMSI Undergraduate student,  Minor in Art & Design
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/bridgit-jung/
@@ -97,7 +72,25 @@
 
 - name: Mila Filipof
   pic: mila
-  position: MSI
+  position: UMSI Graduate student
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/milafilipof591/
+
+- name: Jared Katzman
+  pic: jared
+  position: UM Ph.D. Student
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jaredleekatzman/
+    - title: globe
+      url: https://jaredleekatzman.com/
+
+- name: Srishti Bijjur
+  pic: srishti
+  position: UM MSI Student
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/srishti-bijjur/
+    - title: globe
+      url: https://www.sbijjur.com/

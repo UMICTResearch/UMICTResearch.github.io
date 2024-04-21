@@ -6,25 +6,80 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Ongoing Projects</h2>
+                <h4 class="section-heading">We have adopted the<a href="https://sdgs.un.org/goals">17 Sustainable Development Goals (SDGs)</a> as the guiding framework for our group's initiatives. This commitment to the SDGs ensures that our work is in harmony with a worldwide agenda dedicated to addressing the most pressing global issues.</h4>
             </div>
         </div>
         <div class="row row-centered">
+            
+            {% assign post_counters = '' | split: '' %}
+            {% assign post_data = '' | split: '' %}
+
             {% for post in posts %}
-            <div class="col-xs-4 portfolio-item col-centered custom-resp">
-                <a href="{{ post.url }}" class="portfolio-link" >
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content">
-                            <i class="fa fa-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="assets/{{post.datafile}}/thumbnail.jpg" class="img-responsive custom-imgresp" alt="">
-                </a>
-                <div class="portfolio-caption">
-                    <h4><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h4>
-                    <p class="text-muted">{{ post.subtitle }}</p>
-                </div>
-            </div>
+                {% assign counter = 0 %}
+                {% for item in site.data[post.datafile] %}
+                    {% assign counter = counter | plus: 1 %}
+                {% endfor %}
+                {% assign post_counter = counter %}
+                {% assign post_counters = post_counters | push: post_counter %}
+                {% assign post_data = post_data | push: post %}
             {% endfor %}
+
+            {% assign sorted_post_data = '' | split: '' %}
+            {% assign sorted_post_counter = '' | split: '' %}
+            {% assign checked = '' | split: '' %}
+            {% assign n = post_counters.size | minus: 1 %}
+            
+            {% for x in (0..n) %}
+                {% for i in (0..n) %}
+                    {% if checked contains i %}
+                        {% continue %}
+                    {% endif %}
+                    {% assign bigC = post_counters[i] %}
+                    {% assign bigP = post_data[i] %}
+                    {% assign index = i %}
+                    {% for j in (i+1..n) %}
+                        {% if checked contains j %}
+                            {% continue %}
+                        {% endif %}
+                        {% assign nextC = post_counters[j] %}
+                        {% assign nextP = post_data[j] %}
+                        {% if nextC > bigC %}
+                            {% assign bigC = nextC %}
+                            {% assign bigP = nextP %}
+                            {% assign index  = j %}
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+                {% assign checked = checked | push: index %}
+                {% assign sorted_post_data = sorted_post_data | push: bigP %}
+                {% assign sorted_post_counter = sorted_post_counter | push: bigC %}
+            {% endfor %}
+            
+
+
+        {% for post in sorted_post_data %}
+            {% assign counter = sorted_post_counter[forloop.index0] %}
+            {% if counter != 0 %}
+                <div class="col-xs-3 portfolio-item col-centered custom-resp">
+                    <a href="{{ post.url }}" class="portfolio-link" >
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="assets/{{post.datafile}}/thumbnail.jpg" class="img-responsive custom-imgresp" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h4>
+                        <p class="text-muted">{{ post.subtitle }}</p>
+                        <br>
+                        <p class="paper-num-count-text">Number of papers: {{ counter }}</p>
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+
+        
         </div>
     </div>
 </section>

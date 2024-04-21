@@ -1,12 +1,12 @@
 ---
 layout: project
 title: Gender Equality
-subtitle: "Achieve gender equality and empower all women and girls"
+subtitle: "Inform efforts to achieve gender equality and inclusion for LGBTQIA+ people."
 date: 2023-08-26
 thumbnail: image.jpg
 alt: image-alt
 categories: present
 weight: 2
-description: "Achieve gender equality and empower all women and girls"
+description: "Inform efforts to achieve gender equality and inclusion for LGBTQIA+ people."
 datafile: gender-equality
 ---

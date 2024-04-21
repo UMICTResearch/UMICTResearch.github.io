@@ -11,68 +11,96 @@
 #      url: #
 
 
+- name: Ihudiya Finda Ogbonnaya-Ogburu
+  pic: finda
+  position: UMSI Ph.D. Alum
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/ihudiyaogburu/
+    - title: globe
+      url:  http://www.ihudiyaogburu.com
+
+- name: Vaishnav Kameswaran
+  pic: vaishnav
+  position: UMSI Ph.D. Alum
+  social:
+    - title: globe
+      url: http://www.vaishnavk.com
+
+- name: Shruti Sannon
+  pic: shruti
+  position: Postdoctoral Computing Innovation Fellow 
+  social:
+    - title: linkedin
+      url: http://linkedin.com/in/sannon/
+    - title: globe
+      url: http://shrutisannon.com
 
 
 - name: James Lisowski
   pic: jlisowsk
-  position: UM Undergrad
+  position: UM Undergraduate Alum
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/james-watkins-lisowski-247144199/
 
 - name: Pratik Mangtani
   pic: pratik
-  position: UMSI MSI Student
+  position: UM MSI Alum
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/pratikmangtani/
 
 - name: Cindy Zhao
   pic: cindy
-  position: UM Undergrad
+  position: UM Undergraduate Alum
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/xinrui-cindy-zhao/
+
 - name: Amelia Duffy
   pic: ameliadu
-  position: UM Undergrad
+  position: UM Undergradate Alum
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/amelia-d-38657a190
 
 - name: Anshika Saxena
   pic: anshika
-  position: UMSI MSI Student
+  position: UM MSI Alum
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/saxenanshika/
 
 - name: Anandita Aggarwal
   pic: aanandit
-  position: UMSI Master Student
+  position: UM MSI Alum
   social:
-    - title: globe
-      url: https://www.aaggarwa.com/
     - title: linkedin
       url: https://www.linkedin.com/in/anandita-aggarwal/
+    - title: globe
+      url: https://www.aaggarwa.com/
+
 
 - name: Alexis Ashby
   pic: ashbya
   position: UM MSI Alum
   social:
-    - title: globe
-      url: https://www.alexisashby.com/
     - title: linkedin
       url: https://www.linkedin.com/in/alexis-ashby/
+    - title: globe
+      url: https://www.alexisashby.com/
+
 
 - name: Brittney Atkinson-McFarlane
   pic: brittney
-  position: NSF REU, Cornell University Student
+  position: NSF REU Alum, Cornell University Student
   social:
-      - title: globe
-        url: http://branded.me/brittneymc
       - title: linkedin
         url: https://www.linkedin.com/in/brittneymcfarlane
+      - title: globe
+        url: http://branded.me/brittneymc
+
 
 - name: Ameera Ayodeji
   pic: ameera
@@ -85,10 +113,11 @@
   pic: seungjoo
   position: UM MSI Alum
   social:
-    - title: globe
-      url: http://www.davidsjbaek.com/
     - title: linkedin
       url: https://www.linkedin.com/in/davidsjbaek/
+    - title: globe
+      url: http://www.davidsjbaek.com/
+
 
 - name: Jacob Berman
   pic: jacob
@@ -101,19 +130,21 @@
   pic: nishan
   position: UM MSI Alum
   social:
-    - title: globe
-      url: http://nishanbose.com
     - title: linkedin
       url: https://www.linkedin.com/in/nishanbose
+    - title: globe
+      url: http://nishanbose.com
+
 
 - name: Jason Brill
   pic: jasonbrill
-  position: UM CS/Design Undergrad
+  position: UM CS/Design Undergraduate Alum
   social:
-    - title: globe
-      url: http://www-personal.umich.edu/~jlbrill/
     - title: linkedin
       url: https://www.linkedin.com/in/jlbrill/
+    - title: globe
+      url: http://www-personal.umich.edu/~jlbrill/
+
 
 - name: Thaddeus Brown
   pic: thaddeus
@@ -131,12 +162,13 @@
 
 - name: Asha Chen-Phang
   pic: asha
-  position: NSF REU, Northeastern University Student
+  position: NSF REU Alum, Northeastern University Student
   social:
-      - title: globe
-        url: http://www1.coe.neu.edu/~achenpha
       - title: linkedin
         url: https://www.linkedin.com/in/ashacp
+      - title: globe
+        url: http://www1.coe.neu.edu/~achenpha
+
 
 - name: David Cui
   pic: david
@@ -149,14 +181,15 @@
   pic: jonathan
   position: UM MSI Alum
   social:
-      - title: globe
-        url: http://www.jondeheus.com
       - title: linkedin
         url: https://www.linkedin.com/in/jdeheus
+      - title: globe
+        url: http://www.jondeheus.com
+
 
 - name: Suleman Diwan
   pic: suleman
-  position: Developer
+  position: Developer 
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/sulemandiwan
@@ -170,19 +203,20 @@
 
 - name: Indulekha Ghandikota
   pic: indulekha
-  position: UROP Student, EECS
+  position: UROP Student, EECS Alum
   social:
       - title: linkedin
         url: https://www.linkedin.com/in/indulekha-ghandikota-b269aa92
 
 - name: Anna Gilhool
   pic: annakgil
-  position: UMSI MSI Student
+  position: UM MSI Alum
   social:
-    - title: globe
-      url: https://www.annagilhool.com/
     - title: linkedin
       url: https://www.linkedin.com/in/anna-gilhool-5bb137160/
+    - title: globe
+      url: https://www.annagilhool.com/
+
 
 - name: Samarth Gulati
   pic: samarth
@@ -195,24 +229,25 @@
   pic: marcy
   position: UM MSI Alum
   social:
-    - title: globe
-      url: http://www.marcyheld.com
     - title: linkedin
       url: https://www.linkedin.com/in/marcy-held-837917b0/
+    - title: globe
+      url: http://www.marcyheld.com
+
 
 - name: Joey Chiao-Yin Hsiao
   pic: joey
-  position: UMSI Ph.D. Student
+  position: UMSI Ph.D. Alum
   social:
-    - title: globe
-      url: https://www.joeyhsiao.info/
     - title: linkedin
       url: https://www.linkedin.com/in/joeycyhsiao
+    - title: globe
+      url: https://www.joeyhsiao.info/
 
 
 - name: Benjamin Jen
   pic: benjamin
-  position: UROP Student, LSA
+  position: UROP Student, LSA Alum
   social:
     - title: linkedin
       url: https://www.linkedin.com/pub/benjamin-jen/94/4ba/b87
@@ -221,41 +256,43 @@
   pic: jashan
   position: UM MSI Alum
   social:
-    - title: globe
-      url: http://jashank.people.si.umich.edu/index.php
     - title: linkedin
       url: https://www.linkedin.com/in/jashanjit
+    - title: globe
+      url: http://jashank.people.si.umich.edu/index.php
     - title: twitter
       url: http://twitter.com/jashan90
 
 - name: Emory Kimball
   pic: emory
-  position: UM Dearborn Undergrad
+  position: UM Dearborn Undergraduate Alum
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/emory-kimball-738a95143
 
 - name: Malavika Krishnamachari
   pic: malakchari
-  position: High School Student/Visiting Research Assistant
+  position: High School Student/Visiting Research Assistant Alum
 
 - name: Saebom April Kwon
   pic: april
   position: UM MSI Alum
   social:
-    - title: globe
-      url: http://saebomkwon.com
     - title: linkedin
       url: https://www.linkedin.com/in/saebomkwon/
+    - title: globe
+      url: http://saebomkwon.com
+
 
 - name: Jason Lam
   pic: jasonlam
   position: UM MSI Alum
   social:
-    - title: globe
-      url: http://jasonclam.com
     - title: linkedin
       url: https://www.linkedin.com/in/jasonclam/
+    - title: globe
+      url: http://jasonclam.com
+
 
 - name: Eva Li
   pic: eva
@@ -264,17 +301,18 @@
 
 - name: Ruchita Lodha
   pic: ruchital
-  position: UMSI Master Student
+  position: UM MSI Alum
   social:
-    - title: globe
-      url: http://www.ruchitalodha.com/
     - title: linkedin
       url: https://www.linkedin.com/in/ruchitalodha/
+    - title: globe
+      url: http://www.ruchitalodha.com/
+
 
 
 - name: Amy Malone
   pic: amy
-  position: NSF REU Alum, University of Maryland Undergrad
+  position: NSF REU Alum, University of Maryland Undergraduate Student
   social:
     - title: linkedin
       url: https://www.linkedin.com/pub/amelia-malone/60/826/b25
@@ -285,39 +323,38 @@
 
 - name: Hailey Patterson
   pic: hailey
-  position: UROP Student, LSA
+  position: UROP Student, LSA Alum
   social:
      - title: linkedin
        url: https://www.linkedin.com/in/haileypatterson
 
 - name: Pablo-Alejandro Quionones, Ph.D.
   pic: pabloq
-  position: UMSI Alum
+  position: UM MSI Alum
   social:
       - title: globe
         url: http://www.pquinones.com/
 
 - name: Sadhana Ramaseshadri
   pic: sadhanar
-  position: UMSI MSI Student
+  position: UM MSI Alum
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/sadhana-ramaseshadri/
 
 - name: Jessica Salvador
   pic: je
-  position: UMSI REMS, University of Washington
+  position: UMSI REMS Alum, University of Washington
 
 
 - name: Kaushal Solanki
   pic: ksolanki
-  position: UMSI Master Student
+  position: UM MSI Alum
   social:
-    - title: globe
-      url: https://kaushalpsolanki.com/
     - title: linkedin
       url: https://www.linkedin.com/in/kaushalpsolanki/
-
+    - title: globe
+      url: https://kaushalpsolanki.com/
 
 
 - name: Mingda Tang
@@ -331,19 +368,20 @@
   pic: raden
   position: UM MSI Alum
   social:
-    - title: globe
-      url: http://www.radentonev.com
     - title: linkedin
       url: https://www.linkedin.com/in/raden-tonev-3929b227/
+    - title: globe
+      url: http://www.radentonev.com
 
 - name: Jaleesa Rosario Turner
   pic: jaleesa
-  position: UM MSI Student/REMS
+  position: UMSI Student/REMS Alum
   social:
-    - title: globe
-      url: http://www.jaleesarosario.com
     - title: linkedin
       url: https://www.linkedin.com/in/jaleesa-rosario-turner-b6b58a5a/
+    - title: globe
+      url: http://www.jaleesarosario.com
+
 
 - name: Zengguang (Brian) Wang
   pic: brianwang
@@ -354,14 +392,14 @@
 
 - name: Alice Wang
   pic: aliceinw
-  position: UMSI MSI Student
+  position: UM MSI Alum
   social:
     - title: globe
       url: https:https://www.notion.so/Welcome-to-Alice-s-Wonderland-8f4356cb80b241cea166e21cb9f3701f
 
 - name: Earnest Wheeler
   pic: earnest
-  position: UMSI Alum
+  position: UM MSI Alum
 
 - name: Xuecong (Esme) Xu
   pic: esme
