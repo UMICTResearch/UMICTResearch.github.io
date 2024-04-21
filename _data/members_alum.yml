@@ -15,7 +15,7 @@
 - name: Ihudiya Finda Ogbonnaya-Ogburu
   pic: finda
   position: UMSI Ph.D. Student
-    social:
+  social:
     - title: globe
       url:  http://www.ihudiyaogburu.com
 
@@ -127,7 +127,6 @@
 
 - name: Brittney Atkinson-McFarlane
   pic: brittney
-  position: Former NSF REU, Cornell University Student
   position: NSF REU Alum, Cornell University Student
   social:
       - title: linkedin
