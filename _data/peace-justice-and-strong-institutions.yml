@@ -1,0 +1,28 @@
+##Projects for Peace Justice and Strong institutions
+
+- name: "Coding Bias in the Use of Behavior Management Technologies: Uncovering Socio-technical Consequences of Data-driven Surveillance in Classrooms"
+  pic: Lu_DIS21_thumb
+  abstract: "*Honorable Mention* | In Proc. of DIS'21"
+  authors: "Lu, A. J., Marcu, G., Ackerman, M. S., and Dillahunt, T. R."
+  mainlink: Lu_DIS21
+  resources:
+    - type: pdf
+      link: Lu_DIS21
+
+- name: "Eliciting Tech Futures Among Black Young Adults: A Case Study of Remote Speculative Co-Design"
+  pic: Harrington_CHI21_thumb
+  abstract: "In Proc. of CHI'21"
+  authors: "Harrington, C. N. and Dillahunt, T. R."
+  mainlink: Harrington_CHI21
+  resources:
+    - type: pdf
+      link: Harrington_CHI21
+
+- name:  "Learning for the Rise of China': Exploring Uses and Gratifications of State-Owned Online Platform"
+  pic: Lu_PACMHCI20_thumb
+  abstract: "In Proc. ACM'20 Hum.-Comput. Interact. 4, CSCW 1"
+  authors: "Lu, A. and Xu, X."
+  mainlink: Lu_PACMHCI20
+  resources:
+    - type: pdf
+      link: Lu_PACMHCI20

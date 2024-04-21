@@ -11,6 +11,16 @@
 #      url: #
 
 
+
+- name: Ihudiya Finda Ogbonnaya-Ogburu
+  pic: finda
+  position: UMSI Ph.D. Student
+    social:
+    - title: globe
+      url:  http://www.ihudiyaogburu.com
+    - title: linkedin
+      url: https://www.linkedin.com/in/ihudiyaogburu/
+
 - name: Shruti Sannon, Ph.D.
   pic: shruti
   position: Former Postdoctoral Computing Innovation Fellow
@@ -27,16 +37,8 @@
     - title: globe
       url: http://www.vaishnavk.com
 
-- name: Ihudiya Finda Ogbonnaya-Ogburu, Ph.D.
-  pic: finda
-  position: UMSI Alum
-  social:
-    - title: globe
-      url:  http://www.ihudiyaogburu.com
-    - title: linkedin
-      url: https://www.linkedin.com/in/ihudiyaogburu/
 
- name: Joey Chiao-Yin Hsiao, Ph.D.
+- name: Joey Chiao-Yin Hsiao, Ph.D.
   pic: joey
   position: UMSI Alum
   social:
@@ -44,6 +46,7 @@
       url: https://www.joeyhsiao.info/
     - title: linkedin
       url: https://www.linkedin.com/in/joeycyhsiao
+      
 
 - name: James Lisowski
   pic: jlisowsk

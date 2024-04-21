@@ -4,6 +4,10 @@ body {
     color: #{{ site.color.secondary-dark }};
 }
 
+h4.sdg_heading {
+  color: white;
+}
+
 .logo {
 
 }
@@ -76,6 +80,14 @@ h6 {
 section.bg-dark-gray h2.section-heading {
     color: #ffffff;
 }
+
+section.bg-dark-gray h4.section-heading {
+    color: #ffffff;
+    line-height: 30px;
+    text-transform: none;
+    font-weight: normal;
+}
+
 
 .bg-darkest-gray {
     background-color: #222;
@@ -199,6 +211,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand.active {
     color: #{{ site.color.secondary }};
 }
+
 
 .navbar-default .navbar-collapse {
     border-color: rgba(255,255,255,.02);
@@ -411,13 +424,14 @@ section h3.section-subheading {
     margin:40px 0;
     padding: 30px;
     right: 0;
+    height: 450px;
 }
 
 .projects .portfolio-item .portfolio-link {
     display: inline-block;
     position: relative;
     margin: 0;
-    max-width: 400px;
+    max-width: 200px;
     vertical-align: top;
 }
 
@@ -459,14 +473,15 @@ section h3.section-subheading {
 .projects .portfolio-item .portfolio-caption {
     display: inline-block;
     margin: 0;
+    padding-top: 25px;
     max-width: 500px;
-    padding: 0 0 0 25px;
     vertical-align: top;
 }
 
 .projects .portfolio-item .portfolio-caption h4 {
     margin: 0 0 10px;
     text-transform: none;
+
 }
 
 .projects .portfolio-item .portfolio-caption p {

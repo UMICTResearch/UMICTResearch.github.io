@@ -1,0 +1,115 @@
+##Projects for Climate Action
+
+- name: "Understanding factors of successful engagement around energy consumption between and among households"
+  pic: cscw_228_thumb
+  abstract: "An increasing number of researchers are using social engagement techniques such as neighborhood comparison and competition to encourage energy conservation, yet community reception and experience with such systems have not been well studied. We also find that researchers have not thoroughly investigated how different households use these systems and how their uses differ from one another. We explore these questions in a 4-10 month field deployment of a social-energy monitoring application across 15 households, in two distinct locations. We contribute results that describe conditions under which these techniques were effective and ineffective. Our results imply that understanding factors such as a building, or community's layout, context knowledge of community members, accountability and adherence to social norms, trust, and length of residence are key for future design of social-energy applications."
+  authors: Dillahunt, T., Mankoff, J.
+  mainlink: cscw_228
+  resources:
+      - type: pdf
+        link: cscw_228
+
+- name: "Deep Conservation in Urban India and its Implications for the Design of Conservation Technologies"
+  pic: CHI-2013_thumb
+  abstract: "Rapid depletion of fossil fuels and water resources has become an international problem. Urban residential households are among the primary consumers of resources and are deeply affected by resource shortages. Despite the global nature of these problems, most of the solutions being developed to address these issues are based on studies done in the developed world. We present a study of energy, water and fuel conservation practices in urban India. Our study highlights a culture of deep conservation and the results raise questions about the viability of typical solutions such as home energy monitors. We identify new opportunities for design such as point-of-use feedback technologies, modular solutions, distributed energy storage, harnessing by-products and automated load shifting."
+  authors: Shrinivasan, Y., Jain, M., Seetharam, D., Choudhary, A., Huang, E., Dillahunt, T., Mankoff, J.
+  mainlink: CHI-2013
+  resources:
+      - type: pdf
+        link: CHI-2013
+
+- name: "Design implications for social-energy applications"
+  pic: CMU-HCII-12-100_thumb
+  abstract: "CMU-HCII-12-100, SCS, Carnegie Mellon University, Human-Computer Interaction Institute Collection"
+  authors: Dillahunt, T., Mankoff, J.
+  mainlink: CMU-HCII-12-100
+  resources:
+      - type: pdf
+        link: CMU-HCII-12-100
+
+- name: "StepGreen.org: Increasing energy saving behaviors via social networks"
+  pic: StepGreen_thumb
+  abstract: "In Proc. of ICWSM 2010"
+  authors: Mankoff, J., Fussell, S., Dillahunt, T., Glaves, Rachel, Grevet, C., Johnson, M., Matthews, D., Matthews, H.S., McGuire, R., Thompson, R.
+  link: StepGreen
+
+- name: "Understanding Conflict Between Landlords and Tenants: Implications for Energy Sensing and Feedback"
+  pic: fp134-dillahunt_thumb
+  abstract: "Energy use in the home is a topic of increasing interest and concern, and one on which technology can have a significant impact. However, existing work typically focuses on moderately affluent homeowners who have relative autonomy with respect to their home, or does not address socio-economic status, class, and other related issues. For the 30% of the U.S. population who rent their homes, many key decisions regarding energy use must be negotiated with a landlord. Because energy use impacts the bottom line of both landlords and tenants, this can be a source of conflict in the landlord/tenant relationship. Ubicomp technologies for reducing energy use in rental units must engage with landlord/tenant conflicts to be successful. Unfortunately, little detailed knowledge is available about the impact of landlord/tenant conflicts on energy use. We present an analysis of a series of qualitative studies with landlords and tenants. We argue that a consideration of multiple stakeholders, and the power imbalances among them, will drive important new research questions and lead to more widely applicable solutions. The main contribution of our work is a set of open research questions and design recommendations for technologies that may affect and be affected by the conflict between stakeholders around energy use."
+  authors: "T.Dillahunt, J. Mankoff, E. Paulos"
+  mainlink: fp134-dillahunt
+  resources:
+      - type: pdf
+        link: fp134-dillahunt
+
+- name: "It’s Not All About Green: Energy Use in Low-Income Communities"
+  pic: Low-Income_thumb
+  abstract: "Personal energy consumption, specifically home energy consumption such as heating, cooling, and electricity, has been an important environmental and economic topic for decades. Despite the attention paid to this area, few researchers have specifically explored these issues within a community that makes up approximately 30% of U.S. households – those below the federal poverty line. We present a study of 26 low-income households in two very different locations – a small town in the Southern U.S. and a northerly metropolitan area. Through a photo-elicitation study and directed interviews, we explore the relationship between energy saving behaviors, external factors, and users’ intrinsic values and beliefs. Most of our participants are committed to saving energy for non-financial reasons, even when not responsible for paying bills. Challenges to saving energy include safety and lack of control over the environment. We discuss how Ubicomp technologies for saving energy can address some of these challenges."
+  authors: T.Dillahunt, J. Mankoff, E. Paulos, S. Fussell
+  mainlink: Low-Income
+  resources:
+      - type: pdf
+        link: Low-Income
+
+- name: "UbiGreen: investigating a mobile tool for tracking and supporting green transportation habits."
+  pic: UbiGreen_thumb
+  abstract: "In Proc. of CHI 2009"
+  authors: Froehlich, J., Dillahunt, T., Klansja, P., Mankoff, J., Consolvo, S., Harrison, B., Landay, J.
+  mainlink: UbiGreen
+  resources:
+      - type: pdf
+        link: UbiGreen
+
+- name: "Replicating Residential Sustainability Study in Urban India"
+  pic: IndiaEnergyRepliCHI_submitted_thumb
+  abstract: "CHI 2013, Replication Workshop"
+  authors: Jain, M., Shrinivasan, Y., Dillahunt, T.
+  mainlink: IndiaEnergyRepliCHI_submitted
+  resources:
+      - type: pdf
+        link: IndiaEnergyRepliCHI_submitted
+
+- name: "Creating Resilient Communities for Post-Sustainable Times"
+  pic: Dillahunt_postsustainability_v10_final_thumb
+  abstract: "Proceedings of the 31st international conference on Human factors in computing systems, Post-Sustainability Workshop, 2013, Paris, France"
+  authors: Dillahunt, T.
+  mainlink: Dillahunt_postsustainability_v10_final
+  resources:
+      - type: pdf
+        link: Dillahunt_postsustainability_v10_final
+
+- name: "Reducing Children’s Psychological Distance from Climate Change via Eco-feedback Technologies"
+  pic: Dillahunt_IJCCI17_thumb
+  abstract: "International Journal of Child-Computer Interaction, Volume 13, 2017"
+  authors: "Dillahunt, T., Lyra, O., Barreto, M., and Karapanos, E."
+  mainlink: Dillahunt_IJCCI17
+  resources:
+      - type: pdf
+        link: Dillahunt_IJCCI17
+
+- name: "Toward a Deeper Understanding of Sustainability within HCI"
+  pic: Dillahunt-sustainability-workshop-2014-finalonwebsite_thumb
+  abstract: "CHI 2014, Workshop on Sustainability. What Have We Learned?"
+  authors: "Dillahunt, T."
+  mainlink: Dillahunt-sustainability-workshop-2014-finalonwebsite
+  resources:
+      - type: pdf
+        link: Dillahunt-sustainability-workshop-2014-finalonwebsite
+
+- name: "StepGreen.org: Increasing energy saving behaviors via social networks"
+  pic: StepGreen_thumb
+  abstract: "In Proc. of ICWSM 2010"
+  authors: Mankoff, J., Fussell, S., Dillahunt, T., Glaves, Rachel, Grevet, C., Johnson, M., Matthews, D., Matthews, H.S., McGuire, R., Thompson, R.
+  mainlink: StepGreen
+  resources:
+      - type: pdf
+        link: StepGreen
+
+- name: "Next steps for sustainable HCI"
+  pic: p66-silberman_thumb
+  abstract: "Interactions, September – October 2014"
+  authors: "Silberman, M.S., Nathan, L., Knowles, B., Bendor, R., Clear, A., Håkansson, Dillahunt, T., Mankoff, J."
+  mainlink: p66-silberman
+  resources:
+      - type: pdf
+        link: p66-silberman

@@ -1,10 +1,15 @@
 # Papers
-
 - name: "Eliciting Alternative Economic Futures with Working-Class Detroiters: Centering Afrofuturism in Speculative Design"
   pic: dilhaunt_ACMDIS23_thumb
   abstract: "To appear in Proc. ACM DIS'23"
   authors: "Dillahunt, T.R., Lu, A.J.,Velazquez, J."
   link: dilhaunt_ACMDIS23
+
+- name: "Community Tech Workers: Scaffolding Digital Engagement Among Underserved Minority Businesses"
+  pic: Julie_ACM23_thumb
+  abstract: "In Proc. of ACM on Human-Computer InteractionVolume 7Issue CSCW2Article No.: 331pp 1–25"
+  authors: "Hui, J., Seefeldt, K.,Baer, C., Sanifu,L.,Jackson, A.,Dillahunt, T.R"
+  link: Julie_ACM23
 
 - name: "Participatory Noticing through Photovoice: Engaging Arts- and Community-Based Approaches in Design Research"
   pic: lu_ACMDIS23_thumb
@@ -215,6 +220,13 @@
   abstract: "In Proc. ACM'19 Hum.-Comput. Interact. 3, CSCW"
   authors: "Li, L., Dillahunt, T. R., and Rosenblat, T."
   link: Li_PACMHCI19
+
+
+- name: "Designing Technology to Support Safety for Transgender Women & NonBinary People of Color"
+  pic: Starks_DIS19_thumb
+  abstract: "In Proc. (DIS) ’19 Companion"
+  authors: "Dillahunt, T. R., Starks, D.L, Haimison, O.L"
+  link: Starks_DIS19
 
 - name: "Designing Technology to Support Safety for Transgender Women & NonBinary People of Color"
   pic: dennyDIS19_thumb
@@ -435,7 +447,7 @@
 - name: "Learn with Friends: The Effects of Student Face-to-Face Collaborations on Massive Open Online Course Activities"
   pic: p241-brooks_thumb
   abstract: "In Proc. of Learning at Scale 2015"
-  authors: Brooks, C., Stalburg, C., Dillahunt, T., Robert, L
+  authors: "Brooks, C., Stalburg, C., Dillahunt, T., Robert, L"
   link: p241-brooks
 
 - name: "Next steps for sustainable HCI"
