@@ -11,14 +11,8 @@
 #      url: #
 
 
-
 - name: Ihudiya Finda Ogbonnaya-Ogburu
   pic: finda
-  position: UMSI Ph.D. Student
-  social:
-    - title: globe
-      url:  http://www.ihudiyaogburu.com
-
   position: UMSI Ph.D. Alum
   social:
     - title: linkedin
@@ -42,33 +36,6 @@
     - title: globe
       url: http://shrutisannon.com
 
-
-- name: Shruti Sannon, Ph.D.
-  pic: shruti
-  position: Former Postdoctoral Computing Innovation Fellow
-  social:
-    - title: globe
-      url: http://shrutisannon.com
-    - title: linkedin
-      url: http://linkedin.com/in/sannon/
-
-- name: Vaishnav Kameswaran, Ph.D.
-  pic: vaishnav
-  position: UMSI Alum
-  social:
-    - title: globe
-      url: http://www.vaishnavk.com
-
-
-- name: Joey Chiao-Yin Hsiao, Ph.D.
-  pic: joey
-  position: UMSI Alum
-  social:
-    - title: globe
-      url: https://www.joeyhsiao.info/
-    - title: linkedin
-      url: https://www.linkedin.com/in/joeycyhsiao
-      
 
 - name: James Lisowski
   pic: jlisowsk
@@ -137,7 +104,7 @@
 
 - name: Ameera Ayodeji
   pic: ameera
-  position: Former NSF REU and Bowie State Alum
+  position: NSF REU and Bowie State Alum
   social:
       - title: linkedin
         url: https://www.linkedin.com/in/ameeraayodeji
@@ -181,7 +148,7 @@
 
 - name: Thaddeus Brown
   pic: thaddeus
-  position: Former NSF REU and Bowie State Alum
+  position: NSF REU and Bowie State Alum
   social:
       - title: linkedin
         url: https://www.linkedin.com/profile/view?id=181522342
@@ -408,7 +375,7 @@
 
 - name: Jaleesa Rosario Turner
   pic: jaleesa
-  position: UM MSI Alum/REMS
+  position: UMSI Student/REMS Alum
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/jaleesa-rosario-turner-b6b58a5a/
