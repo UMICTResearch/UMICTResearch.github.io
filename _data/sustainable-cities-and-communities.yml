@@ -1,50 +1,56 @@
 ##Projects for Sustainibile Communities and cities
 
-
 - name: "Organizing Community-based Events in Participatory Action Research: Lessons Learned from a Photovoice Exhibition"
   pic: Alex_participatory_CHI23_thumb
   abstract: "Participatory action research (PAR) approaches center community members’ lived experiences and can spur positive change around pressing challenges faced by communities. Even though PAR and similar approaches have been increasingly adopted in HCI research
 that focuses on social justice and community empowerment, publicfacing events that are based on this research and center community members’ voices are less common. This case study sheds light on how to initiate and organize events that build on existing PAR efforts, and what practical challenges might exist in this process. Building on a photovoice research project, we—a collaborative team of university researchers and staff members of a community organization in Eastside Detroit—co-organized community-based publicfacing exhibition that featured community members’ photographic narratives of personal and communal safety and surveillance. In
 this case study, we reflect on the challenges we experienced in planning and holding the exhibition. We contribute a set of practical
 guidelines to help researchers facilitate community-based events when conducting participatory action research in HCI."
-  authors: "Lu, A.J., Sannon, S., Brewer, S., Jackson, K.N., Green, J., Reeder, D., Wafer, C., and Dillahunt, T.R."
+  authors: "Lu, A.J., Sannon, S., Brewer, S., Jackson, K.N., Green, J., Reeder, D., Wafer, C., and Dillahunt, T.R. (2023)"
+  impact: "| In Proc. of CHI EA '23 Conference on Human Factors in Computing Systems |"
   mainlink: Alex_participatory_CHI23
   resources:
     - type: pdf
       link: Alex_participatory_CHI23
 
-- name: "Support for Social and Cultural Capital Development in Real-time Ridesharing Services"
-  pic: Kameswaran_CHI18_thumb
-  abstract: "Today’s transportation systems and technologies have the potential to transform the ways individuals acquire resources from their social networks and environments. However, it is unclear what types of resources can be acquired and how technology could support these efforts. We address this gap by investigating these questions in the domain of real-time ridesharing systems. We present insights from two qualitative studies: (1) a set of semi-structured interviews with 13 Uber drivers and (2) a set of semi-structured interviews with 13 Uber riders. Our results show that both drivers and riders acquired and benefited from informational, emotional and instrumental resources, as well as cultural exchanges via interactions with each other and with online platforms. We argue that these interactions could support the development of social and cultural capital. We discuss our findings in the context of labor and contribute design implications for in-car social and cultural experiences and for the ways technologies such as GPS and location-based services can support the additional emotional, social, and cultural labor that drivers provide to their riders."
-  authors: "Kameswaran, V., Cameron, L., and Dillahunt, T. R. (2018)"
-  mainlink: Kameswaran_CHI18
+- name: "Shifting from Surveillance-as-Safety to Safety-through-Noticing: A Photovoice Study with Eastside Detroit Residents"
+  pic: Alex_CHI23_thumb
+  abstract: "Safety has been used to justify the expansion of today’s large-scale surveillance infrastructures in American cities. Our work ofers empirical and theoretical groundings on why and how the safetysurveillance confation that reproduces harm toward communities of color must be denaturalized. In a photovoice study conducted in collaboration with a Detroit community organization and a university team, we invited 11 Black mid-aged and senior Detroiters to use photography to capture their lived experiences of navigating personal and community safety. Their photographic narratives unveil acts of “everyday noticing” in negotiating and maintaining their intricate and interdependent relations with human, non-human animals, plants, spaces, and material things, through which a multiplicity of meaning and senses of safety are produced and achieved. Everyday noticing, as simultaneously a survival skill and a morethan-human care act, is situated in residents’ lived materialities, while also serving as a site for critiquing the reductive and exclusionary vision embedded in large-scale surveillance infrastructures. By proposing an epistemological shift from surveillance-as-safety to safety-through-noticing, we invite future HCI work to attend to the fuid and relational forms of safety that emerge from local entanglement and sensibilities."
+  authors: "Lu, A.J., Sannon, S., Moy, C., Brewer, S., Green, J., Jackson, K.N., Reeder, D., Wafer, C., Ackerman, M.S, and Dillahunt, T.R. (2023)"
+  impact: " | In Proc. CHI'23. Conference on Human Factors Computing Systems |"
+  mainlink: Alex_CHI23
   resources:
     - type: pdf
-      link: Kameswaran_CHI18
+      link: Alex_CHI23
 
 - name: "An alternative to slow transit, drunk driving, and walking in bad weather: An exploratory study of resourcing mode choice and demand"
   pic: Goodspeed_JTG19_thumb
   abstract: "Companies providing ridesourcing, or the use of mobile phone apps to request rides from drivers of privatelyowned vehicles, have expanded rapidly in many cities in recent years. To shed light on this phenomenon, this paper reports an exploratory study of ridesourcing trip patterns and mode choice in Washtenaw County, Michigan, USA, which obtained a convenience sample of 167 respondents (reporting 192 trips) via geographically targeted online and offline ads. Consistent with previous empirical studies, ridesharing users are younger and a greater percentage are female than the the general public, and most trips occur in a small number of high density block groups. When asked what other options were available for ridesourcing trips, respondents reported transit (63%), private vehicles (32%), walking (32%) and bicycling (18%). Specific reasons for choosing ridesourcing instead of these options included the frequency of transit, alcohol use for driving, and weather and distance for walking and biking. A multivariate analysis found variables related to greater ridesourcing use for a block group included job density, jobs-housing balance, bar and restaurant density, and presence of households without vehicles. The paper demonstrates the potential of survey data to generate greater geographic insights into ridesourcing use, as well as the potential for extending established travel-behavior research approaches to ridesourcing"
   authors: "Goodspeed, R., Xie, T., Dillahunt, T. R., Lustig, J. (2019)"
+  impact: "| In Proc. of Transport Geography |"
   mainlink: Goodspeed_JTG19
   resources:
     - type: pdf
       link: Goodspeed_JTG19
 
+- name: "Support for Social and Cultural Capital Development in Real-time Ridesharing Services"
+  pic: Kameswaran_CHI18_thumb
+  abstract: "Today’s transportation systems and technologies have the potential to transform the ways individuals acquire resources from their social networks and environments. However, it is unclear what types of resources can be acquired and how technology could support these efforts. We address this gap by investigating these questions in the domain of real-time ridesharing systems. We present insights from two qualitative studies: (1) a set of semi-structured interviews with 13 Uber drivers and (2) a set of semi-structured interviews with 13 Uber riders. Our results show that both drivers and riders acquired and benefited from informational, emotional and instrumental resources, as well as cultural exchanges via interactions with each other and with online platforms. We argue that these interactions could support the development of social and cultural capital. We discuss our findings in the context of labor and contribute design implications for in-car social and cultural experiences and for the ways technologies such as GPS and location-based services can support the additional emotional, social, and cultural labor that drivers provide to their riders."
+  authors: "Kameswaran, V., Cameron, L., and Dillahunt, T. R. (2018)"
+  impact: "| In Proc. of the CHI '18 Conference on Human Factors in Computing Systems |"
+  mainlink: Kameswaran_CHI18
+  resources:
+    - type: pdf
+      link: Kameswaran_CHI18
+
 - name: "Uncovering the Values and Constraints of Real-time Ridesharing for Low-resource Populations"
   pic: Dillahunt_CHI17_thumb
   abstract: "Real-time ridesharing services (e.g., Uber and Lyft) are often touted as sharing-economy leaders and dramatically lower the cost of transportation. However, how to make these services work better among low-income and transportation-scarce households, how these individuals experience these services, and whether they encounter barriers in enlisting these services is unknown. To address these questions, we onboarded 13 low-income individuals living in transportation-scarce environments to Uber as passengers. Our participants found these services to be reliable and benefited from rich social interactions with drivers; however, barriers such as cost, limited payment methods, and low digital literacy can make such services infeasible. We contribute platform designs that could lead to increased digital literacy and application transparency. To be more inclusive and to reach critical mass, we suggest that these companies foster belief in commons and community trust by coordinating with local businesses in low-resource areas with lower digital literacy."
   authors: "Dillahunt, T. R., Kameswaran, V., Li, L., and Rosenblat, T. (2017)"
+  impact: "| In Proc. of CHI '17 Conference on Human Factors in Computing Systems |"
   mainlink: Dillahunt_CHI17
   resources:
     - type: pdf
       link: Dillahunt_CHI17
 
-- name: "Shifting from Surveillance-as-Safety to Safety-through-Noticing: A Photovoice Study with Eastside Detroit Residents"
-  pic: Alex_CHI23_thumb
-  abstract: "in Proc. CHI'23. Hum. Factors. Computing. Systems."
-  authors: "Lu, A.J., Sannon, S., Moy, C., Brewer, S., Green, J., Jackson, K.N., Reeder, D., Wafer, C., Ackerman, M.S, and Dillahunt, T.R."
-  mainlink: Alex_CHI23
-  resources:
-    - type: pdf
-      link: Alex_CHI23
+

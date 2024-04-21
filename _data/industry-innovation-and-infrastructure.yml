@@ -1,110 +1,126 @@
 ##Projects for industry innovation and infrastructure
 
-- name: 'DreamGigs: A "Stepping Stone" for Low-resource Job Seekers to Reach Their Ideal Job'
-  pic: Lu_CSCWEA18_thumb
-  abstract: "Digital employment tools ought to support job seekers in developing viable career paths while preparing them with necessary skills for employment. This is particularly important for job seekers who are not highly educated and lack access to resources such as career counseling. We designed, implemented, and conducted a preliminary evaluation of a prototype — DreamGigs, a tool to help job seekers understand the career-related skills they would need to obtain to reach their ''dream'' job or gig. Our preliminary results suggest that DreamGigs helps job seekers understand what skills employers need, identify potential pathways towards their career goals, and access opportunities to gain the skills needed to achieve their goals. We contribute the design of this tool, our implementation, and the results of our initial evaluation with low-resource job seekers."
-  authors: "Lu, A., Lam, J., and Dillahunt, T. R. (2018)"
-  mainlink: Lu_CSCWEA18
+
+- name: "The Village: Infrastructuring Community-based Mentoring to Support Adults Experiencing Poverty"
+  pic: dillahunt_CHI22_thumb
+  abstract: "Mentorship and other social and relational support have been vital to poverty alleviation and transformative change. It is crucial to understand the underlying factors in the success of mentoring models and subsequent programs to support them. Thus, we conducted a mixed-methods study consisting of longitudinal surveys of community participants followed by semi-structured interviews with 28 community members, eight mentors, and two coaches participating in a community-based mentorship program. Drawing from community-based participatory research in partnership with a nonproft located in a Midwestern United States (U.S.) city, we unpack how the program supported self-sufciency and economic mobility among adults experiencing fnancial hardships. Through an infrastructural lens, we attend to individuals’ infrastructuring work in social support, fexibility, and trust to support a “village” model of community-based mentorship. Our results show how the village model difers from traditional mentorship models that assume dyadic, one-to-one, often didactic, and hierarchical relationships (e.g., expert and protégé, adult and child) and are used primarily in the workplace and educational settings. The village mentorship model advocates for less hierarchical and more balanced relationships in non-institutional settings and fexible communication and technological needs. We discuss new research opportunities and design strategies for rethinking technology-mediated mentorship to support poverty-stricken adults in the U.S."
+  authors: "Dillahunt, T.R., Lu, J.A., Israni, A., Lodha, R. Brewer, S., Robinson, T.S., Wilson A.B., and Wheeler, E. (2022)"
+  impact: "| In proc. of CHI '22 Conference on Human Factors in Computing Systems |"
+  mainlink: dillahunt_CHI22
+  resources:
+      - type: pdf
+        link: dillahunt_CHI22
+
+- name: "Reaching Hard-To-Reach Populations: An Analysis of Survey Recruitment Methods"
+  pic: Xu_CSCWposter19_thumb
+  abstract: "This work examined the survey distribution methods used in a past study. The goal was to identify the most effective methods to reach marginalized voices to participate in technological research and thus, create more inclusive technologies. Initial analyses identified in-person onsite recruitment as one of the better methods for reaching hard-to-reach populations compared to M-Turk, social media, newsletters, mail, and text messages. Our results call for continued efforts to use more inclusive research methods in the field of HCI."
+  authors: "Xu, X., Yan, X., and Dillahunt., T. R. (2019)"
+  impact: "| In proc. of CSCW '19 Companion Conference on Computer Supported Cooperative Work and Social Computing |"
+  mainlink: Xu_CSCWposter19
   resources:
     - type: pdf
-      link: Lu_CSCWEA18
+      link: Xu_CSCWposter19
+
 
 - name: 'DreamGigs: Designing a Tool to Empower Low-resource Job Seekers'
   pic: Dillahunt_CHI19b_thumb
   abstract: "Technology allows us to scale the number of jobs we search for and apply to, train for work, and earn money online. However, these technologies do not beneft all job seekers equally and must be designed to better support the needs of underserved job seekers. Research suggests that underserved job seekers prefer employment technologies that can support them in articulating their skills and experiences and in identifying pathways to achieve their career goals. Therefore, we present the design, implementation, and evaluation of DreamGigs, a tool that identifes the skills job seekers need to reach their dream jobs and presents volunteer and employment opportunities for them to acquire those skills. Our evaluation results show that DreamGigs aids in the process of personal empowerment. We contribute design implications for mitigating aspects of powerlessness that low-resource job seekers experience and discuss ways to promote action-taking in these job seekers."
   authors: "Dillahunt, T. R. and Lu, A. (2019)"
   mainlink: Dillahunt_CHI19b
+  impact: "| In proc. of CHI '19 Conference on Human Factors in Computing Systems |"
   resources:
     - type: pdf
       link: Dillahunt_CHI19b
 
-
-- name: "Designing for Disadvantaged Job Seekers: Insights from Early Investigations"
-  pic: Dillahunt_DIS16_thumb
-  abstract: "The Internet plays a pervasive role in job search and employment, especially for professionals and for those who are highly qualified. While job seekers from all occupational groups and employment status rely on aspects of the Internet for employment, past research suggests that disadvantaged job seekers are being ‘left behind’ and will continue to be left behind as the Internet takes on a more eminent role in the employment process. To mitigate this outcome, we extended prior literature and took a user-centered design approach to design and implement a web-based employment application that provides job seekers with resume feedback from local volunteers. We piloted our application to understand: 1) the context and circumstances of our application’s shortcomings and 2) UX principles that address these shortcomings. We extend employment research that aims to alleviate the negative effects of technological advancement on disadvantaged job seekers."
-  authors: "Dillahunt, T. R., Bose, N., Diwan, S., and Chen-Phang, A. (2016)"
-  mainlink: Dillahunt_DIS16
+- name: 'DreamGigs: A "Stepping Stone" for Low-resource Job Seekers to Reach Their Ideal Job'
+  pic: Lu_CSCWEA18_thumb
+  abstract: "Digital employment tools ought to support job seekers in developing viable career paths while preparing them with necessary skills for employment. This is particularly important for job seekers who are not highly educated and lack access to resources such as career counseling. We designed, implemented, and conducted a preliminary evaluation of a prototype — DreamGigs, a tool to help job seekers understand the career-related skills they would need to obtain to reach their ''dream'' job or gig. Our preliminary results suggest that DreamGigs helps job seekers understand what skills employers need, identify potential pathways towards their career goals, and access opportunities to gain the skills needed to achieve their goals. We contribute the design of this tool, our implementation, and the results of our initial evaluation with low-resource job seekers."
+  authors: "Lu, A., Lam, J., and Dillahunt, T. R. (2018)"
+  impact: "| In Proc. of CHI'18 Conference on Human Factors in Computing Systems |"
+  mainlink: Lu_CSCWEA18
   resources:
     - type: pdf
-      link: Dillahunt_DIS16
+      link: Lu_CSCWEA18
 
-- name: Detecting and visualization filter bubbles in Google and Bing
-  pic: SESAndSearchv8-final_thumb
-  abstract: "Despite the pervasiveness of search engines, most users know little about the implications of search engine algorithms and are unaware of how they work. People using web search engines assume that search results are unbiased and neutral. Filter bubbles, or personalized results, could lead to polarizing effects across populations, which could create divisions in society. This preliminary work explores whether the filter bubble can be measured and described and is an initial investigation towards the larger goal of identifying how non-search experts might understand how the filter bubble impacts their search results."
-  authors: "Dillahunt, T., Brooks, C., Gulati, S. (2015)"
-  mainlink: SESAndSearchv8-final
-  resources:
-      - type: pdf
-        link: SESAndSearchv8-final
-
-- name: "Reaching Hard-To-Reach Populations: An Analysis of Survey Recruitment Methods"
-  pic: Xu_CSCWposter19_thumb
-  abstract: "This work examined the survey distribution methods used in a past study. The goal was to identify the most effective methods to reach marginalized voices to participate in technological research and thus, create more inclusive technologies. Initial analyses identified in-person onsite recruitment as one of the better methods for reaching hard-to-reach populations compared to M-Turk, social media, newsletters, mail, and text messages. Our results call for continued efforts to use more inclusive research methods in the field of HCI."
-  authors: "Xu, X., Yan, X., and Dillahunt., T. R. (2019)"
-  mainlink: Xu_CSCWposter19
-  resources:
-    - type: pdf
-      link: Xu_CSCWposter19
-
-- name: "The Sharing Economy in Computing: A Systematic Literature Review"
-  pic: Dillahunt_CSCW18_thumb
-  abstract: "The sharing economy has quickly become a very prominent subject of research in the broader computing literature and in the human–computer interaction (HCI) literature more speci cally. When other computing research areas have experienced similarly rapid growth (e.g., human computation, eco-feedback technology), early stage literature reviews have proved useful and in uential by identifying trends and gaps in the literature of interest and by providing key directions for short- and long-term future work. In this paper, we seek to provide the same bene ts with respect to computing research on the sharing economy. Speci cally, following the suggested approach of prior computing literature reviews, we conducted a systematic review of sharing economy articles published in the Association for Computing Machinery Digital Library to investigate the state of sharing economy research in computing. We performed this review with two simultaneous foci: a broad focus toward the computing literature more generally and a narrow focus speci cally on HCI literature. We collected a total of 112 sharing economy articles published between 2008 and 2017 and through our analysis of these papers, we make two core contributions: (1) an understanding of the computing community’s contributions to our knowledge about the sharing economy, and speci cally the role of the HCI community in these contributions (i.e., what has been done) and (2) a discussion of under-explored and unexplored aspects of the sharing economy that can serve as a partial research agenda moving forward (i.e. what is next to do)."
-  authors: "Dillahunt, T. R., Wang, X., Wheeler, E., Cheng, H. F., Hecht, B., and Zhu, H. (2017)"
-  mainlink: Dillahunt_CSCW18
-  resources:
-    - type: pdf
-      link: Dillahunt_CSCW18
 
 - name: "Designing Future Employment Applications for Underserved Job Seekers: A Speed Dating Study"
   pic: Dillahunt_DIS18_thumb
   abstract: "Modern Information and Communication Technologies (ICTs) support job searches, resume creation, career development, and professional self-presentation. However, these technology tools are often tailored to high-income, highly educated users and white-collar professionals. It is unclear what interventions address the needs of job seekers who have limited resources or education, or who may be underserved in other ways. We gathered insights from the literature and generated ten tangible design concepts to address the needs of underserved job seekers. We then conducted a needs validation and speed dating study to understand which concepts were most viable among our population. We found that the three most preferred concepts immediately addressed job seekers' social and personal needs, where addressing social needs meant mediating job seekers' connections to others and supporting job seekers' limited access to strong ties."
   authors: "Dillahunt, T. R., Lam, J., Lu, A., and Wheeler, E. (2018)"
+  impact: "| In Proc. of DIS '18 Conference |"
   mainlink: Dillahunt_DIS18
   resources:
       - type: pdf
         link: Dillahunt_DIS18
 
-- name: "Technology for Underserved Communities"
-  pic: Dillahunt_RFP17_thumb
-  abstract: "This installment of Research for Practice provides curated reading guides to technology for underserved communities and to new developments in personal fabrication. First, Tawanna Dillahunt describes design considerations and technology for underserved and impoverished communities. Designing for the more than 1.6 billion impoverished individuals worldwide requires special consideration of community needs, constraints, and context. Tawanna's selections span protocols for poor-quality communication networks, community-driven content generation, and resource and public service discovery. Second, Stefanie Mueller and Patrick Baudisch provide an overview of recent advances in personal fabrication (e.g., 3D printers). Their selection covers new techniques for fabricating (and emulating) complex materials (e.g., by manipulating the internal structure of an object), for more easily specifying object shape and behavior, and for human-in-the-loop rapid prototyping. Combined, these two guides provide a fascinating deep dive into some of the latest human-centric computer science research results."
-  authors: "Dillahunt, T. R. (2017)"
-  mainlink: Dillahunt_RFP17
-  resources:
-    - type: pdf
-      link: Dillahunt_RFP17
 
 - name: "The Role of Demographics, Trust, Computer Self-efficacy, and Ease of Use in the Sharing Economy"
   pic: Hsiao_COMPASS18_thumb
   abstract: "The digital sharing economy has introduced opportunities for economic growth, productivity, and technological innovation. However, the adoption of sharing economy applications may be inaccessible to certain demographics, including older adults, low-income adults, and individuals who are not college educated. This research investigates how the demographic factors: trust, computer self-efficacy, and perceived ease of use, impact participation in the sharing economy. Drawing on survey data with 508 participants, we found that trust in institutions, computer self-efficacy, and perceived ease of use positively correlate to individuals' past use of and willingness to pay for future sharing economy services, but age is negatively correlated. Surprisingly, we do not find that sharing economy users are more likely to have higher trust in strangers, higher incomes, or more education. We compare our findings to existing research, discuss why institutional trust might negate other concerns about sharing economy use, and explore opportunities to support broader participation in the sharing economy."
   authors: "Hsiao, J. C.-Y., Moser, C., Schoenebeck, S., and Dillahunt, T. R. (2018)"
+  impact: "| In Proc. of the COMPASS '18 Conference on Computing and Sustainable Societies |"
   mainlink: Hsiao_COMPASS18
   resources:
     - type: pdf
       link: Hsiao_COMPASS18
 
-- name: "The Village: Infrastructuring Community-based Mentoring to Support Adults Experiencing Poverty"
-  pic: dillahunt_CHI22_thumb
-  abstract: "Mentorship and other social and relational support have been vital to poverty alleviation and transformative change. It is crucial to understand the underlying factors in the success of mentoring models and subsequent programs to support them. Thus, we conducted a mixed-methods study consisting of longitudinal surveys of community participants followed by semi-structured interviews with 28 community members, eight mentors, and two coaches participating in a community-based mentorship program. Drawing from community-based participatory research in partnership with a nonproft located in a Midwestern United States (U.S.) city, we unpack how the program supported self-sufciency and economic mobility among adults experiencing fnancial hardships. Through an infrastructural lens, we attend to individuals’ infrastructuring work in social support, fexibility, and trust to support a “village” model of community-based mentorship. Our results show how the village model difers from traditional mentorship models that assume dyadic, one-to-one, often didactic, and hierarchical relationships (e.g., expert and protégé, adult and child) and are used primarily in the workplace and educational settings. The village mentorship model advocates for less hierarchical and more balanced relationships in non-institutional settings and fexible communication and technological needs. We discuss new research opportunities and design strategies for rethinking technology-mediated mentorship to support poverty-stricken adults in the U.S."
-  authors: "Dillahunt, T.R., Lu, J.A., Israni, A., Lodha, R. Brewer, S., Robinson, T.S., Wilson A.B., and Wheeler, E. (2022)"
-  mainlink: dillahunt_CHI22
+- name: "Technology for Underserved Communities"
+  pic: Dillahunt_RFP17_thumb
+  abstract: "This installment of Research for Practice provides curated reading guides to technology for underserved communities and to new developments in personal fabrication. First, Tawanna Dillahunt describes design considerations and technology for underserved and impoverished communities. Designing for the more than 1.6 billion impoverished individuals worldwide requires special consideration of community needs, constraints, and context. Tawanna's selections span protocols for poor-quality communication networks, community-driven content generation, and resource and public service discovery. Second, Stefanie Mueller and Patrick Baudisch provide an overview of recent advances in personal fabrication (e.g., 3D printers). Their selection covers new techniques for fabricating (and emulating) complex materials (e.g., by manipulating the internal structure of an object), for more easily specifying object shape and behavior, and for human-in-the-loop rapid prototyping. Combined, these two guides provide a fascinating deep dive into some of the latest human-centric computer science research results."
+  authors: "Dillahunt, T. R. (2017)"
+  impact: "| In Proc. of ACM'17 Conference |"
+  mainlink: Dillahunt_RFP17
   resources:
-      - type: pdf
-        link: dillahunt_CHI22
+    - type: pdf
+      link: Dillahunt_RFP17
 
 - name: "Reflections on Design Methods for Underserved Communities"
   pic: Dillahunt_CSCW17WS_thumb
-  abstract: "CSCW 2017 Workshop"
-  authors: "Dillahunt, T.R., Erete, S., Galusca, R., Israni, A., Nacu, D., and Sengers, P."
+  abstract: "The goal of this workshop is to facilitate a discussion around the ways in which research and design methods can be better tailored to support and engage underserved communities. We aim to create a publicly accessible repository of tools to support research and design efforts with underserved communities and to facilitate critical conversations about appropriate methods and solutions in this space. At the workshop, participants will collaborate with one another to explore their own as well as past, present, and future research and design initiatives with underserved communities; discuss challenges and lessons learned from using methods to facilitate technological development and creation among such populations; and brainstorm methods and solutions to address these challenges. Discussion and ideas generated from this workshop will be archived online and made available to the larger research community."
+  # abstract: "CSCW 2017 Workshop"
+  authors: "Dillahunt, T.R., Erete, S., Galusca, R., Israni, A., Nacu, D., and Sengers, P. (2017)"
+  impact: "| In Proc. of ACM CSCW '17 Companion Conference on Computer Supported Cooperative Work and Social Computing |"
   mainlink: Dillahunt_CSCW17WS
   resources:
       - type: pdf
         link: Dillahunt_CSCW17WS
 
+- name: "The Sharing Economy in Computing: A Systematic Literature Review"
+  pic: Dillahunt_CSCW18_thumb
+  abstract: "The sharing economy has quickly become a very prominent subject of research in the broader computing literature and in the human–computer interaction (HCI) literature more speci cally. When other computing research areas have experienced similarly rapid growth (e.g., human computation, eco-feedback technology), early stage literature reviews have proved useful and in uential by identifying trends and gaps in the literature of interest and by providing key directions for short- and long-term future work. In this paper, we seek to provide the same bene ts with respect to computing research on the sharing economy. Speci cally, following the suggested approach of prior computing literature reviews, we conducted a systematic review of sharing economy articles published in the Association for Computing Machinery Digital Library to investigate the state of sharing economy research in computing. We performed this review with two simultaneous foci: a broad focus toward the computing literature more generally and a narrow focus speci cally on HCI literature. We collected a total of 112 sharing economy articles published between 2008 and 2017 and through our analysis of these papers, we make two core contributions: (1) an understanding of the computing community’s contributions to our knowledge about the sharing economy, and speci cally the role of the HCI community in these contributions (i.e., what has been done) and (2) a discussion of under-explored and unexplored aspects of the sharing economy that can serve as a partial research agenda moving forward (i.e. what is next to do)."
+  authors: "Dillahunt, T. R., Wang, X., Wheeler, E., Cheng, H. F., Hecht, B., and Zhu, H. (2017)"
+  impact: "| In Proc. of the ACM'17 Conference on Human Computer Interaction, CSCW |"
+  mainlink: Dillahunt_CSCW18
+  resources:
+    - type: pdf
+      link: Dillahunt_CSCW18
+
+- name: "Designing for Disadvantaged Job Seekers: Insights from Early Investigations"
+  pic: Dillahunt_DIS16_thumb
+  abstract: "The Internet plays a pervasive role in job search and employment, especially for professionals and for those who are highly qualified. While job seekers from all occupational groups and employment status rely on aspects of the Internet for employment, past research suggests that disadvantaged job seekers are being ‘left behind’ and will continue to be left behind as the Internet takes on a more eminent role in the employment process. To mitigate this outcome, we extended prior literature and took a user-centered design approach to design and implement a web-based employment application that provides job seekers with resume feedback from local volunteers. We piloted our application to understand: 1) the context and circumstances of our application’s shortcomings and 2) UX principles that address these shortcomings. We extend employment research that aims to alleviate the negative effects of technological advancement on disadvantaged job seekers."
+  authors: "Dillahunt, T. R., Bose, N., Diwan, S., and Chen-Phang, A. (2016)"
+  impact: "| In Proc. of ACM DIS '16 Conference on Designing Interactive Systems |"
+  mainlink: Dillahunt_DIS16
+  resources:
+    - type: pdf
+      link: Dillahunt_DIS16
+
 - name: "If God Gives Me the Chance I Will Design My Own Phone"
   pic: pn0107-dillahunt-thumb
-  abstract: "*Honorable Mention* | In Proc. of UbiComp 2015."
-  authors: "Wyche, S., Dillahunt, T., Simiyu, N., Alaka, S."
+  abstract: " This article focuses on “fundi wa simu,” (mobile phone repairers) in rural Kenya and their ideas about mobile phone design. Our study design and analysis were guided by ideas from postcolonial computing; we use our qualitative findings, and outcomes from a drawing exercise, to show existing flaws in mobile phone design, and to explore how repairers’ knowledge can lead to handsets that are better suited for rural Kenyans. Our argument is that, by engaging with repairers “[on] their own terms”, technologists can expand conversations around designing for the ‘developing’ world that go beyond building novel smartphone applications. In fact, such conversations can also include reimagining mobile phones, and supporting local repairers’ efforts to manufacture them. We conclude by discussing ways to improve upon postcolonial approaches to technology design."
+  impact: "*Honorable Mention* | In Proc. of UbiComp 2015 "
+  authors: "Wyche, S., Dillahunt, T., Simiyu, N., Alaka, S. (2015)"
   mainlink: pn0107-dillahunt
   resources:
       - type: pdf
         link: pn0107-dillahunt
+
+- name: Detecting and visualization filter bubbles in Google and Bing
+  pic: SESAndSearchv8-final_thumb
+  abstract: "Despite the pervasiveness of search engines, most users know little about the implications of search engine algorithms and are unaware of how they work. People using web search engines assume that search results are unbiased and neutral. Filter bubbles, or personalized results, could lead to polarizing effects across populations, which could create divisions in society. This preliminary work explores whether the filter bubble can be measured and described and is an initial investigation towards the larger goal of identifying how non-search experts might understand how the filter bubble impacts their search results."
+  authors: "Dillahunt, T., Brooks, C., Gulati, S. (2015)"
+  impact: "| In Proc. of ACM CHI EA '15 Conference Extended Abstracts on Human Factors in Computing Systems |"
+  mainlink: SESAndSearchv8-final
+  resources:
+      - type: pdf
+        link: SESAndSearchv8-final

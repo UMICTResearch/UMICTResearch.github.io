@@ -1,0 +1,39 @@
+
+- name: "Participatory Noticing through Photovoice: Engaging Arts- and Community-Based Approaches in Design Research"
+  pic: lu_ACMDIS23_thumb
+  abstract: "Noticing differently commits to stepping out of familiar reference frameworks while attending to oft-neglected actors, relations, and ways of knowing for design. Photovoice is an arts- and communitybased participatory approach allowing individuals to communicate their lives and stories about pressing community concerns through photography. This paper bridges photovoice and the commitment to noticing in HCI and design through a photovoice project with Detroit residents on safety and surveillance. The photovoice process—alongside the production, reflection, and dissemination of photographs—makes residents’ everyday situations legible and sensible, allowing both community members and researchers to orient to and engage with multiple viewpoints, sensibilities, and temporal trajectories. This process confronts the invisibility of both the sociotechnical infrastructures (in our case, surveillance infrastructures) and minoritized communities’ relational ontologies. By advocating participatory noticing in design research, we show the opportunities for adopting arts- and community-based participatory approaches in decentering dominant ways of knowing and seeing, while at the same time fostering community capacity and relations for future potentialities."
+  authors: "Lu, A.J., Sannon, S., Moy, C., Brewer, S., Green, J., Jackson, K.N., Reeder, D., Wafer,C., Ackerman,M.S., Dillahunt, T.R."
+  mainlink: lu_ACMDIS23
+  resources:
+      - type: pdf
+        link: lu_ACMDIS23
+
+- name: "Organizing Community-based Events in Participatory Action Research: Lessons Learned from a Photovoice Exhibition"
+  pic: Alex_participatory_CHI23_thumb
+  abstract: "Participatory action research (PAR) approaches center community members’ lived experiences and can spur positive change around pressing challenges faced by communities. Even though PAR and similar approaches have been increasingly adopted in HCI research
+that focuses on social justice and community empowerment, publicfacing events that are based on this research and center community members’ voices are less common. This case study sheds light on how to initiate and organize events that build on existing PAR efforts, and what practical challenges might exist in this process. Building on a photovoice research project, we—a collaborative team of university researchers and staff members of a community organization in Eastside Detroit—co-organized community-based publicfacing exhibition that featured community members’ photographic narratives of personal and communal safety and surveillance. In
+this case study, we reflect on the challenges we experienced in planning and holding the exhibition. We contribute a set of practical
+guidelines to help researchers facilitate community-based events when conducting participatory action research in HCI."
+  authors: "Lu, A.J., Sannon, S., Brewer, S., Jackson, K.N., Green, J., Reeder, D., Wafer, C., and Dillahunt, T.R."
+  mainlink: Alex_participatory_CHI23
+  resources:
+      - type: pdf
+        link: Alex_participatory_CHI23
+
+- name: Opportunities to Address Information Poverty with Social Search
+  pic: Wheeler_CHIEA17_thumb
+  abstract: "Information seeking is a central part of human life, and search engines are the dominant method of information seeking on the Internet. Although recent years have seen the rise of social search systems as a promising alternative, their application for populations across the digital divide that are starved for information has been overlooked. Drawing on research on social search, information search, and information poverty, we identify three dimensions of information poverty in web search, and hypothesize affordances of social search platforms that could address the details of each issue. Finally, we propose research questions and two as- sociated studies to investigate these hypotheses."
+  authors: "Wheeler, E., Dillahunt, T. R., and Rieh, S. Y. (2017)"
+  mainlink: Wheeler_CHIEA17
+  resources:
+    - type: pdf
+      link: Wheeler_CHIEA17
+
+- name: Detecting and visualization filter bubbles in Google and Bing
+  pic: SESAndSearchv8-final_thumb
+  abstract: "Despite the pervasiveness of search engines, most users know little about the implications of search engine algorithms and are unaware of how they work. People using web search engines assume that search results are unbiased and neutral. Filter bubbles, or personalized results, could lead to polarizing effects across populations, which could create divisions in society. This preliminary work explores whether the filter bubble can be measured and described and is an initial investigation towards the larger goal of identifying how non-search experts might understand how the filter bubble impacts their search results."
+  authors: "Dillahunt, T., Brooks, C., Gulati, S. (2015)"
+  mainlink: SESAndSearchv8-final
+  resources:
+      - type: pdf
+        link: SESAndSearchv8-final

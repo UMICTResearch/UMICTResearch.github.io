@@ -1,0 +1,406 @@
+# Project Details for SocioTechnical capital, employment and economic mobility
+
+### Employment Tool ###
+- subproject: "Designing Employment Tools for Underserved Job Seekers"
+  description: "The ubiquity of technologies such as robotics, artificial intelligence, and the Internet of Things have changed the nature of work. Despite the many benefits created by these technologies, these transformations in the employment landscape have posed challenges for job seekers, especially those with limited education and low resources. This research investigates how digital tools should be designed and implemented to support employment among low-resource job seekers."
+  papers:
+
+    - name: "Opportunities for Social Media to Support Aspiring Entrepreneurs with Financial Constraints"
+      pic: Aarti_ACM23_thumb
+      abstract: "Social media offers an alternative source for entrepreneurs to expand their social networks and obtain relevant resources to support their ambitions. Aspiring entrepreneurs with limited access to resources and social networks might rely more on the opportunities that social media tools offer. Aspiring entrepreneurs navigate social media to realize their economic dreams. Yet, those who face financial constraints often face challenges. Because aspiring entrepreneurs are transitioning to entrepreneurship, they must construct and even adapt to new work-role identities and new requisite skills, behaviors, attitudes, and patterns of interactions. In a re-analysis of a sub-sample of data from two empirical studies, this work examines how aspiring entrepreneurs living in a financially-constrained environment seek informational, social, and emotional support online and navigate their transition to entrepreneurship. These entrepreneurs obtained informational and emotional resources from observing other members’ posts in online communities, including the next steps needed to adapt to their desired small business work roles. However, few publicly disclosed their informational or emotional needs online. We extend existing research on financially-constrained entrepreneurs’ use of social media, contributing insights into how these resource-seeking practices limit their exploration of alternative entrepreneurial identities and feedback. We also contribute design implications to facilitate their online disclosure practices, including offering suggestions about ways to respond to questions and other disclosures in ways that restore trust and mitigate identity threats."
+      authors: "Israni, A., Hui, J., and Dillahunt, T.R.(2023)"
+      mainlink: Aarti_ACM23
+      resources:
+      - type: pdf
+        link: Aarti_ACM23
+
+    - name: "Emotional Labor in Everyday Resilience: Class-based Experiences of Navigating Unemployment Amid the COVID-19 Pandemic in the US"
+      pic: Alex_ACM22_thumb
+      abstract: "During the COVID-19 global health crisis, institutions, policymakers, and academics alike have called for practicing resilience to overcome its ongoing disruptions. This paper contributes a comparative study of the job search experiences of working-class and upper-middle-class job seekers, particularly in relation to their resilience practices during the pandemic. Drawing from in-depth interviews with 12 working-class and 11 upper-middle-class job seekers in the U.S., we unpack challenges resulting from both the pandemic and unemployment and job seekers’ novel practices of navigating these challenges in their everyday disrupted life. Job seekers’ ongoing negotiation with their resources, situations, and surroundings gives practical meanings to building everyday resilience, which we theorize as an ongoing process of becoming resilient. While job seekers across classes experienced similar challenges, working-class job seekers took on additional emotional labor in their everyday resilience due to their limited experience in the digital job search space, competition with higher-degree holding job seekers applying for the same jobs, limited social support networks, and at times, isolation. By foregrounding the uneven distribution of emotional labor in realizing the promise of resilience along class lines, this work cautions against the romanticization of resilience and calls for a more critical and nuanced understanding of resilience in CSCW"
+      authors: "Lu, A.J., Gilhool, A., Hsiao, J.C.Y., and Dillahunt, T.R. (2022)"
+      mainlink: Alex_ACM22
+      resources:
+      - type: pdf
+        link: Alex_ACM22
+
+    - name: "The Promises and Perils of Technology for Marginalized Job Seekers"
+      pic: dillahunt_umich_pov21_thumb
+      abstract: "In this brief, we explore how technology impacts the job search process for marginalized workers, defined as the disproportionately unemployed and underemployed. We describe the results of several studies conducted in Detroit to understand these job seekers’ barriers to employment, their use of technology in the employment process, and their views on how technology could better support employment goals. Further, we outline recommendations to move toward a more inclusive digital job search market."
+      authors: "Dillahunt, T.R., Lu, J.A., and Wilson, B.A. (2021)"
+      mainlink: dillahunt_umich_pov21
+      resources:
+      - type: pdf
+        link: dillahunt_umich_pov21
+
+    - name: "Implications for Supporting Marginalized Job Seekers: Lessons from Employment Centers"
+      pic: Dillahunt_PACMHCI21_thumb
+      abstract: "Rapid changes in technology are expected to limit the availability of decent work for millions of people worldwide. This particularly disadvantages socially and economically marginalized job seekers who are already being pushed into lower-wage precarious work with increasing levels of job insecurity. While the number of employment support tools that match job seekers to employers has been growing, marginalized job seekers still significantly rely on physical employment centers that have a track record of supporting the specific needs associated with marginalization and economic constraints. We drew from prior HCI and CSCW literature uncovering the employment and technology-related challenges that marginalized job seekers face and from the Psychology of Working Theory to frame our research questions and results. To complement this prior work, we investigated how employment center staff work with marginalized job seekers and moderate factors to securing decent work. We found in an interview of 21 employment center staff—career advisors and business services coordinators—that they performed significant work to prepare and encourage marginalized job seekers in applying to positions, while also training employers to be more inclusive and open-minded. Career advisors worked directly with job seekers to connect them with external resources, provide encouragement, strategize long-term goals, and mitigate feelings of stigma. Business services coordinators worked directly with employers to prepare job positions and employee support programs. Drawing from the expertise of employment centers, we contribute a framework for designing employment support tools that better serve the needs of marginalized job seekers, and outline tangible design implications that complement the support these organizations provide."
+      authors: "Dillahunt, T. R., Garvin, M., Held, M., and Hui, J. (2021)"
+      mainlink: Dillahunt_PACMHCI21
+      resources:
+      - type: pdf
+        link: Dillahunt_PACMHCI21
+
+
+    - name: "Elucidating Skills for Job Seekers: Insights and Critical Concerns from a Field Deployment in Switzerland"
+      pic: Cherubini_DIS21_thumb
+      abstract: "This article contributes results of a longitudinal field study of SkillsIdentifier, an employment tool originally designed and assessed in the United States (U.S.), to support 'underrepresented' job seekers in identifying and articulating their employment skills. To understand whether the tool could support the needs of job seekers outside the U.S., we assessed it among 16 job seekers with limited education and language resources in Switzerland. While many of our results mirrored those of the U.S., we found that the tool was especially beneficial for non-French speaking immigrants who needed support describing their skills outside of their native language. We also found that listing skills like 'active listening' without important context was insufficient and risked hiding key skills and meaning behind those skills to employers. Taking these factors into account, we illustrate the design implications of our findings and directions for practitioners who wish to design employment tools in support of job seekers, especially those who have traditionally been excluded from the labor market. We then provide insight into the potential for unintended consequences as a result of focusing solely on skills in a post-COVID labor market and contribute ways to mitigate them."
+      authors: "Cherubini, M., Lu, A., Hsiao, J. C.-Y., Zhao, M., Aggarwal, A., and Dillahunt, T. R. (2021)"
+      mainlink: Cherubini_DIS21
+      resources:
+      - type: pdf
+        link: Cherubini_DIS21
+
+    - name: "Examining the Use of Online Platforms for Employment: A Survey of U.S. Job Seekers"
+      pic: Dillahunt_CHI21_thumb
+      abstract: "Online employment resources are now as important as offline personal and professional networks, which have been pivotal in finding employment. However, it is unclear, which specific online resources are key to employment and how job seekers take advantage of them. Therefore, in an online survey of 768 job seekers, we investigated which online platforms, specific job search phases, behaviors, and job search strategies job seekers used in their job search, and which of these were associated with positive outcomes. We examined whether these results correlated with demographic factors and found differences in online platform use among income, gender, years of education, and race. Our results suggest that higher-income job seekers were more likely to use different strategies and more likely to get callbacks than lower-income job seekers. We raise new questions around demographics and technology and discuss the need for practitioners to design for a wider variety of job seekers. (*The two authors contributed equally to this research)"
+      authors: "Dillahunt, T. R., Israni, A.*, Lu, A.*, Cai, M., and Hsiao, J. C.-Y. (2021)"
+      mainlink: Dillahunt_CHI21
+      resources:
+      - type: pdf
+        link: Dillahunt_CHI21
+
+    - name: "Uncovering the Promises and Challenges of Social Media Use in the Low-Wage Labor Market: Insights from Employers"
+      pic: Lu_CHI21_thumb
+      abstract: "Online employment resources are now as important as offline personal and professional networks, which have been pivotal in finding employment. However, it is unclear, which specific online resources are key to employment and how job seekers take advantage of them. Therefore, in an online survey of 768 job seekers, we investigated which online platforms, specific job search phases, behaviors, and job search strategies job seekers used in their job search, and which of these were associated with positive outcomes. We examined whether these results correlated with demographic factors and found differences in online platform use among income, gender, years of education, and race. Our results suggest that higher-income job seekers were more likely to use different strategies and more likely to get callbacks than lower-income job seekers. We raise new questions around demographics and technology and discuss the need for practitioners to design for a wider variety of job seekers. (*The two authors contributed equally to this research)"
+      authors: "Lu, A. and Dillahunt, T. R. (2021)"
+      mainlink: Lu_CHI21
+      resources:
+      - type: pdf
+        link: Lu_CHI21
+
+    - name: "SkillsIdentifier: A Tool to Promote Career Identity and Self-efficacy Among Underrepresented Job Seekers"
+      pic: Dillahunt_HICSS21_thumb
+      abstract: "Today’s employment applications enable job seekers to improve their skill sets and build social networks with potential employers and colleagues. However, many of these tools cater to higher-educated and relatively affluent job seekers. Research suggests that underrepresented job seekers face challenges associated with articulating their skill sets and understanding those skills’ transferability across jobs and might prefer employment tools to address these types of challenges over others. Because such articulation is vital in today’s job market, we designed, developed, and evaluated SkillsIdentifier, a tool to assist job seekers in identifying their current skill set. We evaluated the tool with 20 U.S. job seekers and found that it helped to enhance their career identity and self-efficacy. We contribute the empirical results of our evaluation and design implications for supporting these constructs among underrepresented job seekers."
+      authors: "Dillahunt, T. R. and Hsiao, J. C.-Y. (2021)"
+      mainlink: Dillahunt_HICSS21
+      resources:
+      - type: pdf
+        link: Dillahunt_HICSS21
+
+    - name: "Positive Feedback and Self-reflection: Features to Support Self-efficacy among Underrepresented Job Seekers"
+      pic: Dillahunt_CHI20_thumb
+      abstract: "Technologies play a key role in finding employment in today's job market. However, the majority of those who are unemployed, e.g., individuals who have limited education or who are racial and ethnic minorities, are not well supported by existing digital employment tools. Therefore, we conducted an 8-month randomized field experiment to evaluate two tools — Review-Me and Interview4 — designed to address these job seekers' key employment needs. We used the Theory of Planned Behavior to examine the tools effects on three fac- tors influencing job seekers' job search intention: job search self-efficacy, subjective norms, and job search attitudes. Our interview data suggested that the tools positively affected all factors, but our survey results were mixed. Interview results suggest that these trends were caused by positive feedback and self-reflection. We contribute ways to integrate these two features into future tools for, and techniques to increase study retention among, underrepresented job seekers."
+      authors: "Dillahunt., T. R. and Hsiao, J. C.-Y. (2020)"
+      mainlink: Dillahunt_CHI20
+      resources:
+      - type: pdf
+        link: Dillahunt_CHI20
+
+    - name: "Reaching Hard-To-Reach Populations: An Analysis of Survey Recruitment Methods"
+      pic: Xu_CSCWposter19_thumb
+      abstract: "This work examined the survey distribution methods used in a past study. The goal was to identify the most effective methods to reach marginalized voices to participate in technological research and thus, create more inclusive technologies. Initial analyses identified in-person onsite recruitment as one of the better methods for reaching hard-to-reach populations compared to M-Turk, social media, newsletters, mail, and text messages. Our results call for continued efforts to use more inclusive research methods in the field of HCI."
+      authors: "Xu, X., Yan, X., and Dillahunt., T. R. (2019)"
+      mainlink: Xu_CSCWposter19
+      resources:
+      - type: pdf
+        link: Xu_CSCWposter19
+
+    - name: 'DreamGigs: Designing a Tool to Empower Low-resource Job Seekers'
+      pic: Dillahunt_CHI19b_thumb
+      abstract: "Technology allows us to scale the number of jobs we search for and apply to, train for work, and earn money online. However, these technologies do not beneft all job seekers equally and must be designed to better support the needs of underserved job seekers. Research suggests that underserved job seekers prefer employment technologies that can support them in articulating their skills and experiences and in identifying pathways to achieve their career goals. Therefore, we present the design, implementation, and evaluation of DreamGigs, a tool that identifes the skills job seekers need to reach their dream jobs and presents volunteer and employment opportunities for them to acquire those skills. Our evaluation results show that DreamGigs aids in the process of personal empowerment. We contribute design implications for mitigating aspects of powerlessness that low-resource job seekers experience and discuss ways to promote action-taking in these job seekers."
+      authors: "Dillahunt, T. R. and Lu, A. (2019)"
+      mainlink: Dillahunt_CHI19b
+      resources:
+      - type: pdf
+        link: Dillahunt_CHI19b
+
+    - name: 'Towards an Effective Digital Literacy Intervention to Assist Returning Citizens with Job Search'
+      pic: OgbonnayaOgburu_CHI19_thumb
+      abstract: "Returning citizens (formerly incarcerated individuals) face great challenges fnding employment, and these are exacer- bated by the need for digital literacy in modern job search. Through 23 semi-structured interviews and a pilot digital literacy course with returning citizens in the Greater Detroit area, we explore tactics and needs with respect to job search and digital technology. Returning citizens exhibit great diversity, but overall, we fnd our participants to have striking gaps in digital liter- acy upon release, even as they are quickly introduced to smartphones by friends and family. They tend to have em- ployable skills and ability to use ofine social networks to fnd opportunities, but have little understanding of formal job search processes, online or ofine. They mostly mirror mainstream use of mobile technology, but they have various reasons to avoid social media. These and other fndings lead to recommendations for digital literacy programs for returning citizens."
+      authors: "Ogbonnaya-Ogburu, I. F., Toyaman, K., and Dillahunt, T. R. (2019)"
+      mainlink: OgbonnayaOgburu_CHI19
+      resources:
+      - type: pdf
+        link: OgbonnayaOgburu_CHI19
+
+
+
+    - name: 'DreamGigs: A "Stepping Stone" for Low-resource Job Seekers to Reach Their Ideal Job'
+      pic: Lu_CSCWEA18_thumb
+      abstract: "Digital employment tools ought to support job seekers in developing viable career paths while preparing them with necessary skills for employment. This is particularly important for job seekers who are not highly educated and lack access to resources such as career counseling. We designed, implemented, and conducted a preliminary evaluation of a prototype — DreamGigs, a tool to help job seekers understand the career-related skills they would need to obtain to reach their ''dream'' job or gig. Our preliminary results suggest that DreamGigs helps job seekers understand what skills employers need, identify potential pathways towards their career goals, and access opportunities to gain the skills needed to achieve their goals. We contribute the design of this tool, our implementation, and the results of our initial evaluation with low-resource job seekers."
+      authors: "Lu, A., Lam, J., and Dillahunt, T. R. (2018)"
+      mainlink: Lu_CSCWEA18
+      resources:
+      - type: pdf
+        link: Lu_CSCWEA18
+
+    - name: "Designing Future Employment Applications for Underserved Job Seekers: A Speed Dating Study"
+      pic: Dillahunt_DIS18_thumb
+      abstract: "Modern Information and Communication Technologies (ICTs) support job searches, resume creation, career development, and professional self-presentation. However, these technology tools are often tailored to high-income, highly educated users and white-collar professionals. It is unclear what interventions address the needs of job seekers who have limited resources or education, or who may be underserved in other ways. We gathered insights from the literature and generated ten tangible design concepts to address the needs of underserved job seekers. We then conducted a needs validation and speed dating study to understand which concepts were most viable among our population. We found that the three most preferred concepts immediately addressed job seekers' social and personal needs, where addressing social needs meant mediating job seekers' connections to others and supporting job seekers' limited access to strong ties."
+      authors: "*Honorable Mention* | Dillahunt, T. R., Lam, J., Lu, A., and Wheeler, E. (2018)"
+      mainlink: Dillahunt_DIS18
+      resources:
+      - type: pdf
+        link: Dillahunt_DIS18
+
+
+    - name: "Navigating the Job Search as a Low-Resourced Job Seeker"
+      pic: Wheeler_CHI18_thumb
+      abstract: "The Internet is providing increasing access to information about employment opportunities, but not everyone can leverage it effectively. Research suggests that job seekers with limited access to Internet technologies are being left behind, while those with limited social resources are expected to rely on the Internet even more. In this work, we conducted in-depth semi-structured interviews with 11 low-resourced job seekers in a metropolitan area in the Midwestern United States to understand how social and digital resources support their efforts to find work. We find that online resources support job seekers in finding relevant jobs via search, but do not help them identify opportunities to improve their job search process or increase their chances of securing employment. We recommend that systems aiming to support low-resourced job seekers design for deeper engagement with their users across the job search process, to help users recognize ways to improve on their existing practices."
+      authors: "Wheeler, E., and Dillahunt, T. R. (2018)"
+      mainlink: Wheeler_CHI18
+      resources:
+      - type: pdf
+        link: Wheeler_CHI18
+
+
+    - name: "Technology for Underserved Communities"
+      pic: Dillahunt_RFP17_thumb
+      abstract: "This installment of Research for Practice provides curated reading guides to technology for underserved communities and to new developments in personal fabrication. First, Tawanna Dillahunt describes design considerations and technology for underserved and impoverished communities. Designing for the more than 1.6 billion impoverished individuals worldwide requires special consideration of community needs, constraints, and context. Tawanna's selections span protocols for poor-quality communication networks, community-driven content generation, and resource and public service discovery. Second, Stefanie Mueller and Patrick Baudisch provide an overview of recent advances in personal fabrication (e.g., 3D printers). Their selection covers new techniques for fabricating (and emulating) complex materials (e.g., by manipulating the internal structure of an object), for more easily specifying object shape and behavior, and for human-in-the-loop rapid prototyping. Combined, these two guides provide a fascinating deep dive into some of the latest human-centric computer science research results."
+      authors: "Dillahunt, T. R. (2017)"
+      mainlink: Dillahunt_RFP17
+      resources:
+      - type: pdf
+        link: Dillahunt_RFP17
+
+
+    - name: "Designing for Disadvantaged Job Seekers: Insights from Early Investigations"
+      pic: Dillahunt_DIS16_thumb
+      abstract: "The Internet plays a pervasive role in job search and employment, especially for professionals and for those who are highly qualified. While job seekers from all occupational groups and employment status rely on aspects of the Internet for employment, past research suggests that disadvantaged job seekers are being ‘left behind’ and will continue to be left behind as the Internet takes on a more eminent role in the employment process. To mitigate this outcome, we extended prior literature and took a user-centered design approach to design and implement a web-based employment application that provides job seekers with resume feedback from local volunteers. We piloted our application to understand: 1) the context and circumstances of our application’s shortcomings and 2) UX principles that address these shortcomings. We extend employment research that aims to alleviate the negative effects of technological advancement on disadvantaged job seekers."
+      authors: "Dillahunt, T. R., Bose, N., Diwan, S., and Chen-Phang, A. (2016)"
+      mainlink: Dillahunt_DIS16
+      resources:
+      - type: pdf
+        link: Dillahunt_DIS16
+
+
+    - name: "Jobs Near Me: Aggregating Jobs for Unemployed Populations"
+      pic: Jobs_Near_Me1-thumb
+      abstract: "Social networking tools and online markets tend to target highly educated and highly paid professionals who are likely to be employed or have a professional background (e.g., CareerBuilder, LinkedIn, Amazon Mechanical Turk).  Past research suggests that very few of these applications target or provide opportunities for populations that may be unemployed, or who have limited education. The goal of this project was to better understand how these applications could be better suited for unemployed populations. After conducting a brief review of related HCI and sociology literatures we conducted a survey and competitive analysis of employment-related applications available today. Next, we conducted an analysis of user ratings and comments of these applications, and a one-hour usability test of Snagajob and Indeed, two of the most popular employment applications on the Android App Store. Initial findings suggest that though users find employment applications helpful, they would benefit from additional features such as the ability to upload an existing resume or CV to their profiles, filter options when searching for jobs, and alerts about the application process after applications have been submitted. Our participants faced challenges while using employment applications such as an inability to create strong profiles, irrelevant search options and failure to know if employers actually received their applications, which suggested application unreliability. <br><br> This project was presented at the Michigan UROP symposium in April 2015."
+      authors: "Patterson, H., Kaur, J., Dillahunt, T. R. (2015)"
+      mainlink: UROP_Poster_HP
+      resources:
+      - type: pdf
+        link: UROP_Poster_HP
+
+
+    - name: "Increasing Sociotechnical Capital with Crowd-sourced Career Advice"
+      pic: employment-thumb
+      abstract: "Despite the passing of the economic recession of 2008, many people are still unable to find stable jobs. The goal of this project is to help to address this problem by providing easy access to individuals for access to employment resources such as resume and interview feedback. We explore both Crowd-sourcing and Friend-sourcing as mechanisms to address these issues. <br><br>This project was presented at the Michigan UROP symposium in April 2015."
+      authors: "Ghandikota, I., Kaur, J., Dillahunt, T. R. (2015)"
+      mainlink: UROP_Poster_IG
+      resources:
+      - type: pdf
+        link: UROP_Poster_IG
+
+
+    - name: "Fostering Social Capital in Economically Distressed Communities"
+      pic: Dillahunt_905_thumb
+      abstract: "Past Information and Communication Technology (ICT) literature suggests that engaging in meaningful activities with ICTs may be related to socio-economic security, social inclusion, empowerment, and increased social capital. However, we identify a pervasive lack of understanding in existing literature, which raises an important research question: how can we build social capital where little social capital exists? We conducted a preliminary study to explore whether and if so, how, individuals in an economically distressed population with limited social capital use technologies to increase social capital and achieve socioeconomic security. We contribute details about barriers affecting social capital (e.g., difficulties finding and making the right connections and an overall lack of trust within communities). We also suggest ways in which ICTs can assist populations that could benefit most from increased social capital and economic security."
+      authors: "Dillahunt, T. R. (2014)"
+      mainlink: Dillahunt_905
+      resources:
+      - type: pdf
+        link: Dillahunt_905
+      - type: video
+        link: https://www.youtube.com/watch?v=Sul8liZtBqc
+
+
+### Papers related to the sharing economy, transportation, economic mobility, etc. ###
+- subproject: "The Sharing Economy and Economic Mobility"
+  description: "With the rise of the sharing economy in the broader computing literature and in the human-computer interaction (HCI) literature more specifically, it is important to understand how these services are used among underserved groups. Our research explores the feasibility and use of these services among low-SES groups."
+  papers:
+
+    - name: "Eliciting Alternative Economic Futures with Working-Class Detroiters: Centering Afrofuturism in Speculative Design"
+      pic: dilhaunt_ACMDIS23_thumb
+      abstract: "Economic crises such as the global recession and financial crisis of 2007 and 2008 and the Coronavirus disease (COVID-19) pandemic, have elevated new forms of economic cooperation. Supporting ef- forts in finding alternatives to capitalism requires understanding the role of design in imagining alternative economic futures and reaching those most harmed by current capitalistic models. Through a collaboration between a community organization in Detroit and a team of university researchers, we hosted and facilitated a five- week workshop series with Black and Brown working-class Detroi- ters where they collectively imagined alternative economic futures using speculative design. They proposed Community Capitalism, Childcare Collectives, and Village-Based Childcare as alternative economy concepts from the workshops and described their unique characteristics and traits of love, care, and inclusion. Aligning with generative justice frameworks, Detroiters prioritized sustainable families and communities. We contribute an understanding of tech- nology’s role in the imagined economic futures, a discussion of what this means for community-involved governance, and a push for centering Afrofuturism in speculative design approaches to foster futures literacy."
+      authors: "Dillahunt, T.R., Lu, A.J.,Velazquez, J."
+      mainlink: dilhaunt_ACMDIS23
+      resources:
+      - type: pdf
+        link: dilhaunt_ACMDIS23
+
+    - name: "`A Library of People’: Online Resource-Seeking in Low-Income Communities"
+      pic: Israni_PACMHCI21_thumb
+      abstract: "Social media platforms provide access to informational and emotional resources that can enable low-income populations to further their socioeconomic mobility and cope with unexpected life demands. However, lack of both interpersonal trust and a sense of shared identity often prevent low-income individuals from eliciting resources from the diverse networks embedded in these platforms. Building on past research, we investigated factors that facilitated and deterred low-income members of the community-based non-profit organization Family Independence Initiative (FII) from seeking informational and emotional support from other members on the organization's social media platform, UpTogether. We found that despite participants' perceived shared identity, members primarily requested resources from other UpTogether members through offline interactions due to lack of interpersonal trust. We extend existing research on the limitations of shared identity and the role of interpersonal trust and social norms in facilitating resource-seeking interactions among strangers in low-income contexts. We suggest that social media platforms incorporate pseudonymous posting to facilitate relationship development and allow users to disclose their needs without revealing identifying information."
+      authors: "Israni, A., Ellison, N. B., Dillahunt, T. R. (2021)"
+      mainlink: Israni_PACMHCI21
+      resources:
+      - type: pdf
+        link: Israni_PACMHCI21
+
+    - name: "Delivery Work and the Experience of Social Isolation"
+      pic: Seetharaman_PACMHCI21_thumb
+      abstract: "The isolating nature of platform-based work, particularly gig work involving deliveries, has created unintended consequences over how workers engage with peers, friends, family, and society in general. We performed a qualitative study involving interviews with 21 delivery workers in Bangalore, India to understand how workers experienced and responded to social isolation perpetuated by the nature and daily function of their work. We found that the stigma and individual nature of app-based delivery work restricts access to inter-relational and instrumental support. As a response, workers organized peer networks for both companionship and emergency assistance. We analyze how the cultural context of India heightens these experiences, and offer ideas for mitigating the risks of isolation as a result of gig work."
+      authors: "Seetharaman, B., Pal, J., and Hui., J. (2021)"
+      mainlink: Seetharaman_PACMHCI21
+      resources:
+      - type: pdf
+        link: Seetharaman_PACMHCI21
+
+
+
+    - name: "Mobility-on-demand versus fixed-route transit systems: an evaluation of traveler preferences in low-income communities"
+      pic: Yan_TRPA21_thumb
+      abstract: "Emerging transportation technologies such as ridesourcing services (i.e. Uber, Lyft, and Via) are disrupting the transportation sector and transforming public transit. Some transit observers envision future public transit to be integrated systems with fixed-route services running along major corridors and ridesourcing servicing lower-density areas. A switch from a conventional fixed-route service model to this kind of integrated Mobility-on-Demand (MOD) transit system, however, may elicit varied responses from residents. This paper evaluates traveler preferences for a proposed integrated MOD transit system versus the existing fixed-route system, with a particular focus on disadvantaged travelers. We conducted a survey in two low-income localities, namely, Detroit and Ypsilanti, Michigan. A majority of survey respondents preferred a MOD transit system over a fixed-route one. Results of ordered logit models revealed a stronger preference for MOD transit among males, college graduates, and individuals who currently receive inferior transit services and have used Uber/Lyft before. By contrast, preferences varied little by age, income, race, or disability status. Survey results further imply that low technology self-efficacy can be a more serious barrier for many people to adopt MOD transit than lacking access to bank accounts, smartphones, or the internet. The most important benefit of MOD transit perceived by re- spondents is enhanced accessibility to destinations, whereas their major concerns include the need to actively request rides, possible transit-fare increases, and potential technological failures. Addressing the concerns of female riders and accommodating the needs of less technology- proficient individuals should be priorities for transit agencies that are considering MOD initiatives."
+      authors: "Yan, X., Zhao, X., Han, Y., Van Hentenryck, P., and Dillahunt, T. R. (2021)"
+      mainlink: Yan_TRPA21
+      resources:
+      - type: pdf
+        link: Yan_TRPA21
+
+
+
+    - name: "Watched, but Moving: Platformization of Beauty Work and Its Gendered Mechanisms of Control"
+      pic: Anwar_PACMHCI20_thumb
+      abstract: "Women gig workers face unique challenges in on-demand platforms as gendered aspects of class, caste, and labor participation intersect with moments of control experienced on the job. Through in-depth interviews with 19 beauty workers on on-demand home service platforms, we explore how the platformization of informal beauty work in India has ruptured dominant socio-cultural structures of control that have traditionally shaped women’s mobility and access to work. This paper maps the ways in which women beauty gig workers experience and are impacted by algorithmic and bureaucratic management practices prevalent in the gig economy, in the context of home service platforms in Bangalore. We find that platform control impacts lives in myriad ways, beyond the conditions of work. Women workers negotiate their identities and sense of agency through the visibility afforded by platform control mechanisms. Yet, despite these subversions, being on a platform does not fundamentally change the socio-cultural logic that restricts women’s lives in India. These mechanisms work to entrench power asymmetries between customers and workers, as well as maintain them between the platform and the worker."
+      authors: "Anwar, I. A., Pal, J., and Hui, J. (2020)"
+      mainlink: Anwar_PACMHCI20
+      resources:
+      - type: pdf
+        link: Anwar_PACMHCI20
+
+
+
+    - name: "Does Driving as a Form of “Gig Work” Mitigate Low-Skilled Job Seekers’ Negative Long-Term Unemployment Effects?"
+      pic: Li_PACMHCI19_thumb
+      abstract: "About 20% of the U.S. unemployed population has been out of the labor force for more than 6 months. The rise of the gig economy has changed the landscape of nontraditional employment opportunities for these predominantly low-skilled long-term unemployed workers. This particular type of on-demand work can be used to fill unemployment gaps and offers little to no training costs and flexible hours. Therefore, we explore whether driving as a form of gig work helps to mitigate the negative effects of long-term unemployment for low-skilled job seekers with employment gaps, and how employers evaluate workers who have held non-traditional jobs. Using a correspondence audit study with 1006 job applications, we evaluated whether a set of resumes “enhanced” with experience driving for a real-time ridesharing service received more callbacks than baseline resumes with an employment gap. We found no evidence that driving as a form of gig work increased the callback rates of applicants. In fact, we observed that in comparison to men, the callback rates for women slightly declined. Our study suggests that driving ‘gigs’ might not be a substitute for traditional employment on resumes for low-skilled workers. We contribute a call to CSCW to investigate methods that help to understand why real-time ridesharing services do not substitute for traditional jobs in bridging employment gaps and solutions on how to overcome it. Finally, we reflect on our use of audit studies in the new digital era and present potential CSCW and HCI contributions using this method."
+      authors: "Li, L., Dillahunt, T. R., and Rosenblat, T. (2019)"
+      mainlink: Li_PACMHCI19
+      resources:
+      - type: pdf
+        link: Li_PACMHCI19
+
+    - name: "An alternative to slow transit, drunk driving, and walking in bad weather: An exploratory study of resourcing mode choice and demand"
+      pic: Goodspeed_JTG19_thumb
+      abstract: "Companies providing ridesourcing, or the use of mobile phone apps to request rides from drivers of privatelyowned vehicles, have expanded rapidly in many cities in recent years. To shed light on this phenomenon, this paper reports an exploratory study of ridesourcing trip patterns and mode choice in Washtenaw County, Michigan, USA, which obtained a convenience sample of 167 respondents (reporting 192 trips) via geographically targeted online and offline ads. Consistent with previous empirical studies, ridesharing users are younger and a greater percentage are female than the the general public, and most trips occur in a small number of high density block groups. When asked what other options were available for ridesourcing trips, respondents reported transit (63%), private vehicles (32%), walking (32%) and bicycling (18%). Specific reasons for choosing ridesourcing instead of these options included the frequency of transit, alcohol use for driving, and weather and distance for walking and biking. A multivariate analysis found variables related to greater ridesourcing use for a block group included job density, jobs-housing balance, bar and restaurant density, and presence of households without vehicles. The paper demonstrates the potential of survey data to generate greater geographic insights into ridesourcing use, as well as the potential for extending established travel-behavior research approaches to ridesourcing"
+      authors: "Goodspeed, R., Xie, T., Dillahunt, T. R., Lustig, J. (2019)"
+      mainlink: Goodspeed_JTG19
+      resources:
+      - type: pdf
+        link: Goodspeed_JTG19
+
+    - name: "Mobility-on-Demand Versus Fixed-Route Transit Systems: An Evaluation of Traveler Preferences in Low-income Communities"
+      pic: Yan_arXiv19_thumb
+      abstract: "Emerging transportation technologies, such as ride-hailing and autonomous vehicles, are disrupting the transportation sector and transforming public transit. Some transit observers envision future public transit to be integrated transit systems with fixed-route services running along major corridors and on-demand ridesharing services covering lower-density areas. A switch from a conventional fixed-route service model to this kind of integrated mobility-on-demand transit system, however, may elicit varied responses from local residents. This paper evaluates traveler preferences for a proposed integrated mobility-on-demand transit system versus the existing fixed-route system, with a particular focus on disadvantaged travelers. We conducted a survey in two low-resource communities in the United States, namely, Detroit and Ypsilanti, Michigan. A majority of survey respondents preferred a mobility-on-demand transit system over a fixed-route one. Based on ordered logit model outputs, we found a stronger preference for mobility-on-demand transit among males, college graduates, individuals who have never heard of or used ride-hailing before, and individuals who currently receive inferior transit services. By contrast, preferences varied little by age, income, race, or disability status. The most important benefit of a mobility-on-demand transit system perceived by the survey respondents is enhanced transit accessibility to different destinations, whereas their major concerns include the need to actively request rides, possible transit-fare increases, and potential technological failures. Addressing the concerns of female riders and accommodating the needs of less technology-proficient individuals should be major priorities for transit agencies that are considering mobility-on-demand initiatives."
+      authors: "Yan, X., Zhao, X., Han, Y., Van Hentenryck, P., and Dillahunt, T. R. (2019)"
+      mainlink: Yan_arXiv19
+      resources:
+      - type: pdf
+        link: Yan_arXiv19
+
+    - name: "Mobility-on-Demand Versus Fixed-Route Transit Systems: An Evaluation of Traveler Preferences in Low-income Communities"
+      pic: Dillahunt_PovSol19_thumb
+      abstract: "
+Transportation innovations such as ride-hailing and autonomous vehicles are transforming public transit and disrupting the transportation sector. This presents opportunities to integrate these new ridesharing services with fixed-route public transit services that run along major corridors. This integration brings the promise of affordable and convenient public transit services to areas that were previously unreachable, which could lead to significant benefits for people in disadvantaged communities. These benefits include enhanced “last-mile” access to transit services (less walking to transit stops), a known deterrent to public transit use, and reduced wait time and total travel times. Additional benefits include access to employment opportunities, reduced greenhouse emissions, and increased access to healthcare, and healthy food. However, it is unclear how local travelers, particularly those who are disadvantaged in some way, would respond to a shift from a conventional fixed-route service model to an integrated mobility-on-demand transit system; this policy brief reports initial insights to answer this question."
+      authors: "Dillahunt, T. R. and Yan, X. (2019)"
+      mainlink: Dillahunt_PovSol19
+      resources:
+      - type: pdf
+        link: Dillahunt_PovSol19
+
+
+    - name: "Getting There: Barriers and Facilitators to Transportation Access in Underserved Communities"
+      pic: Dillahunt_TOCHI18_thumb
+      abstract: "Advances in Information and Communication Technologies (ICTs) offer new opportunities for addressing transportation needs; however, past research suggests that opportunities are not equally shared by millions of low-income Americans. We draw from four empirical studies and two case studies to contribute descriptions of the 11 everyday transportation models currently used by residents of low-income and underserved communities to enhance their access to health-enhancing resources. These models fell into personal, private, public, and interpersonal categories. We contribute insights regarding the following barriers and facilitators associated with these models: (1) affordability; (2) individual capabilities; (3) interpersonal trust, care and/or reciprocity; (4) trust in technology; (5) service availability/eligibility; (6) spatial and temporal matches; (7) match between transportation mode and physical needs; (8) service reliability and quality; and (9) infrastructure access. To address these barriers and build on these facilitators, we contribute six supportive policy and design principles. Operationalizing these principles, we propose four new ICT-enhanced models: (1) smart jitneys; (2) generalized, favor-based models; (3) expanded resource pooling; and (4) transportation clubs. The focus of these models on socio-technical integration with current capabilities and resources holds promise for enhancing access to jobs, food, and health care for residents of low-income communities."
+      authors: "Dillahunt, T. R. and Veinot, T. C. (2018)"
+      mainlink: Dillahunt_TOCHI18
+      resources:
+      - type: pdf
+        link: Dillahunt_TOCHI18
+
+
+    - name: "The Role of Demographics, Trust, Computer Self-efficacy, and Ease of Use in the Sharing Economy"
+      pic: Hsiao_COMPASS18_thumb
+      abstract: "The digital sharing economy has introduced opportunities for economic growth, productivity, and technological innovation. However, the adoption of sharing economy applications may be inaccessible to certain demographics, including older adults, low-income adults, and individuals who are not college educated. This research investigates how the demographic factors: trust, computer self-efficacy, and perceived ease of use, impact participation in the sharing economy. Drawing on survey data with 508 participants, we found that trust in institutions, computer self-efficacy, and perceived ease of use positively correlate to individuals' past use of and willingness to pay for future sharing economy services, but age is negatively correlated. Surprisingly, we do not find that sharing economy users are more likely to have higher trust in strangers, higher incomes, or more education. We compare our findings to existing research, discuss why institutional trust might negate other concerns about sharing economy use, and explore opportunities to support broader participation in the sharing economy."
+      authors: "Hsiao, J. C.-Y., Moser, C., Schoenebeck, S., and Dillahunt, T. R. (2018)"
+      mainlink: Hsiao_COMPASS18
+      resources:
+      - type: pdf
+        link: Hsiao_COMPASS18
+
+
+    - name: "Support for Social and Cultural Capital Development in Real-time Ridesharing Services"
+      pic: Kameswaran_CHI18_thumb
+      abstract: "Today’s transportation systems and technologies have the potential to transform the ways individuals acquire resources from their social networks and environments. However, it is unclear what types of resources can be acquired and how technology could support these efforts. We address this gap by investigating these questions in the domain of real-time ridesharing systems. We present insights from two qualitative studies: (1) a set of semi-structured interviews with 13 Uber drivers and (2) a set of semi-structured interviews with 13 Uber riders. Our results show that both drivers and riders acquired and benefited from informational, emotional and instrumental resources, as well as cultural exchanges via interactions with each other and with online platforms. We argue that these interactions could support the development of social and cultural capital. We discuss our findings in the context of labor and contribute design implications for in-car social and cultural experiences and for the ways technologies such as GPS and location-based services can support the additional emotional, social, and cultural labor that drivers provide to their riders."
+      authors: "Kameswaran, V., Cameron, L., and Dillahunt, T. R. (2018)"
+      mainlink: Kameswaran_CHI18
+      resources:
+      - type: pdf
+        link: Kameswaran_CHI18
+
+
+
+    - name: "The Sharing Economy in Computing: A Systematic Literature Review"
+      pic: Dillahunt_CSCW18_thumb
+      abstract: "The sharing economy has quickly become a very prominent subject of research in the broader computing literature and in the human–computer interaction (HCI) literature more speci cally. When other computing research areas have experienced similarly rapid growth (e.g., human computation, eco-feedback technology), early stage literature reviews have proved useful and in uential by identifying trends and gaps in the literature of interest and by providing key directions for short- and long-term future work. In this paper, we seek to provide the same bene ts with respect to computing research on the sharing economy. Speci cally, following the suggested approach of prior computing literature reviews, we conducted a systematic review of sharing economy articles published in the Association for Computing Machinery Digital Library to investigate the state of sharing economy research in computing. We performed this review with two simultaneous foci: a broad focus toward the computing literature more generally and a narrow focus speci cally on HCI literature. We collected a total of 112 sharing economy articles published between 2008 and 2017 and through our analysis of these papers, we make two core contributions: (1) an understanding of the computing community’s contributions to our knowledge about the sharing economy, and speci cally the role of the HCI community in these contributions (i.e., what has been done) and (2) a discussion of under-explored and unexplored aspects of the sharing economy that can serve as a partial research agenda moving forward (i.e. what is next to do)."
+      authors: "Dillahunt, T. R., Wang, X., Wheeler, E., Cheng, H. F., Hecht, B., and Zhu, H. (2017)"
+      mainlink: Dillahunt_CSCW18
+      resources:
+      - type: pdf
+        link: Dillahunt_CSCW18
+
+
+    - name: "Uncovering the Values and Constraints of Real-time Ridesharing for Low-resource Populations"
+      pic: Dillahunt_CHI17_thumb
+      abstract: "Real-time ridesharing services (e.g., Uber and Lyft) are often touted as sharing-economy leaders and dramatically lower the cost of transportation. However, how to make these services work better among low-income and transportation-scarce households, how these individuals experience these services, and whether they encounter barriers in enlisting these services is unknown. To address these questions, we onboarded 13 low-income individuals living in transportation-scarce environments to Uber as passengers. Our participants found these services to be reliable and benefited from rich social interactions with drivers; however, barriers such as cost, limited payment methods, and low digital literacy can make such services infeasible. We contribute platform designs that could lead to increased digital literacy and application transparency. To be more inclusive and to reach critical mass, we suggest that these companies foster belief in commons and community trust by coordinating with local businesses in low-resource areas with lower digital literacy."
+      authors: "Dillahunt, T. R., Kameswaran, V., Li, L., and Rosenblat, T. (2017)"
+      mainlink: Dillahunt_CHI17
+      resources:
+      - type: pdf
+        link: Dillahunt_CHI17
+
+    - name: "Project Boost: Addressing the Socio in a Socio-Technical System to Improve Income-Earning Opportunities in Urban America"
+      pic: Dillahunt_CHI16WS_thumb
+      abstract: "“Sharing economy” ventures such as Uber and Airbnb use rhetoric that claims to provide income-earning opportunities for those seeking them. Research to-date, however, suggests that the people who most benefit from these services are those with significant advantages to begin with. In other words, even effective, widely accessible technology isn’t enough to address socio-economic divides on its own. We propose Project Boost, which seeks to document all of the non-technological elements required for citizens of Detroit to benefit from online income opportunities. In particular, we seek to understand what residents who wish to earn income by giving local tours require beyond a website. We have already begun on the project, and at the workshop, we would like to continue planning with our geographically scattered team, and invite others to work with us or attempt similar programs in other cities. <br><br> This project was presented at the CHI 2016 Workshop - Development Consortium 2016: HCI Across Borders"
+      authors: "Kameswaran, V. Marathe, M., Dillahunt, T., Pal, Joyojeet, Reinecke, K., and Toyama, K. (2016)"
+      mainlink: Dillahunt_CHI16WS
+      resources:
+      - type: pdf
+        link: Dillahunt_CHI16WS
+
+
+
+    - name: "Promise of the Sharing Economy among Disadvantaged Communities"
+      pic: pn0389-dillahuntv2_thumb
+      abstract: "The digital-sharing economy presents opportunities for individuals to find temporary employment, generate extra income, increase reciprocity, enhance social interaction, and access resources not otherwise attainable. Although the sharing economy is profitable, little is known about its use among the unemployed or those struggling financially. This paper describes the results of a participatory-design based workshop to investigate the perception and feasibility of finding temporary employment and sharing spare resources using sharing-economy applications. Specifically, this study included 20 individuals seeking employment in a U.S. city suffering economic decline. We identify success factors of the digital-sharing economy to these populations, identify shortcomings and propose mitigation strategies based on prior research related to trust, social capital and theories of collective efficacy. Finally, we contribute new principles that may foster collaborative consumption within this population and identify new concepts for practical employment applications among these populations."
+      authors: "Dillahunt, T. R. and Malone, A. R. (2015)"
+      mainlink: pn0389-dillahuntv2
+      resources:
+      - type: pdf
+        link: pn0389-dillahuntv2
+
+
+
+### Entrepreneurship ###
+- subproject: "Entrepreneurship in Lean Economies"
+  description: "Online technologies are increasingly hailed as enablers of entrepreneurship and income generation. Recent evidence suggests, however, that even the best such tools disproportionately favor those with pre-existing entrepreneurial advantages. Our research explores the use of these tools among those with limited prior entrepreneurial advantages."
+  papers:
+
+    - name: "Community Collectives: Low-tech Social Support for Digitally-Engaged Entrepreneurship"
+      pic: Hui_CHI20_thumb
+      abstract: "With the rise of social media, entrepreneurs are feeling the pressure to adopt digital tools for their work. However, the upfront effort and resources needed to participate on these platforms is ever more complex, particularly in underresourced contexts. Through participatory action research over two years in Detroit’s Eastside, we found that local entrepreneurs preferred to become engaged digitally through a community collective, which involved (a) resource-connecting organizations, (b) regular in-person meetings, (c) paper planning tools, and (d) practice and validation. Together, these elements combined to provide (1) awareness and willingness to use digital tools, (2) regular opportunities to build internet self-efficacy, and (3) ways to collectively overcome digital obstacles. We discuss our findings in the context of digital engagement and entrepreneurship, and outline recommendations for digital platforms seeking to better support economic mobility more broadly."
+      authors: "Hui, J., Barber, N. R., Casey, W., Cleage, S., Dolley, D. C., Worthy, F., Toyama, K., and Dillahunt T. R. (2020)"
+      mainlink: Hui_CHI20
+      resources:
+      - type: pdf
+        link: Hui_CHI20
+
+
+    - name: "Additional Labors of the Entrepreneurial Self"
+      pic: Avle_PACMHCI19_thumb
+      abstract: "Workers are increasingly expected to take on the responsibility and effort of preparing for employment in the new economy, where digital technologies play a central role in bridging access to resources, connections, and opportunity. Drawing from multi-year studies of entrepreneurs in Accra and Detroit, two cities that continue to experience high rates of inequality and persistently low incomes for the majority of their residents, this article highlights three key challenges to self-entrepreneurialization in the digital age: self-upgrading, maintaining technology, and overcoming exclusion. Locating these challenges at the intersection of (1) two powerful global discourses of entrepreneurialism and technology upgrade and (2) class frictions and racial dynamics, this paper uncovers ways in which CSCW might support entrepreneurialism in the new economy, particularly given that it is becoming a de facto space of work and mode of living"
+      authors: "Avle, S., Hui, J., Lindtner, S., and Dillahunt, T. R. (2019)"
+      mainlink: Avle_PACMHCI19
+      resources:
+          - type: pdf
+            link: Avle_PACMHCI19
+
+    - name: "Making a Living My Way: Necessity-driven Entrepreneurship in Resource-Constrained Communities"
+      pic: Hui_PACMHCI18_thumb
+      abstract: "Entrepreneurship has long been used to create self-employment opportunities to guard against career uncertainty. Yet, little is known about how social technologies impact the day-to-day work of entrepreneurs in resource-constrained contexts. We performed a qualitative study involving interviews with 26 microentrepreneurs in Detroit and observations of entrepreneurship events. We found that micro-entrepreneurs in Detroit are often pushed into entrepreneurship in response to unexpected life disruptions, barriers to employment, and desire to benefit the community. Their resource-constrained contexts shape how they use social technologies, such as sharing economy tools and social media groups, particularly with respect to privacy, safety, and professional agency. We expand the discussion in CSCW around what it means to be an entrepreneur and provide implications for how social technologies can be designed to better meet the employment needs of people in resource-constrained communities."
+      authors: "Hui, J., Toyama, K., Pal, J., and Dillahunt, T. R. (2018)"
+      mainlink: Hui_PACMHCI18
+      resources:
+          - type: pdf
+            link: Hui_PACMHCI18
+
+    - name: "Entrepreneurship and the Socio-Technical Chasm in a Lean Economy"
+      pic: Dillahunt_CHI18_thumb
+      abstract: "Online technologies are increasingly hailed as enablers of entrepreneurship and income generation. Recent evidence suggests, however, that even the best such tools disproportionately favor those with pre-existing entrepreneurial advantages. Despite intentions, the technology on its own seems far from addressing socio-economic inequalities. Using participatory action research, we investigated why this might be, in an intimate, close-up context. Over a 1-year period, we— a collaborative team of university researchers and residents of Detroit’s East Side—worked to establish a neighborhood tour whose initial goal was to raise supplementary income and fundraise for community block clubs. We found that in addition to technical requirements, such as communication tools, a range of non-technological efforts is needed to manage projects, build self-efficacy, and otherwise support community participants. Our findings widen Ackerman’s “socio-technical gap” for some contexts and offer a counterpoint to overgeneralized claims about well-designed technologies being able to address certain classes of social challenges."
+      authors: "*Honorable Mention* | Dillahunt, T. R., Kameswaran, V., McLain, D., Lester, M., Orr, D., and Toyama, K. (2018)"
+      mainlink: Dillahunt_CHI18
+      resources:
+          - type: pdf
+            link: Dillahunt_CHI18

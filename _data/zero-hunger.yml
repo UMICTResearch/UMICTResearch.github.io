@@ -1,20 +1,25 @@
 ##Projects for zero hunger
 
+- name: "Understanding Food Planning Strategies of Food Insecure Populations: Implications for Food-Agentic Technologies"
+  pic: dillahunt_CHI23_thumb
+  abstract: "To identify technological opportunities to better support nutrition security and equality among those living in low-socioeconomic situations, we conducted 33 semi-structured interviews and seven in-home visits of lower- to middle-income households from a midsized city in northern Indiana. Inspired by assets-based approaches to public health, we investigated technology’s role in supporting how participants selected and purchased food, planned meals, and worked through logistical barriers to obtain food. Technology helped and health-related insights to address diet and health concerns, and share information. We contribute design implications (e.g., amplifying optimization behaviors and social engagement, leveraging substitutions) in support of food agency. We further contribute three emergent archetypes to convey central shopping tendencies (i.e.,inventory shoppers, menu planners, and adaptive shoppers) and identify corresponding design implications. We situate our results into nutrition decision-making and education, social psychology, food consumer studies, and HCI literature."
+  authors: "Dillahunt, T.R., Sawwan, M., Wood, D., Wimer, B.L., Conrado, A.M., Miller, H.E., Gura, A.Z., and Metoyer, R. (2023)"
+  impact: "| In Proc. of the CHI'23 Conference on Human Factors in Computing Systems |"
+  mainlink: dillahunt_CHI23
+  resources:
+      - type: pdf
+        link: dillahunt_CHI23
+
+
 - name: "Online Grocery Delivery Services: An Opportunity to Address Food Disparities in Transportation-scarce Areas"
   pic: Dillahunt_CHI19a_thumb
   abstract: "
 Online grocery delivery services present new opportunities to address food disparities, especially in underserved areas. However, such services have not been systematically evaluated. This study evaluates such services’ potential to provide healthy-food access and infuence healthy-food purchases among individuals living in transportation-scarce and low-resource areas. We conducted a pilot experiment with 20 participants consisting of a randomly assigned group’s 1-month use of an online grocery delivery service, and a control group’s 1-month collection of grocery receipts, and a set of semi-structured interviews. We found that online grocery delivery services (a) serve as a feasible model to healthy-food access if they are afordable and amenable to multiple payment forms and (b) could lead to healthier selections. We contribute policy recommendations to bolster afordability of healthy-food access and design opportunities to promote healthy foods to support the adoption and use of these services among low-resource and transportation-scarce groups. Health insurance shoppers attempting to find the best health insurance plan for their needs may benefit from reviews of plans left by other consumers; however, these reviews must be fairly detailed in order to be valuable. We posit that an appeal to empathy may motivate consumers to leave more detailed, and thus more valuable, reviews about health insurance plans for future insurance purchasers."
   authors: "*Best Paper* | Dillahunt, T. R., Simioni, S., and Xu, X. (2019)"
+  impact: "| In Proc. of the CHI'19 Conference on Human Factors in Computing Systems |"
   mainlink: Dillahunt_CHI19a
   resources:
       - type: pdf
         link: Dillahunt_CHI19a
 
-- name: "Understanding Food Planning Strategies of Food Insecure Populations: Implications for Food-Agentic Technologies"
-  pic: dillahunt_CHI23_thumb
-  abstract: "To identify technological opportunities to better support nutrition security and equality among those living in low-socioeconomic situations, we conducted 33 semi-structured interviews and seven in-home visits of lower- to middle-income households from a midsized city in northern Indiana. Inspired by assets-based approaches to public health, we investigated technology’s role in supporting how participants selected and purchased food, planned meals, and worked through logistical barriers to obtain food. Technology helped and health-related insights to address diet and health concerns, and share information. We contribute design implications (e.g., amplifying optimization behaviors and social engagement, leveraging substitutions) in support of food agency. We further contribute three emergent archetypes to convey central shopping tendencies (i.e.,inventory shoppers, menu planners, and adaptive shoppers) and identify corresponding design implications. We situate our results into nutrition decision-making and education, social psychology, food consumer studies, and HCI literature."
-  authors: "Dillahunt, T.R., Sawwan, M., Wood, D., Wimer, B.L., Conrado, A.M., Miller, H.E., Gura, A.Z., and Metoyer, R."
-  mainlink: dillahunt_CHI23
-  resources:
-      - type: pdf
-        link: dillahunt_CHI23
+
